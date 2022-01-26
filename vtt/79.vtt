@@ -1,0 +1,376 @@
+WEBVTT
+
+1
+00:00:13.343 --> 00:00:16.253
+This is a work in process.
+[AI] 这是一项正在进行的工作。
+
+2
+00:00:16.277 --> 00:00:20.812
+based on some comments that were made at TED two years ago
+[AI] 根据两年前TED上的一些评论
+
+3
+00:00:20.836 --> 00:00:24.485
+about the need for the storage of vaccine.
+[AI] 关于疫苗储存的必要性。
+
+4
+00:00:24.509 --> 00:00:26.129
+(Video): [On this planet
+[AI] （视频）：[在这个星球上]
+
+5
+00:00:26.153 --> 00:00:28.668
+1.6 billion people
+[AI] 16亿人
+
+6
+00:00:28.692 --> 00:00:30.657
+don't have access to electricity
+[AI] 没有电
+
+7
+00:00:30.681 --> 00:00:34.816
+refrigeration
+[AI] 冷藏
+
+8
+00:00:34.840 --> 00:00:37.457
+or stored fuels
+[AI] 或储存的燃料
+
+9
+00:00:37.820 --> 00:00:41.255
+this is a problem
+[AI] 这是一个问题
+
+10
+00:00:41.279 --> 00:00:43.595
+it impacts:
+[AI] 它影响：
+
+11
+00:00:44.085 --> 00:00:47.307
+the spread of disease
+[AI] 疾病的传播
+
+12
+00:00:47.331 --> 00:00:49.139
+the storage of food and medicine
+[AI] 食品和药品的储存
+
+13
+00:00:49.163 --> 00:00:52.265
+and the quality of life.
+[AI] 以及生活质量。
+
+14
+00:00:53.090 --> 00:00:55.355
+So here's the plan ... inexpensive refrigeration
+[AI] 这就是计划。。。廉价制冷
+
+15
+00:00:55.379 --> 00:00:58.643
+that doesn't use electricity. propane. gas. kerosene or consumables
+[AI] 那不需要电。丙烷。气体煤油或消耗品
+
+16
+00:01:00.819 --> 00:01:03.311
+time for some thermodynamics
+[AI] 是时候学点热力学了
+
+17
+00:01:03.335 --> 00:01:06.057
+And the story of the Intermittent Absorption Refrigerator]
+[AI] 还有间歇性吸收式制冷机的故事]
+
+18
+00:01:06.081 --> 00:01:08.707
+Adam Grosser: So 29 years ago. I had this thermo teacher
+[AI] 亚当·格罗瑟：那么29年前。我有一个老师
+
+19
+00:01:08.731 --> 00:01:11.834
+who talked about absorption and refrigeration. one of those things
+[AI] 他谈到了吸收和制冷。其中之一
+
+20
+00:01:11.858 --> 00:01:14.386
+that stuck in my head. a lot like the Stirling engine:
+[AI] 那件事一直萦绕在我的脑海里。很像斯特林发动机：
+
+21
+00:01:14.410 --> 00:01:16.861
+it was cool. but you didn't know what to do with it.
+[AI] 很酷。但你不知道该怎么办。
+
+22
+00:01:16.885 --> 00:01:19.435
+It was invented in 1858. by this guy Ferdinand Carré.
+[AI] 它是1858年发明的。这是费迪南德·卡雷写的。
+
+23
+00:01:19.459 --> 00:01:21.724
+but he couldn't actually build anything with it
+[AI] 但他不能用它来建造任何东西
+
+24
+00:01:21.748 --> 00:01:23.369
+because of the tools at the time.
+[AI] 因为当时的工具。
+
+25
+00:01:23.393 --> 00:01:27.633
+This crazy Canadian named Powel Crosley commercialized this thing
+[AI] 一个叫鲍威尔·克罗斯利的疯狂加拿大人把这件事商业化了
+
+26
+00:01:27.657 --> 00:01:29.657
+called the IcyBall. in 1928.
+[AI] 称为冰球。1928年。
+
+27
+00:01:29.681 --> 00:01:32.722
+It was a really neat idea. and I'll get to why it didn't work.
+[AI] 这真是个好主意。我会解释为什么它不起作用。
+
+28
+00:01:32.746 --> 00:01:33.920
+but here's how it works.
+[AI] 但这是它的工作原理。
+
+29
+00:01:33.944 --> 00:01:36.520
+There's two spheres and they're separated in distance.
+[AI] 有两个球体，它们在距离上是分开的。
+
+30
+00:01:36.544 --> 00:01:38.900
+One has a working fluid. water and ammonia.
+[AI] 一个有工作液。水和氨。
+
+31
+00:01:38.924 --> 00:01:40.512
+and the other is a condenser.
+[AI] 另一个是冷凝器。
+
+32
+00:01:40.536 --> 00:01:42.501
+You heat up one side. the hot side.
+[AI] 你加热一边。热的一面。
+
+33
+00:01:42.525 --> 00:01:45.544
+The ammonia evaporates and it recondenses in the other side.
+[AI] 氨蒸发后在另一侧再凝结。
+
+34
+00:01:45.568 --> 00:01:48.106
+You let it cool to room temperature.
+[AI] 你让它冷却到室温。
+
+35
+00:01:48.130 --> 00:01:51.293
+and then. as the ammonia reevaporates and combines with the water
+[AI] 然后。当氨重新蒸发并与水结合时
+
+36
+00:01:51.317 --> 00:01:52.920
+back on the erstwhile hot side.
+[AI] 回到从前的热点。
+
+37
+00:01:52.944 --> 00:01:54.798
+it creates a powerful cooling effect.
+[AI] 它产生了强大的冷却效果。
+
+38
+00:01:55.237 --> 00:01:57.654
+So it was a great idea that didn't work at all.
+[AI] 所以这是一个根本不起作用的好主意。
+
+39
+00:01:57.678 --> 00:01:58.872
+They blew up.
+[AI] 他们爆炸了。
+
+40
+00:01:58.896 --> 00:02:00.431
+(Laughter)
+[AI] （众笑）
+
+41
+00:02:00.455 --> 00:02:03.242
+Because you're using ammonia. you get hugely high pressures
+[AI] 因为你用的是氨水。你会感受到巨大的压力
+
+42
+00:02:03.266 --> 00:02:04.533
+if you heated them wrong;
+[AI] 如果你加热错误；
+
+43
+00:02:04.557 --> 00:02:06.312
+it topped 400 psi.
+[AI] 它达到了400磅/平方英寸。
+
+44
+00:02:06.336 --> 00:02:08.476
+The ammonia was toxic. it sprayed everywhere.
+[AI] 氨是有毒的。到处都是。
+
+45
+00:02:08.500 --> 00:02:10.672
+But it was kind of an interesting thought.
+[AI] 但这是一个有趣的想法。
+
+46
+00:02:10.696 --> 00:02:13.128
+So the great thing about 2006.
+[AI] 2006年最棒的事情。
+
+47
+00:02:13.152 --> 00:02:16.007
+there's a lot of really great computational work you can do.
+[AI] 你可以做很多非常棒的计算工作。
+
+48
+00:02:16.031 --> 00:02:20.106
+So we got the whole thermodynamics department at Stanford involved --
+[AI] 所以我们让斯坦福大学的整个热力学系都参与进来了--
+
+49
+00:02:20.130 --> 00:02:21.960
+a lot of computational fluid dynamics.
+[AI] 大量的计算流体力学。
+
+50
+00:02:21.984 --> 00:02:25.919
+We proved that most of the ammonia refrigeration tables are wrong.
+[AI] 我们证明了大多数氨制冷表是错误的。
+
+51
+00:02:25.943 --> 00:02:27.996
+We found some nontoxic refrigerants
+[AI] 我们发现了一些无毒的制冷剂
+
+52
+00:02:28.020 --> 00:02:30.131
+that worked at very low vapor pressures.
+[AI] 在非常低的蒸汽压下工作。
+
+53
+00:02:30.622 --> 00:02:32.311
+We brought in a team from the UK --
+[AI] 我们从英国引进了一支队伍--
+
+54
+00:02:32.335 --> 00:02:35.310
+a lot of great refrigeration people. it turns out. in the UK --
+[AI] 很多很棒的人。事实证明。在英国--
+
+55
+00:02:35.334 --> 00:02:37.614
+and built a test rig. and proved that. in fact.
+[AI] 建造了一个试验台。并证明了这一点。事实上
+
+56
+00:02:37.638 --> 00:02:40.881
+we could make a low-pressure. nontoxic refrigerator.
+[AI] 我们可以制造一个低压。无毒冰箱。
+
+57
+00:02:40.905 --> 00:02:42.253
+So this is the way it works.
+[AI] 这就是它的工作方式。
+
+58
+00:02:42.277 --> 00:02:43.689
+You put it on a cooking fire.
+[AI] 你把它放在炉火上。
+
+59
+00:02:43.713 --> 00:02:45.823
+Most people have cooking fires in the world.
+[AI] 世界上大多数人都有炉火。
+
+60
+00:02:45.847 --> 00:02:47.401
+whether it's camel dung or wood.
+[AI] 不管是骆驼粪还是木头。
+
+61
+00:02:47.425 --> 00:02:50.113
+It heats up for about 30 minutes. cools for an hour.
+[AI] 加热大约30分钟。冷却一小时。
+
+62
+00:02:51.230 --> 00:02:54.909
+You put it into a container and it will refrigerate for 24 hours.
+[AI] 你把它放在一个容器里，它会冷藏24小时。
+
+63
+00:02:54.933 --> 00:02:56.155
+It looks like this.
+[AI] 看起来像这样。
+
+64
+00:02:56.179 --> 00:02:58.996
+This is the fifth prototype. it's not quite done.
+[AI] 这是第五个原型。还没做完。
+
+65
+00:02:59.020 --> 00:03:02.004
+It weighs about eight pounds. and this is the way it works.
+[AI] 它重约八磅。这就是它的工作方式。
+
+66
+00:03:02.028 --> 00:03:05.610
+You put it into a 15-liter vessel. about three gallons.
+[AI] 你把它放进一个15升的容器里。大约三加仑。
+
+67
+00:03:05.634 --> 00:03:08.106
+and it'll cool it down to just above freezing --
+[AI] 它会把温度降到冰点以上--
+
+68
+00:03:08.130 --> 00:03:09.608
+three degrees above freezing --
+[AI] 冰点以上三度--
+
+69
+00:03:09.632 --> 00:03:12.672
+for 24 hours in a 30 degree C environment.
+[AI] 在30摄氏度的环境中持续24小时。
+
+70
+00:03:12.696 --> 00:03:13.883
+It's really cheap.
+[AI] 它真的很便宜。
+
+71
+00:03:13.907 --> 00:03:16.983
+We think we can build these in high volumes for about 25 dollars.
+[AI] 我们认为我们可以用25美元左右的价格大量生产这些产品。
+
+72
+00:03:17.007 --> 00:03:18.738
+in low volumes for about 40 dollars.
+[AI] 以大约40美元的低价出售。
+
+73
+00:03:18.762 --> 00:03:22.232
+And we think we can make refrigeration something that everybody can have.
+[AI] 我们认为我们可以让制冷成为每个人都能拥有的东西。
+
+74
+00:03:22.256 --> 00:03:23.432
+Thank you.
+[AI] 非常感谢。
+
+75
+00:03:23.456 --> 00:03:25.677
+(Applause)
+[AI] （掌声）

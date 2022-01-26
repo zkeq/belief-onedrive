@@ -1,0 +1,1366 @@
+WEBVTT
+
+1
+00:00:13.256 --> 00:00:15.116
+In the movie "Interstellar,"
+在电影《星际穿越》中，
+
+2
+00:00:14.810 --> 00:00:18.421
+we get an up-close look at a supermassive black hole.
+我们得以近距离观察一个超级黑洞。
+
+3
+00:00:18.491 --> 00:00:20.634
+Set against a backdrop of bright gas,
+在明亮气体构成的背景下，
+
+4
+00:00:20.658 --> 00:00:22.776
+the black hole's massive gravitational pull
+黑洞的巨大引力
+
+5
+00:00:22.800 --> 00:00:24.235
+bends light into a ring.
+将光线弯曲成环形。
+
+6
+00:00:24.259 --> 00:00:26.368
+However, this isn't a real photograph,
+但是，（电影中的）这一幕 并不是一张真正的照片，
+
+7
+00:00:26.392 --> 00:00:28.178
+but a computer graphic rendering --
+而是电脑合成的效果——
+
+8
+00:00:28.202 --> 00:00:31.592
+an artistic interpretation of what a black hole might look like.
+它只是一个对于黑洞 可能样子的艺术表现。
+
+9
+00:00:32.221 --> 00:00:33.387
+A hundred years ago,
+一百多年前，
+
+10
+00:00:33.411 --> 00:00:37.012
+Albert Einstein first published his theory of general relativity.
+阿尔伯特·爱因斯坦 第一次发表了广义相对论学说。
+
+11
+00:00:36.906 --> 00:00:38.339
+In the years since then,
+在之后的数年里，
+
+12
+00:00:38.499 --> 00:00:41.472
+scientists have provided a lot of evidence in support of it.
+科学家们又对此提供了许多佐证。
+
+13
+00:00:41.496 --> 00:00:44.580
+But one thing predicted from this theory, black holes,
+但相对论中所预测的一点，黑洞，
+
+14
+00:00:44.604 --> 00:00:46.954
+still have not been directly observed.
+却始终无法被直接观察到。
+
+15
+00:00:46.978 --> 00:00:50.184
+Although we have some idea as to what a black hole might look like,
+尽管我们大致知道一个黑洞 看起来应该是什么样，
+
+16
+00:00:49.868 --> 00:00:52.971
+we've never actually taken a picture of one before.
+却从未真正拍摄过它。
+
+17
+00:00:52.971 --> 00:00:57.274
+However, you might be surprised to know that that may soon change.
+不过，这个现状可能很快就会改变。
+
+18
+00:00:57.314 --> 00:01:01.478
+We may be seeing our first picture of a black hole in the next couple years.
+在接下来几年内，我们或许就能 见到第一张黑洞的图片。
+
+19
+00:01:01.502 --> 00:01:05.460
+Getting this first picture will come down to an international team of scientists,
+这一重任会落在一个由 各国科学家组成的团队上，
+
+20
+00:01:05.484 --> 00:01:07.051
+an Earth-sized telescope
+同时需要一个 地球大小的天文望远镜，
+
+21
+00:01:07.075 --> 00:01:09.907
+and an algorithm that puts together the final picture.
+以及一个可以让我们合成出 最终图片的算法。
+
+22
+00:01:09.931 --> 00:01:13.459
+Although I won't be able to show you a real picture of a black hole today,
+尽管今天我不能让你们 见到真正的黑洞图片，
+
+23
+00:01:13.483 --> 00:01:16.394
+I'd like to give you a brief glimpse into the effort involved
+我还是想让你们大致了解一下
+
+24
+00:01:16.418 --> 00:01:18.031
+in getting that first picture.
+得到第一张（黑洞）图片 所需要的努力。
+
+25
+00:01:19.297 --> 00:01:20.734
+My name is Katie Bouman,
+我叫凯蒂·伯曼，
+
+26
+00:01:20.758 --> 00:01:23.324
+and I'm a PhD student at MIT.
+是麻省理工学院的一名博士生。
+
+27
+00:01:23.348 --> 00:01:25.375
+I do research in a computer science lab
+我在计算机科学实验室中进行
+
+28
+00:01:25.399 --> 00:01:28.697
+that works on making computers see through images and video.
+让电脑解析图片和视频信息的研究。
+
+29
+00:01:28.721 --> 00:01:30.883
+But although I'm not an astronomer,
+尽管我并不是个天文学家，
+
+30
+00:01:30.907 --> 00:01:32.192
+today I'd like to show you
+今天我还是想向大家展示
+
+31
+00:01:31.846 --> 00:01:35.083
+how I've been able to contribute to this exciting project.
+我是怎样在这个项目中贡献 自己的一份力量的。
+
+32
+00:01:35.143 --> 00:01:37.974
+If you go out past the bright city lights tonight,
+如果你远离城市的灯光，
+
+33
+00:01:37.998 --> 00:01:40.434
+you may just be lucky enough to see a stunning view
+你可能有幸看到银河系
+
+34
+00:01:40.458 --> 00:01:41.951
+of the Milky Way Galaxy.
+那令人震撼的美景。
+
+35
+00:01:41.975 --> 00:01:44.437
+And if you could zoom past millions of stars,
+而如果你可以穿过百万星辰， 将镜头放大到
+
+36
+00:01:44.461 --> 00:01:48.216
+26,000 light-years toward the heart of the spiraling Milky Way,
+2.6万光年以外的银河系中心，
+
+37
+00:01:48.240 --> 00:01:51.761
+we'd eventually reach a cluster of stars right at the center.
+我们就能抵达（银河系）中央的 一群恒星。
+
+38
+00:01:51.785 --> 00:01:54.991
+Peering past all the galactic dust with infrared telescopes,
+天文学家们已经穿过星尘，使用红外望远镜
+
+39
+00:01:54.995 --> 00:01:58.866
+astronomers have watched these stars for over 16 years.
+观察了这些恒星整整十六年。
+
+40
+00:01:58.906 --> 00:02:02.495
+But it's what they don't see that is the most spectacular.
+但是天文学家们所看不到的东西 才是最为壮观的。
+
+41
+00:02:02.519 --> 00:02:05.585
+These stars seem to orbit an invisible object.
+这些恒星似乎是在围绕一个 隐形的物体旋转。
+
+42
+00:02:05.609 --> 00:02:07.932
+By tracking the paths of these stars,
+通过观测这些星星的移动路径，
+
+43
+00:02:07.956 --> 00:02:09.250
+astronomers have concluded
+天文学家们得出结论，
+
+44
+00:02:09.274 --> 00:02:12.403
+that the only thing small and heavy enough to cause this motion
+体积足够小，而质量又大到能导致 恒星们如此运动的唯一物体
+
+45
+00:02:12.427 --> 00:02:14.395
+is a supermassive black hole --
+就是超级黑洞——
+
+46
+00:02:14.419 --> 00:02:18.597
+an object so dense that it sucks up anything that ventures too close --
+它的密度极大，高到它能吸进 周围所有东西，
+
+47
+00:02:18.621 --> 00:02:20.115
+even light.
+甚至光。
+
+48
+00:02:20.139 --> 00:02:23.200
+But what happens if we were to zoom in even further?
+那么，如果我们继续放大下去， 会发生什么？
+
+49
+00:02:23.224 --> 00:02:27.957
+Is it possible to see something that, by definition, is impossible to see?
+是不是就可能看见一些， 理论上不可能看到的东西呢？
+
+50
+00:02:28.539 --> 00:02:31.783
+Well, it turns out that if we were to zoom in at radio wavelengths,
+事实上，如果我们以 无线电波长放大，
+
+51
+00:02:31.807 --> 00:02:33.489
+we'd expect to see a ring of light
+我们会看到一圈光线，
+
+52
+00:02:33.513 --> 00:02:35.924
+caused by the gravitational lensing of hot plasma
+是由围绕着黑洞的
+
+53
+00:02:35.948 --> 00:02:37.777
+zipping around the black hole.
+等离子体引力透镜产生的。
+
+54
+00:02:37.801 --> 00:02:38.961
+In other words,
+换句话说，
+
+55
+00:02:38.985 --> 00:02:42.156
+the black hole casts a shadow on this backdrop of bright material,
+这个黑洞，在背后明亮物质的衬托下，
+
+56
+00:02:41.860 --> 00:02:44.006
+carving out a sphere of darkness.
+留下一个圆形的暗影。
+
+57
+00:02:44.046 --> 00:02:47.385
+This bright ring reveals the black hole's event horizon,
+而它周围那明亮的光环 指示了黑洞边境的位置。
+
+58
+00:02:47.409 --> 00:02:49.809
+where the gravitational pull becomes so great
+在这里，引力作用变得无比巨大，
+
+59
+00:02:49.833 --> 00:02:51.459
+that not even light can escape.
+大到就连光线都无法逃离。
+
+60
+00:02:51.483 --> 00:02:54.342
+Einstein's equations predict the size and shape of this ring,
+爱因斯坦用公式推测了 这个环的大小和形状，
+
+61
+00:02:54.366 --> 00:02:57.574
+so taking a picture of it wouldn't only be really cool,
+所以，给光环拍照不仅很酷，
+
+62
+00:02:57.598 --> 00:03:00.216
+it would also help to verify that these equations hold
+还能帮助我们检验这些公式在
+
+63
+00:03:00.240 --> 00:03:02.706
+in the extreme conditions around the black hole.
+黑洞周围的极端环境下是否成立。
+
+64
+00:03:02.730 --> 00:03:05.288
+However, this black hole is so far away from us,
+不过，这个黑洞离我们太过遥远，
+
+65
+00:03:05.312 --> 00:03:08.410
+that from Earth, this ring appears incredibly small --
+从地球上看，它非常，非常小——
+
+66
+00:03:08.434 --> 00:03:12.024
+the same size to us as an orange on the surface of the moon.
+大概就和月球上的一个橘子一样大。
+
+67
+00:03:12.578 --> 00:03:15.402
+That makes taking a picture of it extremely difficult.
+这导致给它拍照变得无比艰难。
+
+68
+00:03:16.465 --> 00:03:17.767
+Why is that?
+为什么呢？
+
+69
+00:03:18.332 --> 00:03:21.520
+Well, it all comes down to a simple equation.
+一切都源于一个简单的等式。
+
+70
+00:03:21.544 --> 00:03:23.960
+Due to a phenomenon called diffraction,
+由于衍射现象，
+
+71
+00:03:23.984 --> 00:03:25.339
+there are fundamental limits
+我们所能看到的
+
+72
+00:03:25.363 --> 00:03:28.033
+to the smallest objects that we can possibly see.
+最小物体是有限制的。
+
+73
+00:03:28.609 --> 00:03:32.281
+This governing equation says that in order to see smaller and smaller,
+这个等式指出，当想要看到的 东西越来越小时，
+
+74
+00:03:32.305 --> 00:03:34.892
+we need to make our telescope bigger and bigger.
+望远镜需要变得更大。
+
+75
+00:03:34.916 --> 00:03:37.985
+But even with the most powerful optical telescopes here on Earth,
+但即使是地球上功能最强大的 光学望远镜，
+
+76
+00:03:37.969 --> 00:03:40.412
+we can't even get close to the resolution necessary
+其分辨率甚至不足以
+
+77
+00:03:40.452 --> 00:03:42.650
+to image on the surface of the moon.
+让我们得到月球表面的图片。
+
+78
+00:03:42.674 --> 00:03:46.291
+In fact, here I show one of the highest resolution images ever taken
+事实上，这里是一张有史以来 从地球上拍摄的最高清的
+
+79
+00:03:46.315 --> 00:03:47.712
+of the moon from Earth.
+月球图片。
+
+80
+00:03:47.736 --> 00:03:50.293
+It contains roughly 13,000 pixels,
+它包含约1.3万个像素，
+
+81
+00:03:50.317 --> 00:03:54.367
+and yet each pixel would contain over 1.5 million oranges.
+而每一个像素里包含超过150万个橘子。
+
+82
+00:03:55.216 --> 00:03:57.188
+So how big of a telescope do we need
+所以，我们需要多大的望远镜
+
+83
+00:03:57.212 --> 00:03:59.977
+in order to see an orange on the surface of the moon
+才能看到月球表面的橘子，
+
+84
+00:04:00.001 --> 00:04:02.215
+and, by extension, our black hole?
+以及，那个黑洞呢？
+
+85
+00:04:02.239 --> 00:04:04.579
+Well, it turns out that by crunching the numbers,
+事实上，通过计算，
+
+86
+00:04:03.975 --> 00:04:06.537
+you can easily calculate that we would need a telescope
+我们可以轻易得出所需的 望远镜的大小，
+
+87
+00:04:06.537 --> 00:04:07.984
+the size of the entire Earth.
+就和整个地球一样大。
+
+88
+00:04:07.984 --> 00:04:08.882
+(Laughter)
+（笑声）
+
+89
+00:04:08.882 --> 00:04:11.065
+If we could build this Earth-sized telescope,
+而如果我们能够建造出这个 地球大小的望远镜，
+
+90
+00:04:11.845 --> 00:04:14.770
+we could just start to make out that distinctive ring of light
+就能够分辨出那指示着视界线的
+
+91
+00:04:13.894 --> 00:04:16.331
+indicative of the black hole's event horizon.
+独特的光环。
+
+92
+00:04:16.331 --> 00:04:19.273
+Although this picture wouldn't contain all the detail we see
+尽管在这张照片上，我们无法看到
+
+93
+00:04:19.943 --> 00:04:21.449
+in computer graphic renderings,
+电脑合成图上的那些细节，
+
+94
+00:04:20.923 --> 00:04:23.406
+it would allow us to safely get our first glimpse
+它仍可以让我们对于
+
+95
+00:04:23.796 --> 00:04:26.283
+of the immediate environment around a black hole.
+黑洞周围的环境有个大致的了解。
+
+96
+00:04:26.307 --> 00:04:27.920
+However, as you can imagine,
+但是，正如你预料，
+
+97
+00:04:27.944 --> 00:04:31.568
+building a single-dish telescope the size of the Earth is impossible.
+想建造一个地球大小的射电望远镜 是不可能的。
+
+98
+00:04:31.592 --> 00:04:33.479
+But in the famous words of Mick Jagger,
+不过，米克·贾格尔有一句名言：
+
+99
+00:04:33.503 --> 00:04:35.294
+"You can't always get what you want,
+“你不可能永远心想事成，
+
+100
+00:04:35.318 --> 00:04:37.505
+but if you try sometimes, you just might find
+但如果你尝试了，说不定就 正好能找到
+
+101
+00:04:37.529 --> 00:04:38.744
+you get what you need."
+你所需要的东西。”
+
+102
+00:04:38.768 --> 00:04:41.232
+And by connecting telescopes from around the world,
+通过将遍布全世界的望远镜 连接起来，
+
+103
+00:04:41.256 --> 00:04:44.794
+an international collaboration called the Event Horizon Telescope
+“视界线望远镜”， 一个国际合作项目，诞生了。
+
+104
+00:04:44.818 --> 00:04:47.927
+is creating a computational telescope the size of the Earth,
+这个项目通过电脑制作一个 地球大小的望远镜，
+
+105
+00:04:47.951 --> 00:04:49.488
+capable of resolving structure
+能够帮助我们找到
+
+106
+00:04:49.512 --> 00:04:51.711
+on the scale of a black hole's event horizon.
+黑洞视界线的结构。
+
+107
+00:04:51.735 --> 00:04:55.122
+This network of telescopes is scheduled to take its very first picture
+这个由无数小望远镜构成的网络 将会在明年拍下它的
+
+108
+00:04:55.146 --> 00:04:56.961
+of a black hole next year.
+第一张黑洞图片。
+
+109
+00:04:56.985 --> 00:05:00.323
+Each telescope in the worldwide network works together.
+在这个网络中，每一个望远镜 都与其他所有望远镜一同工作。
+
+110
+00:05:00.347 --> 00:05:03.059
+Linked through the precise timing of atomic clocks,
+通过原子钟的准确时间相连，
+
+111
+00:05:03.083 --> 00:05:05.740
+teams of researchers at each of the sites freeze light
+各地的研究团队们通过收集
+
+112
+00:05:05.764 --> 00:05:08.726
+by collecting thousands of terabytes of data.
+上万千兆字节的数据来定位光线。
+
+113
+00:05:08.750 --> 00:05:13.767
+This data is then processed in a lab right here in Massachusetts.
+接下来，这份数据会在 麻省的实验室进行处理。
+
+114
+00:05:13.791 --> 00:05:15.585
+So how does this even work?
+那么，这一项目到底是 怎么运作的呢？
+
+115
+00:05:15.609 --> 00:05:19.012
+Remember if we want to see the black hole in the center of our galaxy,
+大家是否记得，如果要看到 银河系中心的那个黑洞，
+
+116
+00:05:18.476 --> 00:05:21.642
+we need to build this impossibly large Earth-sized telescope?
+我们需要一个地球大小的望远镜？
+
+117
+00:05:21.642 --> 00:05:24.258
+For just a second, let's pretend we could build
+现在，先假设我们可以
+
+118
+00:05:24.298 --> 00:05:26.140
+a telescope the size of the Earth.
+将这个望远镜建造出来。
+
+119
+00:05:26.164 --> 00:05:28.619
+This would be a little bit like turning the Earth
+这可能有点像是把地球变成
+
+120
+00:05:27.973 --> 00:05:30.354
+into a giant spinning disco ball.
+一个巨大的球形迪斯科灯。
+
+121
+00:05:30.414 --> 00:05:32.614
+Each individual mirror would collect light
+每一面镜子都会收集光线，
+
+122
+00:05:32.638 --> 00:05:35.235
+that we could then combine together to make a picture.
+然后，我们就可以将这些光线 组合成图片。
+
+123
+00:05:35.259 --> 00:05:37.920
+However, now let's say we remove most of those mirrors
+但是，现在，假设我们将 大多数镜子移走，
+
+124
+00:05:37.944 --> 00:05:39.916
+so only a few remained.
+只有几片留了下来。
+
+125
+00:05:39.940 --> 00:05:42.817
+We could still try to combine this information together,
+我们仍可以尝试将信息合成图片，
+
+126
+00:05:42.841 --> 00:05:44.834
+but now there are a lot of holes.
+但现在，图片中有很多洞。
+
+127
+00:05:44.858 --> 00:05:49.231
+These remaining mirrors represent the locations where we have telescopes.
+这几片留下来的镜子就代表了 地球上的几处天文望远镜。
+
+128
+00:05:49.255 --> 00:05:53.334
+This is an incredibly small number of measurements to make a picture from.
+这对于制成一张图片来说， 还远远不够。
+
+129
+00:05:53.358 --> 00:05:57.196
+But although we only collect light at a few telescope locations,
+不过，尽管我们只在寥寥几处 地方收集光线，
+
+130
+00:05:57.220 --> 00:06:00.643
+as the Earth rotates, we get to see other new measurements.
+每当地球旋转时，我们便可以 得到新的信息。
+
+131
+00:06:00.667 --> 00:06:04.486
+In other words, as the disco ball spins, those mirrors change locations
+换言之，当迪斯科球旋转时， 镜子会改变位置，
+
+132
+00:06:04.510 --> 00:06:07.409
+and we get to observe different parts of the image.
+而我们就可以看到图片的各个部分。
+
+133
+00:06:07.433 --> 00:06:11.451
+The imaging algorithms we develop fill in the missing gaps of the disco ball
+我们开发的生成图片的算法 可以将迪斯科球上的空缺部分填满，
+
+134
+00:06:11.475 --> 00:06:14.508
+in order to reconstruct the underlying black hole image.
+从而建造出隐藏的黑洞图片。
+
+135
+00:06:14.532 --> 00:06:17.168
+If we had telescopes located everywhere on the globe --
+如果我们能在地球上每一处 都装上望远镜，
+
+136
+00:06:16.902 --> 00:06:18.907
+in other words, the entire disco ball --
+或者说能有整个迪斯科球，
+
+137
+00:06:18.907 --> 00:06:20.425
+this would be trivial.
+那么这个算法并不算重要。
+
+138
+00:06:20.465 --> 00:06:23.787
+However, we only see a few samples, and for that reason,
+但现在我们只有少量的样本，
+
+139
+00:06:23.811 --> 00:06:26.199
+there are an infinite number of possible images
+所以，可能有无数张图像
+
+140
+00:06:26.223 --> 00:06:29.187
+that are perfectly consistent with our telescope measurements.
+符合望远镜所测量到的信息。
+
+141
+00:06:29.211 --> 00:06:32.227
+However, not all images are created equal.
+但并不是每一张图片都一样。
+
+142
+00:06:32.669 --> 00:06:37.127
+Some of those images look more like what we think of as images than others.
+有些图片，比其他一些 看起来更像我们想象中的图片。
+
+143
+00:06:37.151 --> 00:06:40.373
+And so, my role in helping to take the first image of a black hole
+所以我在拍摄黑洞 这一项目中的任务是，
+
+144
+00:06:40.397 --> 00:06:43.329
+is to design algorithms that find the most reasonable image
+开发一种既可以找到最合理图像，
+
+145
+00:06:43.353 --> 00:06:45.575
+that also fits the telescope measurements.
+又能使图像符合望远镜 所测量到的信息的算法。
+
+146
+00:06:46.547 --> 00:06:50.489
+Just as a forensic sketch artist uses limited descriptions
+就像法医素描师通过有限的信息，
+
+147
+00:06:50.513 --> 00:06:54.027
+to piece together a picture using their knowledge of face structure,
+结合自己对于人脸结构的认知 画出一张画像一样，
+
+148
+00:06:53.893 --> 00:06:57.350
+the imaging algorithms I develop use our limited telescope data
+我正在开发的图片算法， 是使用望远镜提供的有限数据
+
+149
+00:06:57.390 --> 00:07:01.712
+to guide us to a picture that also looks like stuff in our universe.
+来生成一张看起来像是 宇宙里的东西的图片。
+
+150
+00:07:01.736 --> 00:07:05.387
+Using these algorithms, we're able to piece together pictures
+通过这些算法，我们能从散乱 而充满干扰的数据中
+
+151
+00:07:05.411 --> 00:07:07.591
+from this sparse, noisy data.
+合成一张图片。
+
+152
+00:07:07.615 --> 00:07:12.144
+So here I show a sample reconstruction done using simulated data,
+这里是一个用模拟数据 进行重现的例子：
+
+153
+00:07:12.168 --> 00:07:14.101
+when we pretend to point our telescopes
+我们假设将望远镜指向
+
+154
+00:07:13.965 --> 00:07:16.674
+to the black hole in the center of our galaxy.
+银河系中心的黑洞。
+
+155
+00:07:16.734 --> 00:07:21.189
+Although this is just a simulation, reconstruction such as this give us hope
+尽管这只是一个模拟，像这样的 重建工作给了我们
+
+156
+00:07:21.213 --> 00:07:24.666
+that we'll soon be able to reliably take the first image of a black hole
+真正给黑洞拍摄可行照片的希望，
+
+157
+00:07:24.690 --> 00:07:27.285
+and from it, determine the size of its ring.
+之后便可以决定其光环的大小。
+
+158
+00:07:27.938 --> 00:07:31.137
+Although I'd love to go on about all the details of this algorithm,
+虽然我很想继续描绘 这个算法的细节，
+
+159
+00:07:31.161 --> 00:07:33.335
+luckily for you, I don't have the time.
+但你们很幸运，我没有这个时间。
+
+160
+00:07:33.359 --> 00:07:35.360
+But I'd still like to give you a brief idea
+可我仍然想大概让你们了解一下
+
+161
+00:07:35.384 --> 00:07:37.686
+of how we define what our universe looks like,
+我们是怎样定义宇宙的样子，
+
+162
+00:07:37.710 --> 00:07:42.176
+and how we use this to reconstruct and verify our results.
+以及是怎样以此来重建 和校验我们的结果的。
+
+163
+00:07:42.200 --> 00:07:44.696
+Since there are an infinite number of possible images
+由于有无数种可以完美解释
+
+164
+00:07:44.720 --> 00:07:47.085
+that perfectly explain our telescope measurements,
+望远镜测量结果的图片，
+
+165
+00:07:47.109 --> 00:07:49.714
+we have to choose between them in some way.
+我们需要找到一个方式进行挑选。
+
+166
+00:07:49.738 --> 00:07:51.576
+We do this by ranking the images
+我们会按照这些图片是
+
+167
+00:07:51.600 --> 00:07:54.434
+based upon how likely they are to be the black hole image,
+真正黑洞图片的可能性进行排序，
+
+168
+00:07:54.458 --> 00:07:56.940
+and then choosing the one that's most likely.
+然后选出可能性最高的那一张。
+
+169
+00:07:56.964 --> 00:07:59.159
+So what do I mean by this exactly?
+我这话到底是什么意思呢？
+
+170
+00:07:59.682 --> 00:08:01.660
+Let's say we were trying to make a model
+假设我们正在建立一个能够
+
+171
+00:08:01.684 --> 00:08:04.867
+that told us how likely an image were to appear on Facebook.
+指出一张图出现在脸书上的 可能性的模型。
+
+172
+00:08:04.891 --> 00:08:06.592
+We'd probably want the model to say
+我们希望这个模型能指出
+
+173
+00:08:06.616 --> 00:08:10.173
+it's pretty unlikely that someone would post this noise image on the left,
+不太可能有人会上传最左边的图像，
+
+174
+00:08:09.837 --> 00:08:12.277
+and pretty likely that someone would post a selfie
+而像右边那样的自拍照
+
+175
+00:08:12.640 --> 00:08:13.974
+like this one on the right.
+画出一张图片一样，
+
+176
+00:08:13.998 --> 00:08:15.637
+The image in the middle is blurry,
+中间那张图有点模糊，
+
+177
+00:08:15.661 --> 00:08:18.300
+so even though it's more likely we'd see it on Facebook
+所以它被发表的可能性
+
+178
+00:08:17.724 --> 00:08:19.178
+compared to the noise image,
+比左边的噪点图像大，
+
+179
+00:08:19.708 --> 00:08:22.668
+it's probably less likely we'd see it compared to the selfie.
+但比右边自拍发表的可能性要小。
+
+180
+00:08:22.692 --> 00:08:24.982
+But when it comes to images from the black hole,
+但是当模型的主角变成 黑洞的照片时，
+
+181
+00:08:24.546 --> 00:08:28.492
+we're posed with a real conundrum: we've never seen a black hole before.
+一个难题出现了：我们从未 见过真正的黑洞。
+
+182
+00:08:28.532 --> 00:08:30.823
+In that case, what is a likely black hole image,
+在这样的情况下， 什么样的图才更像黑洞，
+
+183
+00:08:30.847 --> 00:08:33.785
+and what should we assume about the structure of black holes?
+而我们又该怎样假设黑洞的结构呢？
+
+184
+00:08:33.809 --> 00:08:36.441
+We could try to use images from simulations we've done,
+我们或许能够使用模拟试验 得出的图片，
+
+185
+00:08:36.465 --> 00:08:38.995
+like the image of the black hole from "Interstellar,"
+比如《星际穿越》里的那张黑洞图。
+
+186
+00:08:38.589 --> 00:08:41.921
+but if we did this, it could cause some serious problems.
+但这样做可能会引起 一些严重的问题。
+
+187
+00:08:41.981 --> 00:08:45.361
+What would happen if Einstein's theories didn't hold?
+如果爱因斯坦的理论是错的怎么办？
+
+188
+00:08:45.385 --> 00:08:49.346
+We'd still want to reconstruct an accurate picture of what was going on.
+我们仍然想要得到一张 准确而真实的图片。
+
+189
+00:08:49.370 --> 00:08:52.741
+If we bake Einstein's equations too much into our algorithms,
+而如果我们在算法中掺入太多 爱因斯坦的公式，
+
+190
+00:08:52.765 --> 00:08:55.520
+we'll just end up seeing what we expect to see.
+最终只会看到我们所希望看到的。
+
+191
+00:08:55.544 --> 00:08:57.820
+In other words, we want to leave the option open
+换句话说，我们想保留在银河系中心
+
+192
+00:08:57.844 --> 00:09:00.767
+for there being a giant elephant at the center of our galaxy.
+看到一头大象这样的可能性。
+
+193
+00:09:00.791 --> 00:09:01.848
+(Laughter)
+（笑声）
+
+194
+00:09:01.872 --> 00:09:04.861
+Different types of images have very distinct features.
+不同类型的照片拥有 完全不同的特征。
+
+195
+00:09:04.885 --> 00:09:08.433
+We can easily tell the difference between black hole simulation images
+我们可以轻松分辨出 一张黑洞模拟图
+
+196
+00:09:08.457 --> 00:09:10.733
+and images we take every day here on Earth.
+和我们日常拍的照片的差别。
+
+197
+00:09:10.757 --> 00:09:13.861
+We need a way to tell our algorithms what images look like
+我们需要在不过度提供某类图片 特征的情况下，
+
+198
+00:09:13.885 --> 00:09:17.134
+without imposing one type of image's features too much.
+告诉我们的算法，一张正常的图片 应该是什么样。
+
+199
+00:09:17.685 --> 00:09:19.578
+One way we can try to get around this
+做到这一点的一种方法是，
+
+200
+00:09:19.602 --> 00:09:22.664
+is by imposing the features of different kinds of images
+向算法展示拥有不同特征的图片，
+
+201
+00:09:22.688 --> 00:09:26.818
+and seeing how the type of image we assume affects our reconstructions.
+然后看看这些图片会怎样 影响重建的结果。
+
+202
+00:09:27.532 --> 00:09:31.023
+If all images' types produce a very similar-looking image,
+如果不同类型的图片都产生出了 差不多的图像，
+
+203
+00:09:31.047 --> 00:09:33.104
+then we can start to become more confident
+那么我们便可以更有信心了，
+
+204
+00:09:32.928 --> 00:09:37.285
+that the image assumptions we're making are not biasing this picture that much.
+我们对图片的假设并没有 导致结果出现太大偏差。
+
+205
+00:09:37.325 --> 00:09:40.315
+This is a little bit like giving the same description
+这就有点像让来自不同国家的 三个法医素描师
+
+206
+00:09:40.339 --> 00:09:43.335
+to three different sketch artists from all around the world.
+根据同样的文字描述来作画。
+
+207
+00:09:43.359 --> 00:09:46.219
+If they all produce a very similar-looking face,
+如果他们画出的脸都差不多，
+
+208
+00:09:46.243 --> 00:09:48.036
+then we can start to become confident
+那么我们就能比较确信，
+
+209
+00:09:47.940 --> 00:09:51.660
+that they're not imposing their own cultural biases on the drawings.
+他们各自的文化背景 并没有影响到他们的画。
+
+210
+00:09:51.700 --> 00:09:55.015
+One way we can try to impose different image features
+将不同图片的特征赋予 （算法）的一个方法
+
+211
+00:09:54.999 --> 00:09:57.320
+is by using pieces of existing images.
+就是使用现有的图片的碎片特征。
+
+212
+00:09:58.034 --> 00:10:00.194
+So we take a large collection of images,
+所以，我们将大量的图像
+
+213
+00:10:00.218 --> 00:10:02.936
+and we break them down into their little image patches.
+分解成无数小图片，
+
+214
+00:10:02.960 --> 00:10:07.245
+We then can treat each image patch a little bit like pieces of a puzzle.
+然后像拼图一样处理这些小图片。
+
+215
+00:10:07.269 --> 00:10:11.547
+And we use commonly seen puzzle pieces to piece together an image
+我们用其中常见的拼图碎片 来组合成一张
+
+216
+00:10:11.571 --> 00:10:14.023
+that also fits our telescope measurements.
+符合望远镜所测量数据的完整图片。
+
+217
+00:10:14.860 --> 00:10:18.603
+Different types of images have very distinctive sets of puzzle pieces.
+不同类型的图片拥有 完全不同的拼图碎片。
+
+218
+00:10:18.627 --> 00:10:21.433
+So what happens when we take the same data
+所以，当我们使用相同的数据和
+
+219
+00:10:21.457 --> 00:10:25.587
+but we use different sets of puzzle pieces to reconstruct the image?
+截然不同的拼图类型来 重现图像时，会发生什么呢？
+
+220
+00:10:25.611 --> 00:10:30.377
+Let's first start with black hole image simulation puzzle pieces.
+我们先从黑洞模拟类的拼图开始。
+
+221
+00:10:30.401 --> 00:10:31.992
+OK, this looks reasonable.
+这张图看起来还比较合理。
+
+222
+00:10:31.996 --> 00:10:34.694
+This looks like what we expect a black hole to look like.
+它比较符合我们预料中黑洞的样子。
+
+223
+00:10:34.734 --> 00:10:35.927
+But did we just get it
+但我们得到这个结果
+
+224
+00:10:35.951 --> 00:10:39.265
+because we just fed it little pieces of black hole simulation images?
+是否仅仅是因为我们拿的是 黑洞模拟拼图呢？
+
+225
+00:10:39.289 --> 00:10:41.169
+Let's try another set of puzzle pieces
+我们再来试试另一组拼图，
+
+226
+00:10:41.193 --> 00:10:43.702
+from astronomical, non-black hole objects.
+这组拼图由宇宙中不是黑洞的 各种天体构成。
+
+227
+00:10:44.734 --> 00:10:46.860
+OK, we get a similar-looking image.
+很好，我们得到了一幅相似的图片。
+
+228
+00:10:46.884 --> 00:10:49.120
+And then how about pieces from everyday images,
+那如果我们拿日常照片的拼图 会怎么样呢，
+
+229
+00:10:49.144 --> 00:10:51.929
+like the images you take with your own personal camera?
+就像你每天拿自己的相机 拍的那种照片？
+
+230
+00:10:53.132 --> 00:10:55.247
+Great, we see the same image.
+太好了，我们看到了和之前 一样的图像。
+
+231
+00:10:55.271 --> 00:10:58.637
+When we get the same image from all different sets of puzzle pieces,
+当我们通过不同类型的拼图 得出一样的图片时，
+
+232
+00:10:58.661 --> 00:11:00.707
+then we can start to become more confident
+我们就有充足的自信说
+
+233
+00:11:00.731 --> 00:11:02.697
+that the image assumptions we're making
+我们对图片进行的推测，
+
+234
+00:11:02.721 --> 00:11:05.642
+aren't biasing the final image we get too much.
+并没有引起最终结果的太大偏差。
+
+235
+00:11:05.666 --> 00:11:08.919
+Another thing we can do is take the same set of puzzle pieces,
+我们能做的另一件事是， 用同一组拼图，
+
+236
+00:11:08.943 --> 00:11:11.432
+such as the ones derived from everyday images,
+比如源自日常图片的那一种，
+
+237
+00:11:11.456 --> 00:11:15.056
+and use them to reconstruct many different kinds of source images.
+来得到不同类型的源图片。
+
+238
+00:11:15.080 --> 00:11:16.351
+So in our simulations,
+所以，在我们的模拟试验中，
+
+239
+00:11:16.375 --> 00:11:20.150
+we pretend a black hole looks like astronomical non-black hole objects,
+我们假设黑洞看起来像一个 非黑洞天体，
+
+240
+00:11:20.174 --> 00:11:24.023
+as well as everyday images like the elephant in the center of our galaxy.
+以及在银河系中心的一头大象。
+
+241
+00:11:23.987 --> 00:11:27.199
+When the results of our algorithms on the bottom look very similar
+当下面一排算法算出的图片
+
+242
+00:11:27.239 --> 00:11:29.335
+to the simulation's truth image on top,
+看起来和上面一排实际图片 十分相似时，
+
+243
+00:11:29.359 --> 00:11:32.705
+then we can start to become more confident in our algorithms.
+我们就能对我们的算法 有更多信心了。
+
+244
+00:11:32.729 --> 00:11:34.596
+And I really want to emphasize here
+在这里我想强调，
+
+245
+00:11:34.620 --> 00:11:36.554
+that all of these pictures were created
+此处所有的图片都是由
+
+246
+00:11:36.578 --> 00:11:39.514
+by piecing together little pieces of everyday photographs,
+拼接日常照片而得出的，
+
+247
+00:11:39.538 --> 00:11:41.753
+like you'd take with your own personal camera.
+就像你自己用相机拍的照片一样。
+
+248
+00:11:41.777 --> 00:11:45.053
+So an image of a black hole we've never seen before
+所以，一张我们从未见过的 黑洞的照片，
+
+249
+00:11:45.077 --> 00:11:49.020
+may eventually be created by piecing together pictures we see all the time
+最终却可能由我们日常 熟悉的图片构成：
+
+250
+00:11:49.044 --> 00:11:51.789
+of people, buildings, trees, cats and dogs.
+人，楼房，树，小猫，小狗……
+
+251
+00:11:51.813 --> 00:11:54.458
+Imaging ideas like this will make it possible for us
+想象这样的想法使拍摄第一张
+
+252
+00:11:54.482 --> 00:11:57.101
+to take our very first pictures of a black hole,
+黑洞的图片成为可能，
+
+253
+00:11:57.125 --> 00:11:59.572
+and hopefully, verify those famous theories
+同时使我们有望校验
+
+254
+00:11:59.596 --> 00:12:02.017
+on which scientists rely on a daily basis.
+科学家们每天所依靠的著名理论。
+
+255
+00:12:02.041 --> 00:12:04.649
+But of course, getting imaging ideas like this working
+但是，要想让如此充满想象力的 点子实际工作，
+
+256
+00:12:04.673 --> 00:12:07.995
+would never have been possible without the amazing team of researchers
+离不开这些我有幸一同工作的
+
+257
+00:12:07.959 --> 00:12:09.890
+that I have the privilege to work with.
+出色的研究者团队。
+
+258
+00:12:09.930 --> 00:12:11.093
+It still amazes me
+我仍然对此感到振奋：
+
+259
+00:12:11.117 --> 00:12:14.468
+that although I began this project with no background in astrophysics,
+虽然在项目开始时我没有任何 天文学背景知识，
+
+260
+00:12:14.492 --> 00:12:17.111
+what we have achieved through this unique collaboration
+我们通过这一独特合作 所达成的成就，
+
+261
+00:12:16.775 --> 00:12:19.878
+could result in the very first images of a black hole.
+可能导致世界上第一幅 黑洞照片的诞生。
+
+262
+00:12:19.918 --> 00:12:22.616
+But big projects like the Event Horizon Telescope
+像视界线望远镜这样大项目的成功
+
+263
+00:12:22.640 --> 00:12:25.454
+are successful due to all the interdisciplinary expertise
+是由来自不同学科的人们 用他们各自的专业知识，
+
+264
+00:12:25.478 --> 00:12:27.268
+different people bring to the table.
+一起创造的结果。
+
+265
+00:12:27.292 --> 00:12:28.998
+We're a melting pot of astronomers,
+我们是一个由天文学家，物理学家，
+
+266
+00:12:29.022 --> 00:12:31.254
+physicists, mathematicians and engineers.
+数学家和工程学家构成的大熔炉。
+
+267
+00:12:31.278 --> 00:12:33.832
+This is what will make it soon possible
+这就是我们能够很快达成
+
+268
+00:12:33.856 --> 00:12:36.709
+to achieve something once thought impossible.
+一个看起来不可能达成的 成就的原因。
+
+269
+00:12:36.733 --> 00:12:38.989
+I'd like to encourage all of you to go out
+在此我想鼓励你们所有人，走出去，
+
+270
+00:12:38.953 --> 00:12:41.093
+and help push the boundaries of science,
+推动科学的边际，
+
+271
+00:12:41.133 --> 00:12:45.034
+even if it may at first seem as mysterious to you as a black hole.
+尽管刚开始它看起来可能 和一个黑洞一样神秘。
+
+272
+00:12:45.058 --> 00:12:46.232
+Thank you.
+谢谢大家。
+
+273
+00:12:46.256 --> 00:12:48.653
+(Applause)
+（掌声）

@@ -1,0 +1,1786 @@
+WEBVTT
+
+1
+00:00:12.532 --> 00:00:14.084
+This is Lee Sedol.
+这是李世石。
+
+2
+00:00:14.108 --> 00:00:18.105
+Lee Sedol is one of the world's greatest Go players,
+李世石是全世界 最顶尖的围棋高手之一，
+
+3
+00:00:18.129 --> 00:00:21.014
+and he's having what my friends in Silicon Valley call
+在这一刻，他所经历的 足以让我硅谷的朋友们
+
+4
+00:00:21.038 --> 00:00:22.548
+a "Holy Cow" moment --
+喊一句”我的天啊“——
+
+5
+00:00:22.572 --> 00:00:23.645
+(Laughter)
+（笑声）
+
+6
+00:00:23.669 --> 00:00:25.857
+a moment where we realize
+在这一刻，我们意识到
+
+7
+00:00:25.881 --> 00:00:29.177
+that AI is actually progressing a lot faster than we expected.
+原来人工智能发展的进程 比我们预想的要快得多。
+
+8
+00:00:29.974 --> 00:00:33.021
+So humans have lost on the Go board. What about the real world?
+人们在围棋棋盘上已经输了， 那在现实世界中又如何呢？
+
+9
+00:00:32.941 --> 00:00:35.031
+Well, the real world is much bigger,
+当然了，现实世界要 比围棋棋盘要大得多，
+
+10
+00:00:35.169 --> 00:00:37.418
+much more complicated than the Go board.
+复杂得多。
+
+11
+00:00:37.442 --> 00:00:39.261
+It's a lot less visible,
+相比之下每一步也没那么明确，
+
+12
+00:00:39.285 --> 00:00:41.323
+but it's still a decision problem.
+但现实世界仍然是一个选择性问题。
+
+13
+00:00:42.768 --> 00:00:45.089
+And if we think about some of the technologies
+如果我们想想那一些在不久的未来，
+
+14
+00:00:45.113 --> 00:00:46.862
+that are coming down the pike ...
+即将来临的新科技……
+
+15
+00:00:47.558 --> 00:00:51.893
+Noriko [Arai] mentioned that reading is not yet happening in machines,
+Noriko提到机器还不能进行阅读，
+
+16
+00:00:51.917 --> 00:00:53.417
+at least with understanding.
+至少达不到理解的程度，
+
+17
+00:00:53.441 --> 00:00:54.977
+But that will happen,
+但这迟早会发生，
+
+18
+00:00:54.941 --> 00:00:56.746
+and when that happens,
+而当它发生时，
+
+19
+00:00:56.796 --> 00:00:57.983
+very soon afterwards,
+不久之后，
+
+20
+00:00:57.907 --> 00:01:02.579
+machines will have read everything that the human race has ever written.
+机器就将读遍人类写下的所有东西。
+
+21
+00:01:03.670 --> 00:01:05.700
+And that will enable machines,
+这将使机器除了拥有
+
+22
+00:01:05.724 --> 00:01:08.644
+along with the ability to look further ahead than humans can,
+比人类看得更远的能力，
+
+23
+00:01:08.668 --> 00:01:10.348
+as we've already seen in Go,
+就像我们在围棋中看到的那样，
+
+24
+00:01:10.372 --> 00:01:12.536
+if they also have access to more information,
+如果机器能接触到比人类更多的信息，
+
+25
+00:01:12.560 --> 00:01:16.828
+they'll be able to make better decisions in the real world than we can.
+则将能够在现实世界中 做出比人类更好的选择。
+
+26
+00:01:18.612 --> 00:01:20.218
+So is that a good thing?
+那这是一件好事吗？
+
+27
+00:01:21.718 --> 00:01:23.950
+Well, I hope so.
+我当然希望如此。
+
+28
+00:01:26.514 --> 00:01:29.769
+Our entire civilization, everything that we value,
+人类的全部文明， 我们所珍视的一切，
+
+29
+00:01:29.793 --> 00:01:31.861
+is based on our intelligence.
+都是基于我们的智慧之上。
+
+30
+00:01:31.885 --> 00:01:35.579
+And if we had access to a lot more intelligence,
+如果我们能掌控更强大的智能，
+
+31
+00:01:35.603 --> 00:01:38.905
+then there's really no limit to what the human race can do.
+那我们人类的 创造力 就真的没有极限了。
+
+32
+00:01:40.485 --> 00:01:43.810
+And I think this could be, as some people have described it,
+我认为这可能就像很多人描述的那样
+
+33
+00:01:43.834 --> 00:01:45.850
+the biggest event in human history.
+会成为人类历史上最重要的事件。
+
+34
+00:01:48.485 --> 00:01:51.314
+So why are people saying things like this,
+那为什么有的人会说出以下的言论，
+
+35
+00:01:51.338 --> 00:01:54.214
+that AI might spell the end of the human race?
+说人工智能将是人类的末日呢？
+
+36
+00:01:55.258 --> 00:01:56.917
+Is this a new thing?
+这是一个新事物吗？
+
+37
+00:01:56.941 --> 00:02:01.051
+Is it just Elon Musk and Bill Gates and Stephen Hawking?
+这只关乎伊隆马斯克、 比尔盖茨，和斯提芬霍金吗？
+
+38
+00:02:01.773 --> 00:02:05.035
+Actually, no. This idea has been around for a while.
+其实不是的，人工智能 这个概念已经存在很长时间了。
+
+39
+00:02:05.059 --> 00:02:07.021
+Here's a quotation:
+请看这段话：
+
+40
+00:02:07.045 --> 00:02:11.395
+"Even if we could keep the machines in a subservient position,
+“即便我们能够将机器 维持在一个屈服于我们的地位，
+
+41
+00:02:11.419 --> 00:02:14.403
+for instance, by turning off the power at strategic moments" --
+比如说，在战略性时刻将电源关闭。”——
+
+42
+00:02:14.427 --> 00:02:17.664
+and I'll come back to that "turning off the power" idea later on --
+我等会儿再来讨论 ”关闭电源“这一话题，
+
+43
+00:02:17.688 --> 00:02:20.492
+"we should, as a species, feel greatly humbled."
+”我们，作为一个物种， 仍然应该自感惭愧。“
+
+44
+00:02:21.997 --> 00:02:25.445
+So who said this? This is Alan Turing in 1951.
+这段话是谁说的呢？ 是阿兰图灵，他在1951年说的。
+
+45
+00:02:26.120 --> 00:02:28.883
+Alan Turing, as you know, is the father of computer science
+阿兰图灵，众所皆知， 是计算机科学之父。
+
+46
+00:02:28.907 --> 00:02:31.955
+and in many ways, the father of AI as well.
+从很多意义上说， 他也是人工智能之父。
+
+47
+00:02:33.059 --> 00:02:34.941
+So if we think about this problem,
+当我们考虑这个问题，
+
+48
+00:02:34.965 --> 00:02:38.752
+the problem of creating something more intelligent than your own species,
+创造一个比自己更智能的 物种的问题时，
+
+49
+00:02:38.776 --> 00:02:41.398
+we might call this "the gorilla problem,"
+我们不妨将它称为”大猩猩问题“，
+
+50
+00:02:42.165 --> 00:02:45.915
+because gorillas' ancestors did this a few million years ago,
+因为这正是大猩猩的 祖先们几百万年前所经历的。
+
+51
+00:02:45.939 --> 00:02:47.684
+and now we can ask the gorillas:
+我们今天可以去问大猩猩们：
+
+52
+00:02:48.572 --> 00:02:49.732
+Was this a good idea?
+那么做是不是一个好主意？
+
+53
+00:02:49.756 --> 00:02:53.286
+So here they are having a meeting to discuss whether it was a good idea,
+在这幅图里，大猩猩们正在 开会讨论那么做是不是一个好主意，
+
+54
+00:02:53.310 --> 00:02:56.656
+and after a little while, they conclude, no,
+片刻后他们下定结论，不是的。
+
+55
+00:02:56.680 --> 00:02:58.025
+this was a terrible idea.
+那是一个很糟糕的主意。
+
+56
+00:02:57.879 --> 00:02:59.831
+Our species is in dire straits.
+我们的物种已经奄奄一息了，
+
+57
+00:03:00.358 --> 00:03:04.621
+In fact, you can see the existential sadness in their eyes.
+你都可以从它们的眼神中看到这种忧伤，
+
+58
+00:03:04.645 --> 00:03:06.285
+(Laughter)
+（笑声）
+
+59
+00:03:06.309 --> 00:03:11.149
+So this queasy feeling that making something smarter than your own species
+所以创造比你自己更聪明的物种，
+
+60
+00:03:11.173 --> 00:03:13.538
+is maybe not a good idea --
+也许不是一个好主意——
+
+61
+00:03:14.308 --> 00:03:15.799
+what can we do about that?
+那我们能做些什么呢？
+
+62
+00:03:15.823 --> 00:03:20.590
+Well, really nothing, except stop doing AI,
+其实没什么能做的， 除了停止研究人工智能，
+
+63
+00:03:20.614 --> 00:03:23.124
+and because of all the benefits that I mentioned
+但因为人工智能能带来 我之前所说的诸多益处，
+
+64
+00:03:23.148 --> 00:03:24.864
+and because I'm an AI researcher,
+也因为我是 人工智能的研究者之一，
+
+65
+00:03:24.888 --> 00:03:26.679
+I'm not having that.
+我可不同意就这么止步。
+
+66
+00:03:27.103 --> 00:03:29.571
+I actually want to be able to keep doing AI.
+实际上，我想继续做人工智能。
+
+67
+00:03:30.435 --> 00:03:33.113
+So we actually need to nail down the problem a bit more.
+所以我们需要把这个问题更细化一点，
+
+68
+00:03:32.887 --> 00:03:34.392
+What exactly is the problem?
+它到底是什么呢？
+
+69
+00:03:34.532 --> 00:03:37.778
+Why is better AI possibly a catastrophe?
+那就是为什么更强大的 人工智能可能会是灾难呢？
+
+70
+00:03:39.218 --> 00:03:40.716
+So here's another quotation:
+再来看这段话：
+
+71
+00:03:41.755 --> 00:03:45.090
+"We had better be quite sure that the purpose put into the machine
+”我们一定得确保我们 给机器输入的目的和价值
+
+72
+00:03:45.114 --> 00:03:47.412
+is the purpose which we really desire."
+是我们确实想要的目的和价值。“
+
+73
+00:03:48.102 --> 00:03:51.600
+This was said by Norbert Wiener in 1960,
+这是诺博特维纳在1960年说的，
+
+74
+00:03:51.624 --> 00:03:55.626
+shortly after he watched one of the very early learning systems
+他说这话时是刚看到 一个早期的学习系统，
+
+75
+00:03:55.650 --> 00:03:58.233
+learn to play checkers better than its creator.
+这个系统在学习如何能把 西洋棋下得比它的创造者更好。
+
+76
+00:04:00.422 --> 00:04:03.105
+But this could equally have been said
+与此如出一辙的一句话，
+
+77
+00:04:03.129 --> 00:04:04.296
+by King Midas.
+迈达斯国王也说过。
+
+78
+00:04:04.903 --> 00:04:08.037
+King Midas said, "I want everything I touch to turn to gold,"
+迈达斯国王说：”我希望 我触碰的所有东西都变成金子。“
+
+79
+00:04:07.901 --> 00:04:10.478
+and he got exactly what he asked for.
+结果他真的获得了点石成金的能力。
+
+80
+00:04:10.558 --> 00:04:13.309
+That was the purpose that he put into the machine,
+那就是他所输入的目的，
+
+81
+00:04:13.333 --> 00:04:14.783
+so to speak,
+从一定程度上说，
+
+82
+00:04:14.807 --> 00:04:18.251
+and then his food and his drink and his relatives turned to gold
+后来他的食物、 他的家人都变成了金子，
+
+83
+00:04:18.275 --> 00:04:20.556
+and he died in misery and starvation.
+他死在痛苦与饥饿之中。
+
+84
+00:04:22.264 --> 00:04:24.605
+So we'll call this "the King Midas problem"
+我们可以把这个问题 叫做”迈达斯问题“，
+
+85
+00:04:24.629 --> 00:04:27.934
+of stating an objective which is not, in fact,
+这个问题是我们阐述的目标，但实际上
+
+86
+00:04:27.958 --> 00:04:30.371
+truly aligned with what we want.
+与我们真正想要的不一致，
+
+87
+00:04:30.395 --> 00:04:33.648
+In modern terms, we call this "the value alignment problem."
+用现代的术语来说， 我们把它称为”价值一致性问题“。
+
+88
+00:04:36.867 --> 00:04:40.352
+Putting in the wrong objective is not the only part of the problem.
+而输入错误的目标 仅仅是问题的一部分。
+
+89
+00:04:40.376 --> 00:04:41.528
+There's another part.
+它还有另一部分。
+
+90
+00:04:41.980 --> 00:04:43.923
+If you put an objective into a machine,
+如果你为机器输入一个目标，
+
+91
+00:04:43.947 --> 00:04:46.395
+even something as simple as, "Fetch the coffee,"
+即便是一个很简单的目标， 比如说”去把咖啡端来“，
+
+92
+00:04:47.728 --> 00:04:49.569
+the machine says to itself,
+机器会对自己说：
+
+93
+00:04:50.553 --> 00:04:53.176
+"Well, how might I fail to fetch the coffee?
+”好吧，那我要怎么去拿咖啡呢？
+
+94
+00:04:53.200 --> 00:04:54.780
+Someone might switch me off.
+说不定有人会把我的电源关掉。
+
+95
+00:04:55.465 --> 00:04:57.852
+OK, I have to take steps to prevent that.
+好吧，那我要想办法 阻止别人把我关掉。
+
+96
+00:04:57.876 --> 00:04:59.782
+I will disable my 'off' switch.
+我得让我的‘关闭’开关失效。
+
+97
+00:05:00.354 --> 00:05:03.313
+I will do anything to defend myself against interference
+我得尽一切可能自我防御， 不让别人干涉我，
+
+98
+00:05:03.337 --> 00:05:05.966
+with this objective that I have been given."
+这都是因为我被赋予的目标。”
+
+99
+00:05:05.990 --> 00:05:08.002
+So this single-minded pursuit
+这种一根筋的思维，
+
+100
+00:05:09.033 --> 00:05:11.978
+in a very defensive mode of an objective that is, in fact,
+以一种十分防御型的 模式去实现某一目标，
+
+101
+00:05:11.732 --> 00:05:14.816
+not aligned with the true objectives of the human race --
+实际上与我们人类最初 想实现的目标并不一致——
+
+102
+00:05:15.942 --> 00:05:17.804
+that's the problem that we face.
+这就是我们面临的问题。
+
+103
+00:05:18.827 --> 00:05:23.594
+And in fact, that's the high-value takeaway from this talk.
+实际上，这就是今天这个演讲的核心。
+
+104
+00:05:23.618 --> 00:05:25.673
+If you want to remember one thing,
+如果你在我的演讲中只记住一件事，
+
+105
+00:05:25.697 --> 00:05:28.372
+it's that you can't fetch the coffee if you're dead.
+那就是：如果你死了， 你就不能去端咖啡了。
+
+106
+00:05:28.396 --> 00:05:29.457
+(Laughter)
+（笑声）
+
+107
+00:05:29.481 --> 00:05:33.310
+It's very simple. Just remember that. Repeat it to yourself three times a day.
+这很简单。记住它就行了。 每天对自己重复三遍。
+
+108
+00:05:33.334 --> 00:05:35.155
+(Laughter)
+（笑声）
+
+109
+00:05:35.179 --> 00:05:37.933
+And in fact, this is exactly the plot
+实际上，这正是电影
+
+110
+00:05:37.957 --> 00:05:40.605
+of "2001: [A Space Odyssey]"
+《2001太空漫步》的剧情。
+
+111
+00:05:41.046 --> 00:05:43.136
+HAL has an objective, a mission,
+HAL有一个目标，一个任务，
+
+112
+00:05:43.160 --> 00:05:46.892
+which is not aligned with the objectives of the humans,
+但这个目标和人类的目标不一致，
+
+113
+00:05:46.916 --> 00:05:48.726
+and that leads to this conflict.
+这就导致了矛盾的产生。
+
+114
+00:05:49.314 --> 00:05:52.283
+Now fortunately, HAL is not superintelligent.
+幸运的是，HAL并不具备超级智能，
+
+115
+00:05:52.307 --> 00:05:55.894
+He's pretty smart, but eventually Dave outwits him
+他挺聪明的，但还是 比不过人类主角戴夫，
+
+116
+00:05:55.918 --> 00:05:57.767
+and manages to switch him off.
+戴夫成功地把HAL关掉了。
+
+117
+00:06:01.648 --> 00:06:03.267
+But we might not be so lucky.
+但我们可能就没有这么幸运了。
+
+118
+00:06:08.013 --> 00:06:09.605
+So what are we going to do?
+那我们应该怎么办呢？
+
+119
+00:06:12.191 --> 00:06:14.792
+I'm trying to redefine AI
+我想要重新定义人工智能，
+
+120
+00:06:14.816 --> 00:06:16.877
+to get away from this classical notion
+远离传统的定义，
+
+121
+00:06:16.901 --> 00:06:21.468
+of machines that intelligently pursue objectives.
+将其仅限定为 机器通过智能去达成目标。
+
+122
+00:06:22.532 --> 00:06:24.330
+There are three principles involved.
+新的定义涉及到三个原则：
+
+123
+00:06:23.954 --> 00:06:27.587
+The first one is a principle of altruism, if you like,
+第一个原则是利他主义原则，
+
+124
+00:06:27.667 --> 00:06:30.929
+that the robot's only objective
+也就是说，机器的唯一目标
+
+125
+00:06:30.953 --> 00:06:35.199
+is to maximize the realization of human objectives,
+就是去最大化地实现人类的目标，
+
+126
+00:06:35.223 --> 00:06:36.613
+of human values.
+人类的价值。
+
+127
+00:06:36.637 --> 00:06:39.967
+And by values here I don't mean touchy-feely, goody-goody values.
+至于价值，我指的不是感情化的价值，
+
+128
+00:06:39.991 --> 00:06:43.778
+I just mean whatever it is that the human would prefer
+而是指人类对生活所向往的，
+
+129
+00:06:43.802 --> 00:06:45.145
+their life to be like.
+无论是什么。
+
+130
+00:06:47.184 --> 00:06:49.493
+And so this actually violates Asimov's law
+这实际上违背了阿西莫夫定律，
+
+131
+00:06:49.517 --> 00:06:51.846
+that the robot has to protect its own existence.
+他指出机器人一定要维护自己的生存。
+
+132
+00:06:51.870 --> 00:06:55.593
+It has no interest in preserving its existence whatsoever.
+但我定义的机器 对维护自身生存毫无兴趣。
+
+133
+00:06:57.240 --> 00:07:01.008
+The second law is a law of humility, if you like.
+第二个原则不妨称之为谦逊原则。
+
+134
+00:07:01.794 --> 00:07:05.537
+And this turns out to be really important to make robots safe.
+这一条对于制造安全的机器十分重要。
+
+135
+00:07:05.561 --> 00:07:08.703
+It says that the robot does not know
+它说的是机器不知道
+
+136
+00:07:08.727 --> 00:07:10.755
+what those human values are,
+人类的价值是什么，
+
+137
+00:07:10.779 --> 00:07:13.957
+so it has to maximize them, but it doesn't know what they are.
+机器知道它需要将人类的价值最大化， 却不知道这价值究竟是什么。
+
+138
+00:07:15.074 --> 00:07:17.700
+And that avoids this problem of single-minded pursuit
+为了避免一根筋地追求
+
+139
+00:07:17.724 --> 00:07:18.936
+of an objective.
+某一目标，
+
+140
+00:07:18.960 --> 00:07:21.132
+This uncertainty turns out to be crucial.
+这种不确定性是至关重要的。
+
+141
+00:07:21.546 --> 00:07:23.185
+Now, in order to be useful to us,
+那机器为了对我们有用，
+
+142
+00:07:23.209 --> 00:07:25.940
+it has to have some idea of what we want.
+它就得掌握一些 关于我们想要什么的信息。
+
+143
+00:07:27.043 --> 00:07:32.470
+It obtains that information primarily by observation of human choices,
+它主要通过观察人类 做的选择来获取这样的信息，
+
+144
+00:07:32.494 --> 00:07:35.295
+so our own choices reveal information
+我们自己做出的选择会包含着
+
+145
+00:07:35.319 --> 00:07:38.619
+about what it is that we prefer our lives to be like.
+关于我们希望我们的生活 是什么样的信息，
+
+146
+00:07:40.452 --> 00:07:42.135
+So those are the three principles.
+这就是三条原则。
+
+147
+00:07:41.519 --> 00:07:44.201
+Let's see how that applies to this question of:
+让我们来看看它们是如何应用到
+
+148
+00:07:44.501 --> 00:07:47.290
+"Can you switch the machine off?" as Turing suggested.
+像图灵说的那样， “将机器关掉”这个问题上来。
+
+149
+00:07:48.893 --> 00:07:51.013
+So here's a PR2 robot.
+这是一个PR2机器人。
+
+150
+00:07:50.897 --> 00:07:52.852
+This is one that we have in our lab,
+我们实验室里有一个。
+
+151
+00:07:52.882 --> 00:07:55.785
+and it has a big red "off" switch right on the back.
+它的背面有一个大大的红色的开关。
+
+152
+00:07:56.361 --> 00:07:58.976
+The question is: Is it going to let you switch it off?
+那问题来了：它会让你把它关掉吗？
+
+153
+00:07:58.740 --> 00:08:00.239
+If we do it the classical way,
+如果我们按传统的方法，
+
+154
+00:08:00.489 --> 00:08:03.971
+we give it the objective of, "Fetch the coffee, I must fetch the coffee,
+给它一个目标，让它拿咖啡， 它会想：”我必须去拿咖啡，
+
+155
+00:08:03.995 --> 00:08:06.575
+I can't fetch the coffee if I'm dead,"
+但我死了就不能拿咖啡了。“
+
+156
+00:08:06.599 --> 00:08:09.940
+so obviously the PR2 has been listening to my talk,
+显然PR2听过我的演讲了，
+
+157
+00:08:09.964 --> 00:08:13.717
+and so it says, therefore, "I must disable my 'off' switch,
+所以它说：”我必须让我的开关失灵，
+
+158
+00:08:14.796 --> 00:08:17.490
+and probably taser all the other people in Starbucks
+可能还要把那些在星巴克里，
+
+159
+00:08:17.514 --> 00:08:19.074
+who might interfere with me."
+可能干扰我的人都电击一下。“
+
+160
+00:08:19.098 --> 00:08:21.160
+(Laughter)
+（笑声）
+
+161
+00:08:21.184 --> 00:08:23.337
+So this seems to be inevitable, right?
+这看起来必然会发生，对吗？
+
+162
+00:08:23.361 --> 00:08:25.759
+This kind of failure mode seems to be inevitable,
+这种失败看起来是必然的，
+
+163
+00:08:25.783 --> 00:08:29.326
+and it follows from having a concrete, definite objective.
+因为机器人在遵循 一个十分确定的目标。
+
+164
+00:08:30.632 --> 00:08:33.776
+So what happens if the machine is uncertain about the objective?
+那如果机器对目标 不那么确定会发生什么呢？
+
+165
+00:08:33.800 --> 00:08:35.927
+Well, it reasons in a different way.
+那它的思路就不一样了。
+
+166
+00:08:35.951 --> 00:08:38.375
+It says, "OK, the human might switch me off,
+它会说：”好的，人类可能会把我关掉，
+
+167
+00:08:38.964 --> 00:08:40.830
+but only if I'm doing something wrong.
+但只在我做错事的时候。
+
+168
+00:08:41.567 --> 00:08:44.042
+Well, I don't really know what wrong is,
+我不知道什么是错事，
+
+169
+00:08:43.906 --> 00:08:45.664
+but I know that I don't want to do it."
+但我知道我不该做那些事。”
+
+170
+00:08:45.664 --> 00:08:49.078
+So that's the first and second principles right there.
+这就是第一和第二原则。
+
+171
+00:08:49.168 --> 00:08:52.527
+"So I should let the human switch me off."
+“那我就应该让人类把我关掉。”
+
+172
+00:08:53.541 --> 00:08:57.497
+And in fact you can calculate the incentive that the robot has
+事实上你可以计算出机器人
+
+173
+00:08:57.521 --> 00:09:00.014
+to allow the human to switch it off,
+让人类把它关掉的动机，
+
+174
+00:09:00.038 --> 00:09:01.952
+and it's directly tied to the degree
+而且这个动机是
+
+175
+00:09:01.976 --> 00:09:04.722
+of uncertainty about the underlying objective.
+与对目标的不确定程度直接相关的。
+
+176
+00:09:05.797 --> 00:09:08.746
+And then when the machine is switched off,
+当机器被关闭后，
+
+177
+00:09:08.770 --> 00:09:10.575
+that third principle comes into play.
+第三条原则就起作用了。
+
+178
+00:09:10.599 --> 00:09:13.661
+It learns something about the objectives it should be pursuing,
+机器开始学习它所追求的目标，
+
+179
+00:09:13.685 --> 00:09:16.218
+because it learns that what it did wasn't right.
+因为它知道它刚做的事是不对的。
+
+180
+00:09:16.242 --> 00:09:19.812
+In fact, we can, with suitable use of Greek symbols,
+实际上，我们可以用希腊字母
+
+181
+00:09:19.836 --> 00:09:21.967
+as mathematicians usually do,
+就像数学家们经常做的那样，
+
+182
+00:09:21.991 --> 00:09:23.975
+we can actually prove a theorem
+直接证明这一定理，
+
+183
+00:09:23.999 --> 00:09:27.552
+that says that such a robot is provably beneficial to the human.
+那就是这样的一个机器人 对人们是绝对有利的。
+
+184
+00:09:27.576 --> 00:09:31.379
+You are provably better off with a machine that's designed in this way
+可以证明我们的生活 有如此设计的机器人会变得
+
+185
+00:09:31.403 --> 00:09:32.649
+than without it.
+比没有这样的机器人更好。
+
+186
+00:09:33.057 --> 00:09:35.963
+So this is a very simple example, but this is the first step
+这是一个很简单的例子，但这只是
+
+187
+00:09:35.987 --> 00:09:39.890
+in what we're trying to do with human-compatible AI.
+我们尝试实现与人类 兼容的人工智能的第一步。
+
+188
+00:09:42.477 --> 00:09:45.734
+Now, this third principle,
+现在来看第三个原则。
+
+189
+00:09:45.758 --> 00:09:48.870
+I think is the one that you're probably scratching your head over.
+我知道你们可能正在 为这一个原则而大伤脑筋。
+
+190
+00:09:48.894 --> 00:09:52.133
+You're probably thinking, "Well, you know, I behave badly.
+你可能会想：“你知道， 我有时不按规矩办事。
+
+191
+00:09:52.157 --> 00:09:55.086
+I don't want my robot to behave like me.
+我可不希望我的机器人 像我一样行事。
+
+192
+00:09:54.980 --> 00:09:58.198
+I sneak down in the middle of the night and take stuff from the fridge.
+我有时大半夜偷偷摸摸地 从冰箱里找东西吃，
+
+193
+00:09:58.568 --> 00:09:59.736
+I do this and that."
+诸如此类的事。”
+
+194
+00:09:59.760 --> 00:10:02.557
+There's all kinds of things you don't want the robot doing.
+有各种各样的事你是 不希望机器人去做的。
+
+195
+00:10:02.581 --> 00:10:04.652
+But in fact, it doesn't quite work that way.
+但实际上并不一定会这样。
+
+196
+00:10:04.676 --> 00:10:06.831
+Just because you behave badly
+仅仅是因为你表现不好，
+
+197
+00:10:06.855 --> 00:10:09.478
+doesn't mean the robot is going to copy your behavior.
+并不代表机器人就会复制你的行为。
+
+198
+00:10:08.872 --> 00:10:13.366
+It's going to understand your motivations and maybe help you resist them,
+它会去尝试理解你做事的动机， 而且可能会在合适的情况下制止你去做
+
+199
+00:10:13.436 --> 00:10:14.756
+if appropriate.
+那些不该做的事。
+
+200
+00:10:16.026 --> 00:10:17.490
+But it's still difficult.
+但这仍然十分困难。
+
+201
+00:10:18.122 --> 00:10:20.667
+What we're trying to do, in fact,
+实际上，我们在做的是
+
+202
+00:10:20.691 --> 00:10:26.487
+is to allow machines to predict for any person and for any possible life
+让机器去预测任何一个人， 在他们的任何一种
+
+203
+00:10:26.511 --> 00:10:27.672
+that they could live,
+可能的生活中
+
+204
+00:10:27.696 --> 00:10:29.293
+and the lives of everybody else:
+以及别人的生活中，
+
+205
+00:10:29.317 --> 00:10:31.834
+Which would they prefer?
+他们会更倾向于哪一种？
+
+206
+00:10:33.881 --> 00:10:36.835
+And there are many, many difficulties involved in doing this;
+这涉及到诸多困难；
+
+207
+00:10:36.859 --> 00:10:39.791
+I don't expect that this is going to get solved very quickly.
+我不认为这会很快地就被解决。
+
+208
+00:10:39.815 --> 00:10:42.458
+The real difficulties, in fact, are us.
+实际上，真正的困难是我们自己。
+
+209
+00:10:43.969 --> 00:10:47.086
+As I have already mentioned, we behave badly.
+就像我刚说的那样， 我们做事不守规矩，
+
+210
+00:10:46.560 --> 00:10:49.431
+In fact, some of us are downright nasty.
+我们中有的人甚至行为肮脏。
+
+211
+00:10:50.251 --> 00:10:53.303
+Now the robot, as I said, doesn't have to copy the behavior.
+就像我说的， 机器人并不会复制那些行为，
+
+212
+00:10:53.327 --> 00:10:56.118
+The robot does not have any objective of its own.
+机器人没有自己的目标，
+
+213
+00:10:56.142 --> 00:10:57.879
+It's purely altruistic.
+它是完全无私的。
+
+214
+00:10:59.113 --> 00:11:04.334
+And it's not designed just to satisfy the desires of one person, the user,
+它的设计不是去满足 某一个人、一个用户的欲望，
+
+215
+00:11:04.358 --> 00:11:07.496
+but in fact it has to respect the preferences of everybody.
+而是去尊重所有人的意愿。
+
+216
+00:11:09.083 --> 00:11:11.653
+So it can deal with a certain amount of nastiness,
+所以它能对付一定程度的肮脏行为。
+
+217
+00:11:11.677 --> 00:11:15.378
+and it can even understand that your nastiness, for example,
+它甚至能理解你的不端行为，比如说
+
+218
+00:11:15.402 --> 00:11:18.073
+you may take bribes as a passport official
+假如你是一个边境护照官员， 很可能收取贿赂，
+
+219
+00:11:18.097 --> 00:11:21.909
+because you need to feed your family and send your kids to school.
+因为你得养家、 得供你的孩子们上学。
+
+220
+00:11:21.933 --> 00:11:24.839
+It can understand that; it doesn't mean it's going to steal.
+机器人能理解这一点， 它不会因此去偷，
+
+221
+00:11:24.863 --> 00:11:27.542
+In fact, it'll just help you send your kids to school.
+它反而会帮助你去供孩子们上学。
+
+222
+00:11:28.796 --> 00:11:31.808
+We are also computationally limited.
+我们的计算能力也是有限的。
+
+223
+00:11:31.832 --> 00:11:34.337
+Lee Sedol is a brilliant Go player,
+李世石是一个杰出的围棋大师，
+
+224
+00:11:34.361 --> 00:11:35.686
+but he still lost.
+但他还是输了。
+
+225
+00:11:35.710 --> 00:11:39.949
+So if we look at his actions, he took an action that lost the game.
+如果我们看他的行动， 他最终输掉了棋局。
+
+226
+00:11:39.973 --> 00:11:42.134
+That doesn't mean he wanted to lose.
+但这不意味着他想要输。
+
+227
+00:11:43.160 --> 00:11:45.200
+So to understand his behavior,
+所以要理解他的行为，
+
+228
+00:11:45.224 --> 00:11:48.868
+we actually have to invert through a model of human cognition
+我们得从人类认知模型来反过来想，
+
+229
+00:11:48.892 --> 00:11:53.869
+that includes our computational limitations -- a very complicated model.
+这包含了我们的计算能力限制， 是一个很复杂的模型，
+
+230
+00:11:53.893 --> 00:11:56.886
+But it's still something that we can work on understanding.
+但仍然是我们可以尝试去理解的。
+
+231
+00:11:57.696 --> 00:12:02.016
+Probably the most difficult part, from my point of view as an AI researcher,
+可能对于我这样一个 人工智能研究人员来说最大的困难，
+
+232
+00:12:01.980 --> 00:12:04.615
+is the fact that there are lots of us,
+是我们彼此各不相同。
+
+233
+00:12:06.114 --> 00:12:09.695
+and so the machine has to somehow trade off, weigh up the preferences
+所以机器必须想办法去判别衡量
+
+234
+00:12:09.719 --> 00:12:11.944
+of many different people,
+不同人的不同需求，
+
+235
+00:12:11.968 --> 00:12:13.874
+and there are different ways to do that.
+而又有众多方法去做这样的判断。
+
+236
+00:12:13.898 --> 00:12:17.587
+Economists, sociologists, moral philosophers have understood that,
+经济学家、社会学家、 哲学家都理解这一点，
+
+237
+00:12:17.611 --> 00:12:20.066
+and we are actively looking for collaboration.
+我们正在积极地去寻求合作。
+
+238
+00:12:20.090 --> 00:12:23.341
+Let's have a look and see what happens when you get that wrong.
+让我们来看看如果我们 把这一步弄错了会怎么样。
+
+239
+00:12:23.365 --> 00:12:25.498
+So you can have a conversation, for example,
+举例来说，你可能会 与你的人工智能助理，
+
+240
+00:12:25.522 --> 00:12:27.466
+with your intelligent personal assistant
+有这样的对话：
+
+241
+00:12:27.490 --> 00:12:29.775
+that might be available in a few years' time.
+这样的人工智能可能几年内就会出现，
+
+242
+00:12:29.799 --> 00:12:32.323
+Think of a Siri on steroids.
+可以把它想做加强版的Siri。
+
+243
+00:12:33.447 --> 00:12:37.769
+So Siri says, "Your wife called to remind you about dinner tonight."
+Siri对你说：“你的妻子打电话 提醒你今晚要跟她共进晚餐。”
+
+244
+00:12:38.436 --> 00:12:40.944
+And of course, you've forgotten. "What? What dinner?
+而你呢，自然忘了这回事： “什么？什么晚饭？
+
+245
+00:12:40.968 --> 00:12:42.393
+What are you talking about?"
+你在说什么？”
+
+246
+00:12:42.417 --> 00:12:46.163
+"Uh, your 20th anniversary at 7pm."
+“啊，你们晚上7点， 庆祝结婚20周年纪念日。”
+
+247
+00:12:48.735 --> 00:12:52.454
+"I can't do that. I'm meeting with the secretary-general at 7:30.
+“我可去不了。 我约了晚上7点半见领导。
+
+248
+00:12:52.478 --> 00:12:54.170
+How could this have happened?"
+怎么会这样呢？”
+
+249
+00:12:54.194 --> 00:12:58.854
+"Well, I did warn you, but you overrode my recommendation."
+“呃，我可是提醒过你的， 但你不听我的建议。”
+
+250
+00:12:59.966 --> 00:13:03.294
+"Well, what am I going to do? I can't just tell him I'm too busy."
+“我该怎么办呢？我可不能 跟领导说我有事，没空见他。”
+
+251
+00:13:04.310 --> 00:13:07.591
+"Don't worry. I arranged for his plane to be delayed."
+“别担心。我已经安排了， 让他的航班延误。
+
+252
+00:13:07.615 --> 00:13:09.297
+(Laughter)
+（笑声）
+
+253
+00:13:10.069 --> 00:13:12.170
+"Some kind of computer malfunction."
+“像是因为某种计算机故障那样。”
+
+254
+00:13:12.194 --> 00:13:13.406
+(Laughter)
+（笑声）
+
+255
+00:13:13.430 --> 00:13:15.047
+"Really? You can do that?"
+“真的吗？这个你也能做到？”
+
+256
+00:13:16.220 --> 00:13:18.399
+"He sends his profound apologies
+“领导很不好意思，跟你道歉，
+
+257
+00:13:18.423 --> 00:13:20.978
+and looks forward to meeting you for lunch tomorrow."
+并且告诉你明天 中午午饭不见不散。”
+
+258
+00:13:20.922 --> 00:13:21.885
+(Laughter)
+（笑声）
+
+259
+00:13:21.885 --> 00:13:26.728
+So the values here -- there's a slight mistake going on.
+这里就有一个小小的问题。
+
+260
+00:13:26.752 --> 00:13:29.761
+This is clearly following my wife's values
+这显然是在遵循我妻子的价值论，
+
+261
+00:13:29.785 --> 00:13:31.854
+which is "Happy wife, happy life."
+那就是“老婆开心，生活舒心”。
+
+262
+00:13:31.878 --> 00:13:33.461
+(Laughter)
+（笑声）
+
+263
+00:13:33.485 --> 00:13:34.929
+It could go the other way.
+它也有可能发展成另一种情况。
+
+264
+00:13:35.641 --> 00:13:37.842
+You could come home after a hard day's work,
+你忙碌一天，回到家里，
+
+265
+00:13:37.866 --> 00:13:40.061
+and the computer says, "Long day?"
+电脑对你说：“像是繁忙的一天啊？”
+
+266
+00:13:39.885 --> 00:13:41.747
+"Yes, I didn't even have time for lunch."
+“是啊，我连午饭都没来得及吃。”
+
+267
+00:13:41.747 --> 00:13:43.493
+"You must be very hungry."
+“那你一定很饿了吧。”
+
+268
+00:13:43.703 --> 00:13:46.349
+"Starving, yeah. Could you make some dinner?"
+“快饿晕了。你能做点晚饭吗？”
+
+269
+00:13:47.890 --> 00:13:49.980
+"There's something I need to tell you."
+“有一件事我得告诉你。
+
+270
+00:13:49.894 --> 00:13:51.159
+(Laughter)
+（笑声）
+
+271
+00:13:52.013 --> 00:13:56.918
+"There are humans in South Sudan who are in more urgent need than you."
+”南苏丹的人们可比你更需要照顾。
+
+272
+00:13:56.942 --> 00:13:58.046
+(Laughter)
+（笑声）
+
+273
+00:13:57.770 --> 00:14:00.079
+"So I'm leaving. Make your own dinner."
+“所以我要离开了。 你自己做饭去吧。”
+
+274
+00:14:00.169 --> 00:14:02.169
+(Laughter)
+（笑声）
+
+275
+00:14:02.643 --> 00:14:04.382
+So we have to solve these problems,
+我们得解决这些问题，
+
+276
+00:14:04.406 --> 00:14:06.921
+and I'm looking forward to working on them.
+我也很期待去解决。
+
+277
+00:14:06.945 --> 00:14:08.788
+There are reasons for optimism.
+我们有理由感到乐观。
+
+278
+00:14:08.812 --> 00:14:09.971
+One reason is,
+理由之一是
+
+279
+00:14:09.995 --> 00:14:11.863
+there is a massive amount of data.
+我们有大量的数据，
+
+280
+00:14:11.887 --> 00:14:14.681
+Because remember -- I said they're going to read everything
+记住，我说过机器将能够阅读一切
+
+281
+00:14:13.825 --> 00:14:15.055
+the human race has ever written.
+人类所写下来的东西，
+
+282
+00:14:15.055 --> 00:14:18.523
+Most of what we write about is human beings doing things
+而我们写下的大多数是 我们做的什么事情，
+
+283
+00:14:18.523 --> 00:14:20.631
+and other people getting upset about it.
+以及其他人对此有什么意见。
+
+284
+00:14:20.961 --> 00:14:23.359
+So there's a massive amount of data to learn from.
+所以机器可以从大量的数据中去学习。
+
+285
+00:14:23.383 --> 00:14:25.619
+There's also a very strong economic incentive
+同时从经济的角度， 我们也有足够的动机
+
+286
+00:14:27.151 --> 00:14:28.337
+to get this right.
+去把这件事做对。
+
+287
+00:14:28.361 --> 00:14:30.362
+So imagine your domestic robot's at home.
+想象一下，你家里有个居家机器人，
+
+288
+00:14:30.386 --> 00:14:33.453
+You're late from work again and the robot has to feed the kids,
+而你又得加班， 机器人得给孩子们做饭,
+
+289
+00:14:33.477 --> 00:14:36.300
+and the kids are hungry and there's nothing in the fridge.
+孩子们很饿， 但冰箱里什么都没有。
+
+290
+00:14:36.324 --> 00:14:38.929
+And the robot sees the cat.
+然后机器人看到了家里的猫，
+
+291
+00:14:38.953 --> 00:14:40.645
+(Laughter)
+（笑声）
+
+292
+00:14:40.669 --> 00:14:44.859
+And the robot hasn't quite learned the human value function properly,
+机器人还没学透人类的价值论，
+
+293
+00:14:44.883 --> 00:14:46.134
+so it doesn't understand
+所以它不知道
+
+294
+00:14:45.948 --> 00:14:50.866
+the sentimental value of the cat outweighs the nutritional value of the cat.
+猫的感情价值 大于猫的营养价值。
+
+295
+00:14:50.866 --> 00:14:51.865
+(Laughter)
+（笑声）
+
+296
+00:14:51.865 --> 00:14:53.877
+So then what happens?
+接下来会发生什么？
+
+297
+00:14:53.917 --> 00:14:57.214
+Well, it happens like this:
+差不多是这样的：
+
+298
+00:14:57.238 --> 00:15:00.202
+"Deranged robot cooks kitty for family dinner."
+头版头条：“疯狂的机器人 把猫煮了给主人当晚饭！”
+
+299
+00:15:00.226 --> 00:15:04.749
+That one incident would be the end of the domestic robot industry.
+这一个事故就足以结束 整个居家机器人产业。
+
+300
+00:15:04.773 --> 00:15:08.145
+So there's a huge incentive to get this right
+所以我们有足够的动机在我们实现
+
+301
+00:15:08.169 --> 00:15:10.884
+long before we reach superintelligent machines.
+超级智能机器让它更加完善。
+
+302
+00:15:11.948 --> 00:15:13.483
+So to summarize:
+总结来说：
+
+303
+00:15:13.507 --> 00:15:16.388
+I'm actually trying to change the definition of AI
+我想要改变人工智能的定义，
+
+304
+00:15:16.412 --> 00:15:19.405
+so that we have provably beneficial machines.
+让我们可以证明机器对我们是有利的。
+
+305
+00:15:19.429 --> 00:15:20.651
+And the principles are:
+这三个原则是：
+
+306
+00:15:20.675 --> 00:15:22.073
+machines that are altruistic,
+机器是利他的，
+
+307
+00:15:22.097 --> 00:15:24.901
+that want to achieve only our objectives,
+只想着实现我们的目标，
+
+308
+00:15:24.925 --> 00:15:28.041
+but that are uncertain about what those objectives are,
+但它不确定我们的目标是什么，
+
+309
+00:15:27.985 --> 00:15:30.027
+and will watch all of us
+所以它会观察我们，
+
+310
+00:15:30.087 --> 00:15:33.290
+to learn more about what it is that we really want.
+从中学习我们想要的究竟是什么。
+
+311
+00:15:34.193 --> 00:15:37.752
+And hopefully in the process, we will learn to be better people.
+希望在这个过程中， 我们也能学会成为更好的人。
+
+312
+00:15:37.776 --> 00:15:38.967
+Thank you very much.
+谢谢大家。
+
+313
+00:15:38.991 --> 00:15:42.700
+(Applause)
+（掌声）
+
+314
+00:15:42.724 --> 00:15:44.592
+Chris Anderson: So interesting, Stuart.
+克里斯安德森： 非常有意思，斯图尔特。
+
+315
+00:15:43.976 --> 00:15:46.460
+We're going to stand here a bit because I think they're setting up
+我们趁着工作人员 为下一位演讲者布置的时候
+
+316
+00:15:46.460 --> 00:15:48.211
+for our next speaker.
+来简单聊几句。
+
+317
+00:15:48.985 --> 00:15:50.523
+A couple of questions.
+我有几个问题。
+
+318
+00:15:50.547 --> 00:15:56.000
+So the idea of programming in ignorance seems intuitively really powerful.
+从直觉上来看，将无知编入到程序中 似乎是一个很重要的理念，
+
+319
+00:15:55.964 --> 00:15:57.572
+As you get to superintelligence,
+当你要实现超级智能时，
+
+320
+00:15:57.642 --> 00:15:59.900
+what's going to stop a robot
+什么能阻止机器人？
+
+321
+00:15:59.924 --> 00:16:02.776
+reading literature and discovering this idea that knowledge
+当它在阅读和学习的过程中发现，
+
+322
+00:16:02.800 --> 00:16:04.372
+is actually better than ignorance
+知识比无知更强大，
+
+323
+00:16:04.396 --> 00:16:08.614
+and still just shifting its own goals and rewriting that programming?
+然后就改变它的目标 去重新编写程序呢？
+
+324
+00:16:09.512 --> 00:16:15.868
+Stuart Russell: Yes, so we want it to learn more, as I said,
+斯图尔特拉塞尔：是的， 我们想要它去学习，就像我说的，
+
+325
+00:16:15.892 --> 00:16:17.179
+about our objectives.
+学习我们的目标。
+
+326
+00:16:17.203 --> 00:16:22.724
+It'll only become more certain as it becomes more correct,
+它只有在理解得越来越正确的时候， 才会变得更确定，
+
+327
+00:16:22.748 --> 00:16:24.693
+so the evidence is there
+我们有证据显示，
+
+328
+00:16:24.717 --> 00:16:27.441
+and it's going to be designed to interpret it correctly.
+它的设计使它能按正确的方式理解。
+
+329
+00:16:27.465 --> 00:16:31.421
+It will understand, for example, that books are very biased
+比如说，它能够理解书中的论证是
+
+330
+00:16:31.445 --> 00:16:32.928
+in the evidence they contain.
+带有非常强的偏见的。
+
+331
+00:16:32.952 --> 00:16:35.349
+They only talk about kings and princes
+书中只会讲述国王、王子
+
+332
+00:16:35.373 --> 00:16:38.173
+and elite white male people doing stuff.
+和那些精英白人男性做的事。
+
+333
+00:16:38.197 --> 00:16:40.293
+So it's a complicated problem,
+这是一个复杂的问题，
+
+334
+00:16:40.317 --> 00:16:44.189
+but as it learns more about our objectives
+但当它更深入地学习我们的目标时，
+
+335
+00:16:44.213 --> 00:16:46.276
+it will become more and more useful to us.
+它就变得对我们更有用。
+
+336
+00:16:46.300 --> 00:16:48.826
+CA: And you couldn't just boil it down to one law,
+CA：那你不能把这些 都集中在一条准则里吗？
+
+337
+00:16:48.850 --> 00:16:50.500
+you know, hardwired in:
+把这样的命令写在它的程序里：
+
+338
+00:16:50.524 --> 00:16:53.817
+"if any human ever tries to switch me off,
+“如果人类什么时候想把我关掉，
+
+339
+00:16:53.841 --> 00:16:55.776
+I comply. I comply."
+我服从。我服从。”
+
+340
+00:16:55.800 --> 00:16:56.982
+SR: Absolutely not.
+SR：绝对不行，
+
+341
+00:16:56.896 --> 00:16:58.169
+That would be a terrible idea.
+那将是一个很糟糕的主意。
+
+342
+00:16:58.529 --> 00:17:01.218
+So imagine that you have a self-driving car
+试想一下，你有一辆无人驾驶汽车，
+
+343
+00:17:01.242 --> 00:17:03.675
+and you want to send your five-year-old
+你想让它送你五岁的孩子
+
+344
+00:17:03.699 --> 00:17:04.873
+off to preschool.
+去上学。
+
+345
+00:17:04.897 --> 00:17:07.998
+Do you want your five-year-old to be able to switch off the car
+你希望你五岁的孩子 能在汽车运行过程中
+
+346
+00:17:07.282 --> 00:17:08.319
+while it's driving along?
+将它关闭吗？
+
+347
+00:17:08.319 --> 00:17:09.402
+Probably not.
+应该不会吧。
+
+348
+00:17:09.402 --> 00:17:15.129
+So it needs to understand how rational and sensible the person is.
+它得理解下指令的人有多理智， 是不是讲道理。
+
+349
+00:17:15.169 --> 00:17:16.845
+The more rational the person,
+这个人越理智，
+
+350
+00:17:16.869 --> 00:17:18.972
+the more willing you are to be switched off.
+它就越愿意自己被关掉。
+
+351
+00:17:18.996 --> 00:17:21.539
+If the person is completely random or even malicious,
+如果这个人是完全思绪混乱 或者甚至是有恶意的，
+
+352
+00:17:21.563 --> 00:17:24.075
+then you're less willing to be switched off.
+那你就不愿意它被关掉。
+
+353
+00:17:24.099 --> 00:17:25.965
+CA: All right. Stuart, can I just say,
+CA：好吧。斯图尔特，我得说
+
+354
+00:17:25.989 --> 00:17:28.303
+I really, really hope you figure this out for us.
+我真的希望你为我们 能把这一切研究出来，
+
+355
+00:17:27.647 --> 00:17:30.226
+Thank you so much for that talk. That was amazing.
+很感谢你的演讲，太精彩了。
+
+356
+00:17:30.726 --> 00:17:31.893
+SR: Thank you.
+SR：谢谢。
+
+357
+00:17:31.917 --> 00:17:33.754
+(Applause)
+（掌声）

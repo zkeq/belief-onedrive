@@ -1,0 +1,817 @@
+WEBVTT
+
+﻿1
+00:00:12.166 --> 00:00:14.936
+This is me building a prototype
+这是我正在做一个模型
+
+2
+00:00:14.936 --> 00:00:17.856
+for six hours straight.
+足足花了6个小时，
+
+3
+00:00:17.856 --> 00:00:21.777
+This is slave labor to my own project.
+完全是苦力活。
+
+4
+00:00:21.777 --> 00:00:26.767
+This is what the DIY and maker movements really look like.
+这就是所谓的自己动手做和自造者运动。
+
+5
+00:00:26.767 --> 00:00:31.533
+And this is an analogy for today's construction and manufacturing world
+这也是今日全球建筑和制造业的缩影：
+
+6
+00:00:31.533 --> 00:00:34.321
+with brute-force assembly techniques.
+到处可见费尽蛮力的组装技术。
+
+7
+00:00:34.321 --> 00:00:37.155
+And this is exactly why I started studying
+这也是我为什么开始研究
+
+8
+00:00:37.155 --> 00:00:41.424
+how to program physical materials to build themselves.
+如何让物理材料根据特定程序来组装自己。
+
+9
+00:00:41.424 --> 00:00:43.184
+But there is another world.
+但是，还有另外一个世界。
+
+10
+00:00:43.184 --> 00:00:45.179
+Today at the micro- and nanoscales,
+如今在微观纳米级上，
+
+11
+00:00:45.179 --> 00:00:47.930
+there's an unprecedented revolution happening.
+正在发生一场空前的革命。
+
+12
+00:00:47.930 --> 00:00:52.062
+And this is the ability to program physical and biological materials
+这就是通过编程使物理和生物材料
+
+13
+00:00:52.062 --> 00:00:54.786
+to change shape, change properties
+改变形状、改变属性的能力，
+
+14
+00:00:54.786 --> 00:00:57.772
+and even compute outside of silicon-based matter.
+它的应用范围甚至超过了硅基物质。
+
+15
+00:00:57.772 --> 00:01:00.279
+There's even a software called cadnano
+甚至已经有了一个叫cadnano的软件
+
+16
+00:01:00.279 --> 00:01:03.062
+that allows us to design three-dimensional shapes
+我们可以用它来设计各种三維物体。
+
+17
+00:01:03.062 --> 00:01:06.146
+like nano robots or drug delivery systems
+比如纳米机器人或者药物传输系统，
+
+18
+00:01:06.146 --> 00:01:10.449
+and use DNA to self-assemble those functional structures.
+以及利用DNA自我组装各种功能结构。
+
+19
+00:01:10.449 --> 00:01:12.522
+But if we look at the human scale,
+但是，如果我们再看宏观的人类社会生活，
+
+20
+00:01:12.522 --> 00:01:15.578
+there's massive problems that aren't being addressed
+还有很多问题没有被
+
+21
+00:01:15.578 --> 00:01:17.946
+by those nanoscale technologies.
+这些纳米级技术解决。
+
+22
+00:01:17.946 --> 00:01:20.045
+If we look at construction and manufacturing,
+如果我们看看建筑业和制造业，
+
+23
+00:01:20.045 --> 00:01:24.238
+there's major inefficiencies, energy consumption
+有很多效率严重低下的地方，比如能源消耗
+
+24
+00:01:24.238 --> 00:01:26.565
+and excessive labor techniques.
+和过多的人工技能需求。
+
+25
+00:01:26.565 --> 00:01:29.070
+In infrastructure, let's just take one example.
+在基础设施方面，我们举个例子，
+
+26
+00:01:29.070 --> 00:01:30.553
+Take piping.
+比如说铺设管道。
+
+27
+00:01:30.553 --> 00:01:34.278
+In water pipes, we have fixed-capacity water pipes
+水管，我们的水管都是固定容积，
+
+28
+00:01:34.278 --> 00:01:38.737
+that have fixed flow rates, except for expensive pumps and valves.
+固定流量的，除了昂贵的水泵和水阀以外。
+
+29
+00:01:38.737 --> 00:01:40.028
+We bury them in the ground.
+我们把它们埋在地底下，
+
+30
+00:01:40.028 --> 00:01:42.649
+If anything changes -- if the environment changes,
+如果有任何变动 － 比如环境变化，
+
+31
+00:01:42.649 --> 00:01:45.286
+the ground moves, or demand changes --
+地基移动或者需求改变－
+
+32
+00:01:45.286 --> 00:01:49.536
+we have to start from scratch and take them out and replace them.
+我们就得从头再来, 把它们挖出来再换新的。
+
+33
+00:01:49.536 --> 00:01:52.904
+So I'd like to propose that we can combine those two worlds,
+所以我建议把这两个世界结合起来，
+
+34
+00:01:52.904 --> 00:01:58.075
+that we can combine the world of the nanoscale programmable adaptive materials
+把纳米级上可程序化、能自我调节的材料
+
+35
+00:01:58.075 --> 00:01:59.752
+and the built environment.
+和生产环境结合起来。
+
+36
+00:01:59.752 --> 00:02:01.938
+And I don't mean automated machines.
+我的意思不是自动化设备。
+
+37
+00:02:01.938 --> 00:02:04.397
+I don't just mean smart machines that replace humans.
+我指的也不仅仅是让智能机器替代人类劳动，
+
+38
+00:02:04.397 --> 00:02:08.281
+But I mean programmable materials that build themselves.
+而是那些可以可程序化的材料实现自我组装。
+
+39
+00:02:08.281 --> 00:02:10.337
+And that's called self-assembly,
+这就叫做自我组装，
+
+40
+00:02:10.337 --> 00:02:14.854
+which is a process by which disordered parts build an ordered structure
+一种把各个无序的零部件组成一个有序的结构的过程，
+
+41
+00:02:14.854 --> 00:02:17.347
+through only local interaction.
+这一切都只通过材料自身的相互作用来完成。
+
+42
+00:02:17.347 --> 00:02:20.522
+So what do we need if we want to do this at the human scale?
+那么要把它应用于人类社会生活，我们又需要些什么呢？
+
+43
+00:02:20.522 --> 00:02:22.497
+We need a few simple ingredients.
+我们只需要一些简单的条件，
+
+44
+00:02:22.497 --> 00:02:25.336
+The first ingredient is materials and geometry,
+第一个就是材料和几何形状，
+
+45
+00:02:25.336 --> 00:02:28.805
+and that needs to be tightly coupled with the energy source.
+这需要和能源材料紧密结合起来。
+
+46
+00:02:28.805 --> 00:02:30.463
+And you can use passive energy --
+我们可以用被动式能源 －
+
+47
+00:02:30.463 --> 00:02:35.147
+so heat, shaking, pneumatics, gravity, magnetics.
+比如热力、抖动、气压、重力、磁力。
+
+48
+00:02:35.147 --> 00:02:38.222
+And then you need smartly designed interactions.
+同时我们也需要设计得非常巧妙的交互方式。
+
+49
+00:02:38.222 --> 00:02:40.355
+And those interactions allow for error correction,
+而且这些交互方式可以纠错，
+
+50
+00:02:40.355 --> 00:02:44.355
+and they allow the shapes to go from one state to another state.
+可以让已成型的物体改变状态。
+
+51
+00:02:44.355 --> 00:02:47.587
+So now I'm going to show you a number of projects that we've built,
+我现在要为大家展示我们已经做好的一些项目，
+
+52
+00:02:47.587 --> 00:02:50.871
+from one-dimensional, two-dimensional, three-dimensional
+从一维、二维、三维
+
+53
+00:02:50.871 --> 00:02:53.938
+and even four-dimensional systems.
+甚至到四维的系统。
+
+54
+00:02:53.938 --> 00:02:55.824
+So in one-dimensional systems --
+在一维系统里 －
+
+55
+00:02:55.824 --> 00:02:58.731
+this is a project called the self-folding proteins.
+我们有个项目叫 "自我折叠蛋白质"。
+
+56
+00:02:58.731 --> 00:03:03.438
+And the idea is that you take the three-dimensional structure of a protein --
+思路是我们拿一个蛋白质的三維结构模型 －
+
+57
+00:03:03.438 --> 00:03:06.119
+in this case it's the crambin protein --
+这里我们用的是花菜蛋白 －
+
+58
+00:03:06.119 --> 00:03:09.765
+you take the backbone -- so no cross-linking, no environmental interactions --
+我们拿出它的主链 － 没有交叉链接的地方或者与环境的相互作用
+
+59
+00:03:09.765 --> 00:03:12.916
+and you break that down into a series of components.
+－ 我们把它分解成一系列的组成部分。
+
+60
+00:03:12.916 --> 00:03:15.190
+And then we embed elastic.
+然后我们嵌入一定的弹性松紧度。
+
+61
+00:03:15.190 --> 00:03:17.531
+And when I throw this up into the air and catch it,
+然后我把它抛向空中再接住，
+
+62
+00:03:17.531 --> 00:03:22.382
+it has the full three-dimensional structure of the protein, all of the intricacies.
+它就变成了蛋白质本身复杂的三維结构。
+
+63
+00:03:22.382 --> 00:03:24.482
+And this gives us a tangible model
+它为我们展示了一个形象的
+
+64
+00:03:24.482 --> 00:03:28.216
+of the three-dimensional protein and how it folds
+三維蛋白质模型，它是如何折叠的
+
+65
+00:03:28.216 --> 00:03:30.500
+and all of the intricacies of the geometry.
+以及它的几何复杂性。
+
+66
+00:03:30.500 --> 00:03:33.948
+So we can study this as a physical, intuitive model.
+所以我们可以利用这个实际直观的模型来研究蛋白质。
+
+67
+00:03:33.948 --> 00:03:36.750
+And we're also translating that into two-dimensional systems --
+同时我们也把这个想法应用到二维系统里－
+
+68
+00:03:36.750 --> 00:03:41.049
+so flat sheets that can self-fold into three-dimensional structures.
+比如使平板能够自我折叠形成三維结构。
+
+69
+00:03:41.049 --> 00:03:45.502
+In three dimensions, we did a project last year at TEDGlobal
+对于三維系统，我们去年在TEDGlobal和Autodesk(欧特克)
+
+70
+00:03:45.502 --> 00:03:47.466
+with Autodesk and Arthur Olson
+以及Arthur Olson做了一个项目。
+
+71
+00:03:47.466 --> 00:03:49.164
+where we looked at autonomous parts --
+我们研究了分散独立的零件 －
+
+72
+00:03:49.164 --> 00:03:53.483
+so individual parts not pre-connected that can come together on their own.
+就是怎样让各自分散的部分自发的组合在一起。
+
+73
+00:03:53.483 --> 00:03:56.249
+And we built 500 of these glass beakers.
+我们一共做了500个这样的烧杯。
+
+74
+00:03:56.249 --> 00:03:58.716
+They had different molecular structures inside
+里面有不同的分子结构
+
+75
+00:03:58.716 --> 00:04:00.940
+and different colors that could be mixed and matched.
+以及不同的可以相互混杂搭配的颜色。
+
+76
+00:04:00.940 --> 00:04:03.189
+And we gave them away to all the TEDsters.
+我们把它们给了所有在场的TED观众。
+
+77
+00:04:03.189 --> 00:04:05.690
+And so these became intuitive models
+这些形象的模型帮助我们
+
+78
+00:04:05.690 --> 00:04:09.182
+to understand how molecular self-assembly works at the human scale.
+在宏观上理解分子是如何自我组装的。
+
+79
+00:04:09.182 --> 00:04:10.999
+This is the polio virus.
+这个是脊髓灰质炎病毒。
+
+80
+00:04:10.999 --> 00:04:12.931
+You shake it hard and it breaks apart.
+你使劲儿一摇，它就散架了。
+
+81
+00:04:12.931 --> 00:04:14.377
+And then you shake it randomly
+然后你随便摇瓶子
+
+82
+00:04:14.377 --> 00:04:17.881
+and it starts to error correct and built the structure on its own.
+它就开始纠错然后自己组合成本来的结构形状。
+
+83
+00:04:17.881 --> 00:04:20.848
+And this is demonstrating that through random energy,
+这个例子说明了我们可以利用不规则的运动能量
+
+84
+00:04:20.848 --> 00:04:25.476
+we can build non-random shapes.
+形成规则的物体形状。
+
+85
+00:04:25.476 --> 00:04:29.000
+We even demonstrated that we can do this at a much larger scale.
+我们甚至证明了它同样适用于更加宏观的层面。
+
+86
+00:04:29.000 --> 00:04:31.154
+Last year at TED Long Beach,
+去年在TED的 Long Beach，
+
+87
+00:04:31.154 --> 00:04:34.365
+we built an installation that builds installations.
+我们做了一个可以制造其它设备的装置。
+
+88
+00:04:34.365 --> 00:04:37.902
+The idea was, could we self-assemble furniture-scale objects?
+想法就是我们能不能自我组装家具大小的物体呢？
+
+89
+00:04:37.902 --> 00:04:40.403
+So we built a large rotating chamber,
+所以我们做了一个大的滚动的空间，
+
+90
+00:04:40.403 --> 00:04:43.616
+and people would come up and spin the chamber faster or slower,
+然后人们过来或快或慢的滚动它
+
+91
+00:04:43.616 --> 00:04:45.201
+adding energy to the system
+来给这个系统增加能量
+
+92
+00:04:45.201 --> 00:04:48.647
+and getting an intuitive understanding of how self-assembly works
+从而更形象的理解了自我组装是怎么一回事，
+
+93
+00:04:48.647 --> 00:04:50.026
+and how we could use this
+以及我们怎样
+
+94
+00:04:50.026 --> 00:04:54.772
+as a macroscale construction or manufacturing technique for products.
+在产品的宏观建设或制造技术上利用它。
+
+95
+00:04:54.772 --> 00:04:56.439
+So remember, I said 4D.
+还记得我刚才提到了四维，
+
+96
+00:04:56.439 --> 00:05:00.134
+So today for the first time, we're unveiling a new project,
+今天我们首次向大家展示一个新项目，
+
+97
+00:05:00.134 --> 00:05:02.020
+which is a collaboration with Stratasys,
+这是和Stratasys公司一同合作的，
+
+98
+00:05:02.020 --> 00:05:03.855
+and it's called 4D printing.
+它叫做4D(四维)打印。
+
+99
+00:05:03.855 --> 00:05:05.815
+The idea behind 4D printing
+4D(四维)打印指的是
+
+100
+00:05:05.815 --> 00:05:08.815
+is that you take multi-material 3D printing --
+我们利用多材料进行三維打印 －
+
+101
+00:05:08.815 --> 00:05:11.004
+so you can deposit multiple materials --
+就是我们可以使用多种材料 －
+
+102
+00:05:11.004 --> 00:05:12.888
+and you add a new capability,
+同时我们又新加一种能力，
+
+103
+00:05:12.888 --> 00:05:14.754
+which is transformation,
+就是变形。
+
+104
+00:05:14.754 --> 00:05:16.071
+that right off the bed,
+一但从车床上下来，
+
+105
+00:05:16.071 --> 00:05:20.398
+the parts can transform from one shape to another shape directly on their own.
+这些不同的零部件就可以直接自发的变成其他的形状，
+
+106
+00:05:20.398 --> 00:05:23.898
+And this is like robotics without wires or motors.
+就像是没有电线或者马达驱动的机器人。
+
+107
+00:05:23.898 --> 00:05:25.549
+So you completely print this part,
+所以我们把一个部分完整的打印出来，
+
+108
+00:05:25.549 --> 00:05:28.353
+and it can transform into something else.
+它就可以自己变成其它的物体形状。
+
+109
+00:05:28.353 --> 00:05:33.314
+We also worked with Autodesk on a software they're developing called Project Cyborg.
+我们也和Autodesk（欧特克）合作了他们正在开发的Project Cyborg软件。
+
+110
+00:05:33.314 --> 00:05:36.437
+And this allows us to simulate this self-assembly behavior
+这个项目让我们可以模拟自我组装这种行为
+
+111
+00:05:36.437 --> 00:05:39.639
+and try to optimize which parts are folding when.
+以及优化哪些部件应该在何时折叠变形。
+
+112
+00:05:39.639 --> 00:05:42.369
+But most importantly, we can use this same software
+但是，最重要的是，我们可以利用同样的软件
+
+113
+00:05:42.369 --> 00:05:45.277
+for the design of nanoscale self-assembly systems
+设计纳米级的自我组装系统
+
+114
+00:05:45.277 --> 00:05:48.120
+and human scale self-assembly systems.
+以及人类生活中的自我组装系统。
+
+115
+00:05:48.120 --> 00:05:51.633
+These are parts being printed with multi-material properties.
+这些是用多材料属性打印出来的零件
+
+116
+00:05:51.633 --> 00:05:53.350
+Here's the first demonstration.
+这是第一个演示，
+
+117
+00:05:53.350 --> 00:05:55.254
+A single strand dipped in water
+把一条链子浸在水里
+
+118
+00:05:55.254 --> 00:05:57.603
+that completely self-folds on its own
+它可以完全自我折叠成
+
+119
+00:05:57.603 --> 00:06:01.521
+into the letters M I T.
+字母M. I. T （美国麻省理工学院）。
+
+120
+00:06:01.521 --> 00:06:03.343
+I'm biased.
+我确实偏心。
+
+121
+00:06:03.343 --> 00:06:06.792
+This is another part, single strand, dipped in a bigger tank
+另外一个演示，把一条链子浸在一个大缸里，
+
+122
+00:06:06.792 --> 00:06:11.415
+that self-folds into a cube, a three-dimensional structure, on its own.
+它会自我折叠变成一个三維结构的立方体，
+
+123
+00:06:11.415 --> 00:06:13.266
+So no human interaction.
+没有任何人力的影响。
+
+124
+00:06:13.266 --> 00:06:15.155
+And we think this is the first time
+我们认为这是首次
+
+125
+00:06:15.155 --> 00:06:17.402
+that a program and transformation
+把一个程序软件和变形
+
+126
+00:06:17.402 --> 00:06:20.652
+has been embedded directly into the materials themselves.
+一起直接的嵌入（应用）到材料中去。
+
+127
+00:06:20.652 --> 00:06:23.382
+And it also might just be the manufacturing technique
+或许这将是一种制造技术，
+
+128
+00:06:23.382 --> 00:06:27.516
+that allows us to produce more adaptive infrastructure in the future.
+能让我们在未来生产更多的可自我调节的基础设施设备。
+
+129
+00:06:27.516 --> 00:06:28.702
+So I know you're probably thinking,
+我知道大家现在大概会想，
+
+130
+00:06:28.702 --> 00:06:32.934
+okay, that's cool, but how do we use any of this stuff for the built environment?
+好吧，看着挺酷的，但是我们怎么把它应用到生产环境里？
+
+131
+00:06:32.934 --> 00:06:35.189
+So I've started a lab at MIT,
+我在MIT（美国麻省理工学院）开展了一个实验室，
+
+132
+00:06:35.189 --> 00:06:37.071
+and it's called the Self-Assembly Lab.
+它叫做“自我组装实验室”。
+
+133
+00:06:37.071 --> 00:06:40.215
+And we're dedicated to trying to develop programmable materials
+我们致力于为实际生产环境开发
+
+134
+00:06:40.215 --> 00:06:41.406
+for the built environment.
+可程序化的材料。
+
+135
+00:06:41.406 --> 00:06:43.369
+And we think there's a few key sectors
+我们认为有几个关键部分
+
+136
+00:06:43.369 --> 00:06:45.683
+that have fairly near-term applications.
+它们可以在相当短期内得到应用。
+
+137
+00:06:45.683 --> 00:06:47.738
+One of those is in extreme environments.
+其中之一就是在极限环境下。
+
+138
+00:06:47.738 --> 00:06:50.284
+These are scenarios where it's difficult to build,
+有些情况是建造起来非常困难，
+
+139
+00:06:50.284 --> 00:06:52.772
+our current construction techniques don't work,
+我们现有的建造技术行不通的。
+
+140
+00:06:52.772 --> 00:06:56.332
+it's too large, it's too dangerous, it's expensive, too many parts.
+它太大，太危险，太昂贵，太庞杂。
+
+141
+00:06:56.332 --> 00:06:58.699
+And space is a great example of that.
+太空就是一个非常好的例子。
+
+142
+00:06:58.699 --> 00:07:01.065
+We're trying to design new scenarios for space
+我们正在为太空环境设计新的
+
+143
+00:07:01.065 --> 00:07:04.365
+that have fully reconfigurable and self-assembly structures
+可以完全重置和自我组装的结构。
+
+144
+00:07:04.365 --> 00:07:08.055
+that can go from highly functional systems from one to another.
+它们可以自我转化成各种功能强大的系统。
+
+145
+00:07:08.055 --> 00:07:10.166
+Let's go back to infrastructure.
+我们再回到基础设施建设。
+
+146
+00:07:10.166 --> 00:07:14.065
+In infrastructure, we're working with a company out of Boston called Geosyntec.
+在这个领域，我们正和波士顿一家叫Geosyntec的公司合作，
+
+147
+00:07:14.065 --> 00:07:16.865
+And we're developing a new paradigm for piping.
+正在开发一种新的管道模板。
+
+148
+00:07:16.865 --> 00:07:20.488
+Imagine if water pipes could expand or contract
+想象一下如果水管可以膨胀或者收缩
+
+149
+00:07:20.488 --> 00:07:23.238
+to change capacity or change flow rate,
+来改变容积、改变流量、
+
+150
+00:07:23.238 --> 00:07:27.772
+or maybe even undulate like peristaltics to move the water themselves.
+它甚至可以自己起伏蠕动来传输水。
+
+151
+00:07:27.772 --> 00:07:30.382
+So this isn't expensive pumps or valves.
+这就不需要昂贵的水泵或者水阀了。
+
+152
+00:07:30.382 --> 00:07:34.665
+This is a completely programmable and adaptive pipe on its own.
+这是一个完全可程序化和自我调节的管道。
+
+153
+00:07:34.665 --> 00:07:36.480
+So I want to remind you today
+我今天想要提醒大家的是 －
+
+154
+00:07:36.480 --> 00:07:39.864
+of the harsh realities of assembly in our world.
+当今残酷的组装现实。
+
+155
+00:07:39.864 --> 00:07:43.329
+These are complex things built with complex parts
+这些庞杂的集合体是用复杂的零件
+
+156
+00:07:43.329 --> 00:07:46.114
+that come together in complex ways.
+以繁复的方式组装起来的。
+
+157
+00:07:46.114 --> 00:07:49.313
+So I would like to invite you from whatever industry you're from
+所以，我真诚的邀请大家，不管你们来自哪个领域，
+
+158
+00:07:49.313 --> 00:07:53.366
+to join us in reinventing and reimagining the world,
+和我们一起重塑和重新想象这个世界，
+
+159
+00:07:53.366 --> 00:07:57.065
+how things come together from the nanoscale to the human scale,
+怎样将微观纳米世界和宏观人类生活的事物结合在一起。
+
+160
+00:07:57.065 --> 00:08:00.140
+so that we can go from a world like this
+从而，我们可以从这样一个世界过渡到
+
+161
+00:08:00.140 --> 00:08:03.090
+to a world that's more like this.
+一个更类似于这样的世界。
+
+162
+00:08:12.452 --> 00:08:14.362
+Thank you.
+谢谢大家。
+
+163
+00:08:14.362 --> 00:08:16.663
+(Applause)
+(掌声）
+

@@ -1,0 +1,941 @@
+﻿WEBVTT
+
+1
+00:00:12.763 --> 00:00:16.430
+Today. I'm going to talk about a shameful topic.
+[AI] 今天我要谈一个可耻的话题。
+
+2
+00:00:17.163 --> 00:00:21.196
+This has happened to many of us. and it's embarrassing.
+[AI] 这在我们许多人身上都发生过。这很尴尬。
+
+3
+00:00:21.230 --> 00:00:24.596
+but if we don't talk about it. nothing will ever change.
+[AI] 但如果我们不谈论它。什么都不会改变。
+
+4
+00:00:24.629 --> 00:00:26.696
+It's about being hacked.
+[AI] 这是关于被黑客攻击的。
+
+5
+00:00:27.330 --> 00:00:31.930
+Some of us have clicked on a phishing link and downloaded a computer virus.
+[AI] 我们中的一些人点击了一个网络钓鱼链接并下载了一个计算机病毒。
+
+6
+00:00:31.963 --> 00:00:34.397
+Some of us have had our identities stolen.
+[AI] 我们有些人的身份被偷了。
+
+7
+00:00:34.430 --> 00:00:36.430
+And those of us who are software developers
+[AI] 还有我们这些软件开发人员
+
+8
+00:00:36.463 --> 00:00:39.830
+might have written insecure code with security bugs in it
+[AI] 可能编写了不安全的代码，其中包含安全漏洞
+
+9
+00:00:39.862 --> 00:00:41.263
+without realizing it.
+[AI] 没有意识到。
+
+10
+00:00:42.230 --> 00:00:43.930
+As a cybersecurity expert.
+[AI] 作为一名网络安全专家。
+
+11
+00:00:43.962 --> 00:00:48.296
+I have worked with countless companies on improving their cybersecurity.
+[AI] 我曾与无数公司合作改善他们的网络安全。
+
+12
+00:00:48.763 --> 00:00:52.163
+Cybersecurity experts like me have advised companies
+[AI] 像我这样的网络安全专家为公司提供了建议
+
+13
+00:00:52.196 --> 00:00:54.797
+on good cybersecurity practices.
+[AI] 关于良好的网络安全做法。
+
+14
+00:00:54.830 --> 00:00:55.963
+monitoring tools
+[AI] 监测工具
+
+15
+00:00:55.996 --> 00:00:57.696
+and proper user behaviors.
+[AI] 以及正确的用户行为。
+
+16
+00:00:57.730 --> 00:01:02.462
+But I actually see a much bigger problem that no tool can fix:
+[AI] 但我实际上看到了一个更大的问题，没有工具可以解决：
+
+17
+00:01:02.496 --> 00:01:05.796
+the shame associated with the mistakes that we make.
+[AI] 与我们所犯的错误有关的羞耻感。
+
+18
+00:01:06.263 --> 00:01:10.130
+We like to think of ourselves as competent and tech savvy.
+[AI] 我们喜欢认为自己有能力并且精通技术。
+
+19
+00:01:10.162 --> 00:01:13.463
+and when we make these mistakes that can have a really bad impact
+[AI] 当我们犯了这些错误，可能会产生非常坏的影响
+
+20
+00:01:13.496 --> 00:01:14.897
+on us and our companies --
+[AI] 关于我们和我们的公司--
+
+21
+00:01:14.929 --> 00:01:16.796
+anything from a simple annoyance.
+[AI] 从一个简单的烦恼。
+
+22
+00:01:16.829 --> 00:01:18.996
+to taking a lot of time to fix.
+[AI] 要花很多时间来修复。
+
+23
+00:01:19.029 --> 00:01:22.662
+to costing us and our employers a lot of money.
+[AI] 让我们和我们的雇主损失了很多钱。
+
+24
+00:01:23.329 --> 00:01:27.796
+Despite billions of dollars that companies spend on cybersecurity.
+[AI] 尽管公司在网络安全上花费了数十亿美元。
+
+25
+00:01:27.829 --> 00:01:32.329
+practitioners like me see the same problems over and over again.
+[AI] 像我这样的从业者一次又一次地看到同样的问题。
+
+26
+00:01:32.362 --> 00:01:34.162
+Let me give you some examples.
+[AI] 让我举几个例子。
+
+27
+00:01:35.029 --> 00:01:38.062
+The 2015 hack of Ukrainian utilities
+[AI] 2015年乌克兰公用事业遭到黑客攻击
+
+28
+00:01:38.097 --> 00:01:41.863
+that disconnected power for 225.000 customers
+[AI] 这为225.000名客户切断了电源
+
+29
+00:01:41.897 --> 00:01:45.562
+and took months to restore back to full operations
+[AI] 并花了数月时间恢复到全面运行状态
+
+30
+00:01:45.597 --> 00:01:47.696
+started with a phishing link.
+[AI] 从网络钓鱼链接开始。
+
+31
+00:01:47.730 --> 00:01:53.297
+By the way. 225.000 customers is a lot more 225.000 people.
+[AI] 顺便说一句225.000名客户比225.000人多得多。
+
+32
+00:01:53.329 --> 00:01:56.029
+Customers can be anything from an apartment building
+[AI] 顾客可以是公寓楼以外的任何东西
+
+33
+00:01:56.062 --> 00:01:57.463
+to an industrial facility
+[AI] 工业设施
+
+34
+00:01:57.496 --> 00:01:58.930
+to a shopping mall.
+[AI] 去购物中心。
+
+35
+00:01:58.963 --> 00:02:02.062
+The 2017 data breach of Equifax
+[AI] 2017年Equifax数据泄露事件
+
+36
+00:02:02.062 --> 00:02:04.897
+that exposed personally identifiable information
+[AI] 这暴露了个人身份信息
+
+37
+00:02:04.930 --> 00:02:07.362
+of 140 million people
+[AI] 1.4亿人口
+
+38
+00:02:07.362 --> 00:02:07.363
+and may ultimately cost Equifax something on the order of 1.4 billion dollars:
+[AI] 最终可能会花费Equifax 14亿美元：
+
+39
+00:02:07.363 --> 00:02:13.697
+and may ultimately cost Equifax something on the order of 1.4 billion dollars:
+[AI] 最终可能会花费Equifax 14亿美元：
+
+40
+00:02:13.730 --> 00:02:17.230
+that was caused by an exploitation of a well-known vulnerability
+[AI] 这是由于利用了一个众所周知的漏洞造成的
+
+41
+00:02:17.262 --> 00:02:20.197
+in the company's customer consumer complaint portal.
+[AI] 在公司的客户投诉门户中。
+
+42
+00:02:21.262 --> 00:02:25.362
+Fundamentally. this is about technology and innovation.
+[AI] 从根本上讲这是关于技术和创新的。
+
+43
+00:02:25.397 --> 00:02:28.397
+Innovation is good; it makes our lives better.
+[AI] 创新是好的；它使我们的生活更美好。
+
+44
+00:02:28.397 --> 00:02:34.429
+Most of the modern cars we drive today are fundamentally computers on wheels.
+[AI] 我们今天驾驶的大多数现代汽车基本上都是带轮子的计算机。
+
+45
+00:02:34.463 --> 00:02:39.297
+They tell us where to go to avoid traffic. when to take them in for maintenance
+[AI] 他们告诉我们去哪里避免交通堵塞。什么时候进行保养
+
+46
+00:02:39.329 --> 00:02:42.529
+and then give us all kinds of modern-day conveniences.
+[AI] 然后给我们各种现代便利。
+
+47
+00:02:42.562 --> 00:02:45.996
+Many people use connected medical devices like pacemakers
+[AI] 许多人使用连接的医疗设备，如心脏起搏器
+
+48
+00:02:46.030 --> 00:02:48.330
+and glucose monitors with insulin pumps.
+[AI] 和带有胰岛素泵的血糖监测仪。
+
+49
+00:02:48.897 --> 00:02:51.429
+These devices make these people's lives better
+[AI] 这些设备使这些人的生活变得更好
+
+50
+00:02:51.463 --> 00:02:53.996
+and sometimes even extend their lives.
+[AI] 有时甚至延长他们的生命。
+
+51
+00:02:53.996 --> 00:02:59.529
+But anything that can be interconnected can be hacked when it's connected.
+[AI] 但是任何可以相互连接的东西在连接时都可能被黑客攻击。
+
+52
+00:02:59.929 --> 00:03:02.996
+Did you know that the former US Vice President Dick Cheney
+[AI] 你知道美国前副总统迪克·切尼
+
+53
+00:03:03.030 --> 00:03:07.530
+kept his pacemaker disconnected from Wi-Fi before he received a heart transplant?
+[AI] 在他接受心脏移植之前，让他的起搏器与Wi-Fi断开？
+
+54
+00:03:07.562 --> 00:03:09.696
+I will let you figure out why.
+[AI] 我会让你找出原因的。
+
+55
+00:03:10.530 --> 00:03:15.562
+In a digitally interconnected world. cyber risks are literally everywhere.
+[AI] 在一个数字互联的世界里。网络风险无处不在。
+
+56
+00:03:15.929 --> 00:03:18.730
+For years. my colleagues and I have been talking about
+[AI] 多年来。我的同事和我一直在谈论
+
+57
+00:03:18.762 --> 00:03:21.230
+this elusive notion of cybersecurity culture.
+[AI] 网络安全文化这一难以捉摸的概念。
+
+58
+00:03:21.730 --> 00:03:25.096
+Cybersecurity culture is when everybody in the organization
+[AI] 网络安全文化是指组织中的每个人
+
+59
+00:03:25.130 --> 00:03:27.863
+believes that cybersecurity is their job.
+[AI] 相信网络安全是他们的工作。
+
+60
+00:03:27.897 --> 00:03:29.797
+knows what to do and what not to do
+[AI] 知道该做什么和不该做什么
+
+61
+00:03:29.797 --> 00:03:31.130
+and does the right thing.
+[AI] 做正确的事。
+
+62
+00:03:31.762 --> 00:03:35.262
+Unfortunately. I can't tell you which companies do this well.
+[AI] 不幸地我不能告诉你哪些公司做得好。
+
+63
+00:03:35.297 --> 00:03:38.797
+because by doing so. I would put a juicy target on their backs
+[AI] 因为这样做。我会把一个有趣的目标放在他们的背上
+
+64
+00:03:38.797 --> 00:03:40.730
+for ambitious attackers.
+[AI] 对于雄心勃勃的攻击者。
+
+65
+00:03:40.730 --> 00:03:44.996
+But what I can do is make cybersecurity less mysterious.
+[AI] 但我能做的是让网络安全不再那么神秘。
+
+66
+00:03:44.996 --> 00:03:47.897
+bring it out into the open and talk about it.
+[AI] 把它公开出来，并谈论它。
+
+67
+00:03:48.463 --> 00:03:53.062
+There should be no mystery or secrecy within an organization.
+[AI] 一个组织内部不应该有神秘或秘密。
+
+68
+00:03:53.897 --> 00:03:57.697
+When something is invisible and it's working.
+[AI] 当某些东西是看不见的，并且它在工作时。
+
+69
+00:03:57.730 --> 00:04:01.197
+we don't know that it's there until it's not there.
+[AI] 直到它不在那里，我们才知道它在那里。
+
+70
+00:04:01.230 --> 00:04:03.562
+Kind of like toilet paper.
+[AI] 有点像卫生纸。
+
+71
+00:04:04.363 --> 00:04:07.097
+When the COVID-19 pandemic began.
+[AI] 2019冠状病毒疾病流行的开始。
+
+72
+00:04:07.130 --> 00:04:10.297
+what has been there all of a sudden became super important
+[AI] 那里发生的一切突然变得非常重要
+
+73
+00:04:10.297 --> 00:04:12.097
+because we couldn't find it anywhere.
+[AI] 因为我们到处都找不到。
+
+74
+00:04:12.530 --> 00:04:14.697
+Cybersecurity is just like that:
+[AI] 网络安全就是这样：
+
+75
+00:04:14.730 --> 00:04:17.797
+when it's working. we don't know. and we don't care.
+[AI] 当它工作时。我们不知道。我们不在乎。
+
+76
+00:04:17.829 --> 00:04:19.363
+But when it's not working.
+[AI] 但当它不起作用的时候。
+
+77
+00:04:19.397 --> 00:04:21.997
+it can be really. really bad.
+[AI] 这可能是真的。真糟糕。
+
+78
+00:04:22.497 --> 00:04:25.262
+Toilet paper is pretty straightforward.
+[AI] 卫生纸很简单。
+
+79
+00:04:25.262 --> 00:04:28.296
+Cybersecurity is mysterious and complex.
+[AI] 网络安全是神秘而复杂的。
+
+80
+00:04:28.329 --> 00:04:32.197
+And I actually think it starts with the notion of psychological safety.
+[AI] 我认为这是从心理安全的概念开始的。
+
+81
+00:04:32.997 --> 00:04:36.897
+This notion was popularized by an organizational behavior scientist.
+[AI] 一位组织行为科学家推广了这一概念。
+
+82
+00:04:36.930 --> 00:04:38.663
+Amy Edmondson.
+[AI] 艾米·爱德蒙森。
+
+83
+00:04:38.663 --> 00:04:43.829
+Amy studied behavior of medical teams in high-stakes situations like hospitals.
+[AI] 艾米研究了医疗团队在医院等高风险情况下的行为。
+
+84
+00:04:43.863 --> 00:04:45.596
+where mistakes could be fatal.
+[AI] 错误可能是致命的。
+
+85
+00:04:45.630 --> 00:04:48.329
+And she found out that nurses were not comfortable
+[AI] 她发现护士们不舒服
+
+86
+00:04:48.329 --> 00:04:50.596
+bringing up suggestions to the doctors
+[AI] 向医生提出建议
+
+87
+00:04:50.596 --> 00:04:52.829
+because of the fear of questioning authority.
+[AI] 因为害怕质疑权威。
+
+88
+00:04:53.497 --> 00:04:56.097
+Amy helped improve medical teams
+[AI] 艾米帮助改进了医疗队
+
+89
+00:04:56.130 --> 00:04:59.829
+to make nurses more comfortable bringing up suggestions to the doctors
+[AI] 让护士更容易向医生提出建议
+
+90
+00:04:59.829 --> 00:05:01.029
+for patient treatment
+[AI] 病人治疗
+
+91
+00:05:01.029 --> 00:05:04.096
+without the fear of being scolded or demeaned.
+[AI] 没有被责骂或贬低的恐惧。
+
+92
+00:05:04.096 --> 00:05:07.662
+For that to happen. doctors needed to listen and be receptive --
+[AI] 让这一切发生。医生需要倾听和接受--
+
+93
+00:05:07.697 --> 00:05:08.897
+without judging.
+[AI] 不加评判。
+
+94
+00:05:10.062 --> 00:05:14.197
+Psychological safety is when everybody is comfortable speaking up
+[AI] 心理安全是指每个人都能轻松地说出自己的想法
+
+95
+00:05:14.229 --> 00:05:15.929
+and pointing things out.
+[AI] 并指出问题所在。
+
+96
+00:05:16.796 --> 00:05:19.529
+I want cybersecurity to be the same.
+[AI] 我希望网络安全也一样。
+
+97
+00:05:19.562 --> 00:05:23.596
+And I want cybersecurity practitioners to be comfortable bringing suggestions up
+[AI] 我希望网络安全从业人员能够轻松地提出建议
+
+98
+00:05:23.630 --> 00:05:26.497
+to senior executives or software developers.
+[AI] 给高级管理人员或软件开发人员。
+
+99
+00:05:26.529 --> 00:05:30.429
+without being dismissed as those people who continue to talk about
+[AI] 没有被解雇的那些人继续谈论
+
+100
+00:05:30.462 --> 00:05:31.796
+horrors and errors.
+[AI] 恐怖和错误。
+
+101
+00:05:31.829 --> 00:05:33.096
+and say no.
+[AI] 说不。
+
+102
+00:05:33.663 --> 00:05:36.763
+Not doing so is really hard
+[AI] 不这样做真的很难
+
+103
+00:05:36.796 --> 00:05:40.897
+for the individuals who are responsible for the creation of digital products
+[AI] 对于负责数字产品创作的个人
+
+104
+00:05:40.930 --> 00:05:45.730
+because fundamentally. it's about their pride and joy in their creations.
+[AI] 因为从根本上来说。这是关于他们在创作中的骄傲和喜悦。
+
+105
+00:05:46.296 --> 00:05:49.729
+I once tried talking to a senior software development executive
+[AI] 我曾经试着和一位高级软件开发主管交谈
+
+106
+00:05:49.762 --> 00:05:51.796
+about the need to do better security.
+[AI] 关于需要做更好的安全性。
+
+107
+00:05:51.796 --> 00:05:53.029
+You know what he said?
+[AI] 你知道他说了什么吗？
+
+108
+00:05:53.062 --> 00:05:55.596
+"Are you telling me we're developing insecure code?"
+[AI] “你是说我们正在开发不安全的代码吗？”
+
+109
+00:05:55.962 --> 00:05:59.397
+In other words. what he heard was. "Your baby is ugly."
+[AI] 换句话说。他听到的是。“你的孩子很丑。”
+
+110
+00:06:00.029 --> 00:06:04.429
+What if instead of focusing on what not to do.
+[AI] 如果不是专注于不该做的事情，那该怎么办呢。
+
+111
+00:06:04.462 --> 00:06:06.729
+we focused on what to do?
+[AI] 我们专注于做什么？
+
+112
+00:06:06.762 --> 00:06:10.329
+Like. how do we develop better software
+[AI] 喜欢我们如何开发更好的软件
+
+113
+00:06:10.363 --> 00:06:13.897
+and protect our customer information at the same time?
+[AI] 同时保护我们的客户信息？
+
+114
+00:06:13.930 --> 00:06:18.363
+Or how do we make sure that our organization is able to operate
+[AI] 或者我们如何确保我们的组织能够运作
+
+115
+00:06:18.397 --> 00:06:21.163
+in crisis. under attack or in an emergency?
+[AI] 在危机中。受到攻击还是处于紧急状态？
+
+116
+00:06:21.562 --> 00:06:25.630
+And what if we reward good things that people do in cybersecurity in some way
+[AI] 如果我们以某种方式奖励人们在网络安全方面所做的好事呢
+
+117
+00:06:25.663 --> 00:06:27.263
+and encourage them to do so.
+[AI] 并鼓励他们这样做。
+
+118
+00:06:27.296 --> 00:06:29.462
+like reporting security incidents.
+[AI] 比如报告安全事件。
+
+119
+00:06:29.497 --> 00:06:32.062
+reporting potential phishing emails.
+[AI] 报告潜在的网络钓鱼电子邮件。
+
+120
+00:06:32.062 --> 00:06:35.562
+or finding and fixing software security bugs
+[AI] 或者查找和修复软件安全漏洞
+
+121
+00:06:35.596 --> 00:06:37.462
+in the software that they develop?
+[AI] 在他们开发的软件中？
+
+122
+00:06:37.497 --> 00:06:41.297
+And what if we tied these good security actions to performance evaluations
+[AI] 如果我们将这些良好的安全措施与性能评估联系起来呢
+
+123
+00:06:41.329 --> 00:06:42.962
+to make it really matter?
+[AI] 让它变得真正重要？
+
+124
+00:06:43.462 --> 00:06:47.729
+I would love for us to communicate these good cybersecurity things
+[AI] 我希望我们能交流这些良好的网络安全问题
+
+125
+00:06:47.762 --> 00:06:50.697
+and encourage them in some sort of company-wide communications
+[AI] 并鼓励他们在公司范围内进行某种形式的沟通
+
+126
+00:06:50.729 --> 00:06:53.429
+like newsletters. blogs. websites. microsites --
+[AI] 我喜欢时事通讯。博客。网站。微晶--
+
+127
+00:06:53.462 --> 00:06:56.729
+whatever we use to communicate to our organization.
+[AI] 无论我们用什么来与我们的组织沟通。
+
+128
+00:06:56.762 --> 00:07:02.229
+What if a company announced a competition for who finds the most security bugs
+[AI] 如果一家公司宣布竞争谁发现了最多的安全漏洞呢
+
+129
+00:07:02.229 --> 00:07:05.496
+and fixes them in a two-week development sprint
+[AI] 并在为期两周的开发冲刺中修复了它们
+
+130
+00:07:05.529 --> 00:07:08.863
+and then announces the winner of the competition for the quarter
+[AI] 然后宣布本季度比赛的获胜者
+
+131
+00:07:08.897 --> 00:07:11.663
+at a large company virtual town hall.
+[AI] 在一家大公司的虚拟市政厅。
+
+132
+00:07:11.663 --> 00:07:15.897
+and then rewards these people. these winners. with something meaningful.
+[AI] 然后奖励这些人。这些获胜者。有意义的东西。
+
+133
+00:07:15.930 --> 00:07:18.096
+like a week's vacation or a bonus.
+[AI] 比如一周的假期或者奖金。
+
+134
+00:07:18.462 --> 00:07:21.296
+Others will see the celebration and recognition.
+[AI] 其他人将看到庆祝和认可。
+
+135
+00:07:21.329 --> 00:07:23.262
+and they'll want to do the same.
+[AI] 他们也会这么做。
+
+136
+00:07:23.262 --> 00:07:24.662
+In the energy industry.
+[AI] 在能源行业。
+
+137
+00:07:24.697 --> 00:07:27.529
+there is a really strong culture of safety.
+[AI] 有一种非常强大的安全文化。
+
+138
+00:07:27.529 --> 00:07:27.530
+People care about this culture. are proud of it.
+[AI] 人们关心这种文化。我们为此感到自豪。
+
+139
+00:07:27.530 --> 00:07:30.496
+People care about this culture. are proud of it.
+[AI] 人们关心这种文化。我们为此感到自豪。
+
+140
+00:07:30.497 --> 00:07:33.963
+and there is a collective reinforcement of this culture
+[AI] 这种文化得到了集体的强化
+
+141
+00:07:33.997 --> 00:07:35.930
+to make sure that nobody gets hurt.
+[AI] 确保没有人受伤。
+
+142
+00:07:35.930 --> 00:07:40.463
+One of the ways they exhibit and keep this safety conscious culture going
+[AI] 他们展示和保持这种安全意识文化的方式之一
+
+143
+00:07:40.497 --> 00:07:46.730
+is by counting and visibly displaying days since the last safety incident.
+[AI] 通过计算和明显显示自上次安全事件以来的天数。
+
+144
+00:07:47.363 --> 00:07:51.730
+And then everybody works really hard not to have that count go back to zero
+[AI] 然后每个人都努力工作，不让计数回到零
+
+145
+00:07:51.762 --> 00:07:54.262
+because that means that somebody did get hurt.
+[AI] 因为那意味着有人受伤了。
+
+146
+00:07:54.296 --> 00:07:57.429
+Cybersecurity is the same as safety.
+[AI] 网络安全与安全是一样的。
+
+147
+00:07:57.462 --> 00:07:59.096
+What if we all agree
+[AI] 如果我们都同意呢
+
+148
+00:07:59.130 --> 00:08:02.397
+to keep that count of days since the last cybersecurity incident
+[AI] 从上次网络安全事件开始算起的日子
+
+149
+00:08:02.430 --> 00:08:03.763
+going on forever
+[AI] 永远持续下去
+
+150
+00:08:03.796 --> 00:08:06.996
+and then work really hard not to have it reset to zero?
+[AI] 然后努力工作不让它归零？
+
+151
+00:08:07.796 --> 00:08:09.829
+And then certain things are a no-no.
+[AI] 然后某些事情是不允许的。
+
+152
+00:08:09.863 --> 00:08:13.297
+and we need to clearly communicate to our organizations what they are
+[AI] 我们需要清楚地向我们的组织传达他们是什么
+
+153
+00:08:13.329 --> 00:08:16.197
+in an easily digestible and maybe even fun way.
+[AI] 以一种易于消化甚至有趣的方式。
+
+154
+00:08:16.229 --> 00:08:18.896
+like gamification or simulations.
+[AI] 比如游戏化或者模拟。
+
+155
+00:08:18.930 --> 00:08:21.397
+to make sure that people can remember this.
+[AI] 以确保人们能够记住这一点。
+
+156
+00:08:21.430 --> 00:08:24.263
+And if somebody does something they're not supposed to do.
+[AI] 如果有人做了不该做的事。
+
+157
+00:08:24.296 --> 00:08:26.429
+they should face some sort of consequences.
+[AI] 他们应该面临某种后果。
+
+158
+00:08:26.462 --> 00:08:31.196
+So. for example. if an employee buys equipment on Amazon or eBay
+[AI] 所以例如如果员工在亚马逊或易趣上购买设备
+
+159
+00:08:31.229 --> 00:08:34.629
+or uses personal Dropbox for their company business.
+[AI] 或者在公司业务中使用个人Dropbox。
+
+160
+00:08:34.663 --> 00:08:37.130
+then they should face some sort of consequences.
+[AI] 那么他们应该面临某种后果。
+
+161
+00:08:37.162 --> 00:08:40.296
+And when this happens. executives should get the same treatment
+[AI] 当这种情况发生时。高管们应该得到同样的待遇
+
+162
+00:08:40.329 --> 00:08:41.997
+as regular employees.
+[AI] 作为正式雇员。
+
+163
+00:08:41.997 --> 00:08:44.997
+because if they don't. then people won't believe that it's real
+[AI] 因为如果他们不相信，人们就不会相信这是真的
+
+164
+00:08:45.030 --> 00:08:46.963
+and will go back to their old behaviors.
+[AI] 并将回到他们以前的行为。
+
+165
+00:08:46.997 --> 00:08:49.497
+It's OK to talk about mistakes.
+[AI] 谈论错误是可以的。
+
+166
+00:08:49.530 --> 00:08:53.563
+but just like a teenager who violates the rules tells us about it.
+[AI] 但就像一个违反规则的青少年告诉我们的一样。
+
+167
+00:08:53.597 --> 00:08:55.663
+we appreciate that they told us about it.
+[AI] 我们感谢他们告诉我们这件事。
+
+168
+00:08:55.696 --> 00:08:58.129
+but there should still be some sort of consequences.
+[AI] 但仍有一些后果。
+
+169
+00:08:59.963 --> 00:09:02.097
+Cybersecurity is a journey.
+[AI] 网络安全是一段旅程。
+
+170
+00:09:02.129 --> 00:09:03.629
+It's not a destination.
+[AI] 这不是目的地。
+
+171
+00:09:03.629 --> 00:09:05.562
+and we need to keep working on it.
+[AI] 我们需要继续努力。
+
+172
+00:09:05.997 --> 00:09:09.129
+I would love for us to celebrate cybersecurity people
+[AI] 我希望我们能为网络安全人士庆祝
+
+173
+00:09:09.129 --> 00:09:09.130
+like the heroes that they are.
+[AI] 就像他们是英雄一样。
+
+174
+00:09:09.130 --> 00:09:11.062
+like the heroes that they are.
+[AI] 就像他们是英雄一样。
+
+175
+00:09:11.063 --> 00:09:14.030
+If we think about it. they are firefighters.
+[AI] 如果我们仔细想想。他们是消防员。
+
+176
+00:09:14.030 --> 00:09:15.863
+emergency room doctors and nurses.
+[AI] 急诊室的医生和护士。
+
+177
+00:09:15.897 --> 00:09:19.662
+law enforcement. risk executives and business strategists
+[AI] 执法。风险主管和业务策略师
+
+178
+00:09:19.662 --> 00:09:21.562
+all in the same persona.
+[AI] 都在同一个角色中。
+
+179
+00:09:21.597 --> 00:09:25.397
+And they help us protect our modern life that we like so much.
+[AI] 它们帮助我们保护我们非常喜欢的现代生活。
+
+180
+00:09:25.397 --> 00:09:29.729
+They protect our identities. our inventions. our intellectual property.
+[AI] 他们保护我们的身份。我们的发明。我们的知识产权。
+
+181
+00:09:29.762 --> 00:09:32.162
+our electric grid. medical devices.
+[AI] 我们的电网。医疗设备。
+
+182
+00:09:32.196 --> 00:09:35.696
+connected cars and myriad other things.
+[AI] 连接的汽车和无数其他东西。
+
+183
+00:09:35.696 --> 00:09:37.296
+And I'd like to be on that team.
+[AI] 我想加入这个团队。
+
+184
+00:09:37.796 --> 00:09:42.062
+So let's agree that this thing is with us to stay.
+[AI] 所以，让我们同意，这件事是与我们留在一起。
+
+185
+00:09:42.063 --> 00:09:45.662
+let's create a safe environment to learn from our mistakes.
+[AI] 让我们创造一个安全的环境，从错误中吸取教训。
+
+186
+00:09:45.662 --> 00:09:45.663
+and let's commit to making things better.
+[AI] 让我们致力于让事情变得更好。
+
+187
+00:09:45.663 --> 00:09:48.029
+and let's commit to making things better.
+[AI] 让我们致力于让事情变得更好。
+
+188
+00:09:48.063 --> 00:09:49.330
+Thank you.
+[AI] 非常感谢。

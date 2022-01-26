@@ -1,0 +1,1761 @@
+﻿WEBVTT
+
+1
+00:00:12.919 --> 00:00:14.538
+I study ants
+[AI] 我研究蚂蚁
+
+2
+00:00:14.538 --> 00:00:17.835
+in the desert. in the tropical forest
+[AI] 在沙漠里。在热带森林里
+
+3
+00:00:17.835 --> 00:00:19.363
+and in my kitchen.
+[AI] 在我的厨房里。
+
+4
+00:00:19.363 --> 00:00:23.383
+and in the hills around Silicon Valley where I live.
+[AI] 我住在硅谷周围的小山上。
+
+5
+00:00:23.383 --> 00:00:25.059
+I've recently realized that ants
+[AI] 我最近意识到蚂蚁
+
+6
+00:00:25.059 --> 00:00:27.337
+are using interactions differently
+[AI] 使用交互的方式是否不同
+
+7
+00:00:27.337 --> 00:00:29.165
+in different environments.
+[AI] 在不同的环境中。
+
+8
+00:00:29.165 --> 00:00:31.165
+and that got me thinking that we could learn from this
+[AI] 这让我想到我们可以从中学习
+
+9
+00:00:31.165 --> 00:00:32.720
+about other systems.
+[AI] 关于其他系统。
+
+10
+00:00:32.720 --> 00:00:38.308
+like brains and data networks that we engineer.
+[AI] 就像我们设计的大脑和数据网络。
+
+11
+00:00:38.308 --> 00:00:41.154
+and even cancer.
+[AI] 甚至癌症。
+
+12
+00:00:41.154 --> 00:00:42.906
+So what all these systems have in common
+[AI] 那么所有这些系统的共同点是什么呢
+
+13
+00:00:42.906 --> 00:00:45.763
+is that there's no central control.
+[AI] 就是没有中央控制。
+
+14
+00:00:45.763 --> 00:00:49.583
+An ant colony consists of sterile female workers --
+[AI] 蚁群由不育的女工组成--
+
+15
+00:00:49.583 --> 00:00:51.969
+those are the ants you see walking around â€”
+[AI] 这些就是你看到的四处走动的蚂蚁
+
+16
+00:00:51.969 --> 00:00:54.125
+and then one or more reproductive females
+[AI] 然后是一个或多个生殖雌性
+
+17
+00:00:54.125 --> 00:00:56.228
+who just lay the eggs.
+[AI] 刚下蛋的人。
+
+18
+00:00:56.228 --> 00:00:58.237
+They don't give any instructions.
+[AI] 他们不给任何指示。
+
+19
+00:00:58.237 --> 00:01:00.221
+Even though they're called queens.
+[AI] 尽管他们被称为女王。
+
+20
+00:01:00.221 --> 00:01:02.386
+they don't tell anybody what to do.
+[AI] 他们不告诉任何人该做什么。
+
+21
+00:01:02.386 --> 00:01:05.662
+So in an ant colony. there's no one in charge.
+[AI] 所以在蚁群中。没有人负责。
+
+22
+00:01:05.662 --> 00:01:08.440
+and all systems like this without central control
+[AI] 所有这样的系统都没有中央控制
+
+23
+00:01:08.440 --> 00:01:12.359
+are regulated using very simple interactions.
+[AI] 使用非常简单的交互进行管理。
+
+24
+00:01:12.369 --> 00:01:15.096
+Ants interact using smell.
+[AI] 蚂蚁利用气味进行互动。
+
+25
+00:01:15.096 --> 00:01:17.283
+They smell with their antennae.
+[AI] 它们用触角闻气味。
+
+26
+00:01:17.283 --> 00:01:20.044
+and they interact with their antennae.
+[AI] 它们与触角相互作用。
+
+27
+00:01:20.044 --> 00:01:23.053
+so when one ant touches another with its antennae.
+[AI] 所以当一只蚂蚁用它的触角触碰另一只蚂蚁时。
+
+28
+00:01:23.053 --> 00:01:24.660
+it can tell. for example. if the other ant
+[AI] 它可以告诉你。例如如果另一只蚂蚁
+
+29
+00:01:24.660 --> 00:01:26.294
+is a nestmate
+[AI] 他是一个巢友
+
+30
+00:01:26.294 --> 00:01:30.530
+and what task that other ant has been doing.
+[AI] 还有另一只蚂蚁在做什么。
+
+31
+00:01:30.530 --> 00:01:33.730
+So here you see a lot of ants moving around
+[AI] 所以在这里你看到很多蚂蚁四处移动
+
+32
+00:01:33.730 --> 00:01:35.663
+and interacting in a lab arena
+[AI] 在实验室里进行互动
+
+33
+00:01:35.663 --> 00:01:39.101
+that's connected by tubes to two other arenas.
+[AI] 通过管道连接到另外两个竞技场。
+
+34
+00:01:39.101 --> 00:01:41.605
+So when one ant meets another.
+[AI] 所以当一只蚂蚁遇到另一只蚂蚁。
+
+35
+00:01:41.605 --> 00:01:43.694
+it doesn't matter which ant it meets.
+[AI] 遇到哪只蚂蚁并不重要。
+
+36
+00:01:43.694 --> 00:01:45.579
+and they're actually not transmitting
+[AI] 实际上它们并没有传播
+
+37
+00:01:45.579 --> 00:01:49.044
+any kind of complicated signal or message.
+[AI] 任何一种复杂的信号或信息。
+
+38
+00:01:49.044 --> 00:01:51.155
+All that matters to the ant is the rate
+[AI] 对蚂蚁来说，重要的是速度
+
+39
+00:01:51.155 --> 00:01:53.976
+at which it meets other ants.
+[AI] 在那里它遇到了其他蚂蚁。
+
+40
+00:01:53.976 --> 00:01:56.733
+And all of these interactions. taken together.
+[AI] 所有这些互动。综合起来。
+
+41
+00:01:56.733 --> 00:01:59.238
+produce a network.
+[AI] 产生一个网络。
+
+42
+00:01:59.238 --> 00:02:01.448
+So this is the network of the ants
+[AI] 这就是蚂蚁的网络
+
+43
+00:02:01.448 --> 00:02:04.092
+that you just saw moving around in the arena.
+[AI] 你刚才在竞技场里看到的。
+
+44
+00:02:04.092 --> 00:02:07.379
+and it's this constantly shifting network
+[AI] 这是一个不断变化的网络
+
+45
+00:02:07.379 --> 00:02:09.899
+that produces the behavior of the colony.
+[AI] 这就产生了群体的行为。
+
+46
+00:02:09.899 --> 00:02:12.780
+like whether all the ants are hiding inside the nest.
+[AI] 比如是否所有的蚂蚁都躲在巢穴里。
+
+47
+00:02:12.780 --> 00:02:15.474
+or how many are going out to forage.
+[AI] 或者有多少人出去觅食。
+
+48
+00:02:15.474 --> 00:02:17.233
+A brain actually works in the same way.
+[AI] 大脑实际上也是这样工作的。
+
+49
+00:02:17.233 --> 00:02:18.733
+but what's great about ants is
+[AI] 但是蚂蚁的优点是
+
+50
+00:02:18.733 --> 00:02:23.600
+that you can see the whole network as it happens.
+[AI] 你可以看到整个网络，因为它发生了。
+
+51
+00:02:23.600 --> 00:02:26.700
+There are more than 12.000 species of ants.
+[AI] 蚂蚁有12000多种。
+
+52
+00:02:26.700 --> 00:02:28.825
+in every conceivable environment.
+[AI] 在任何可以想象的环境中。
+
+53
+00:02:28.825 --> 00:02:31.474
+and they're using interactions differently
+[AI] 他们使用不同的交互方式
+
+54
+00:02:31.474 --> 00:02:34.242
+to meet different environmental challenges.
+[AI] 以应对不同的环境挑战。
+
+55
+00:02:34.242 --> 00:02:36.547
+So one important environmental challenge
+[AI] 这是一个重要的环境挑战
+
+56
+00:02:36.547 --> 00:02:38.417
+that every system has to deal with
+[AI] 每个系统都必须处理的问题
+
+57
+00:02:38.417 --> 00:02:40.500
+is operating costs. just what it takes
+[AI] 是运营成本。正是它所需要的
+
+58
+00:02:40.500 --> 00:02:42.765
+to run the system.
+[AI] 运行系统。
+
+59
+00:02:42.765 --> 00:02:45.313
+And another environmental challenge is resources.
+[AI] 另一个环境挑战是资源。
+
+60
+00:02:45.313 --> 00:02:47.649
+finding them and collecting them.
+[AI] 找到并收集它们。
+
+61
+00:02:47.649 --> 00:02:50.432
+In the desert. operating costs are high
+[AI] 在沙漠里。运营成本很高
+
+62
+00:02:50.432 --> 00:02:52.205
+because water is scarce.
+[AI] 因为水是稀缺的。
+
+63
+00:02:52.205 --> 00:02:54.704
+and the seed-eating ants that I study in the desert
+[AI] 还有我在沙漠里研究的吃种子的蚂蚁
+
+64
+00:02:54.704 --> 00:02:57.604
+have to spend water to get water.
+[AI] 必须花钱才能得到水。
+
+65
+00:02:57.604 --> 00:02:59.743
+So an ant outside foraging.
+[AI] 所以一只蚂蚁在外面觅食。
+
+66
+00:02:59.743 --> 00:03:01.780
+searching for seeds in the hot sun.
+[AI] 在烈日下寻找种子。
+
+67
+00:03:01.780 --> 00:03:03.787
+just loses water into the air.
+[AI] 只是把水丢到空气中。
+
+68
+00:03:03.787 --> 00:03:05.451
+But the colony gets its water
+[AI] 但是殖民地得到了水
+
+69
+00:03:05.451 --> 00:03:07.217
+by metabolizing the fats out of the seeds
+[AI] 通过代谢种子中的脂肪
+
+70
+00:03:07.217 --> 00:03:09.151
+that they eat.
+[AI] 他们吃的东西。
+
+71
+00:03:09.151 --> 00:03:12.310
+So in this environment. interactions are used
+[AI] 所以在这种环境下。使用交互
+
+72
+00:03:12.310 --> 00:03:13.859
+to activate foraging.
+[AI] 激活觅食。
+
+73
+00:03:13.859 --> 00:03:16.123
+An outgoing forager doesn't go out unless
+[AI] 外出觅食的人除非
+
+74
+00:03:16.123 --> 00:03:18.696
+it gets enough interactions with returning foragers.
+[AI] 它与返回的觅食者有足够的互动。
+
+75
+00:03:18.696 --> 00:03:20.686
+and what you see are the returning foragers
+[AI] 你看到的是返回的觅食者
+
+76
+00:03:20.686 --> 00:03:22.510
+going into the tunnel. into the nest.
+[AI] 进入隧道。进入巢穴。
+
+77
+00:03:22.510 --> 00:03:25.146
+and meeting outgoing foragers on their way out.
+[AI] 并在外出途中与外出觅食者会面。
+
+78
+00:03:25.146 --> 00:03:26.769
+This makes sense for the ant colony.
+[AI] 这对蚁群来说是有意义的。
+
+79
+00:03:26.769 --> 00:03:29.092
+because the more food there is out there.
+[AI] 因为外面的食物越多。
+
+80
+00:03:29.092 --> 00:03:30.943
+the more quickly the foragers find it.
+[AI] 觅食者越快找到它。
+
+81
+00:03:30.943 --> 00:03:32.179
+the faster they come back.
+[AI] 他们回来的越快。
+
+82
+00:03:32.179 --> 00:03:34.980
+and the more foragers they send out.
+[AI] 他们派出的搜寻者越多。
+
+83
+00:03:34.980 --> 00:03:37.487
+The system works to stay stopped.
+[AI] 系统工作以保持停止。
+
+84
+00:03:37.487 --> 00:03:39.502
+unless something positive happens.
+[AI] 除非有积极的事情发生。
+
+85
+00:03:39.502 --> 00:03:43.383
+So interactions function to activate foragers.
+[AI] 因此，交互作用可以激活觅食者。
+
+86
+00:03:43.383 --> 00:03:46.290
+And we've been studying the evolution of this system.
+[AI] 我们一直在研究这个系统的演变。
+
+87
+00:03:46.290 --> 00:03:47.381
+First of all. there's variation.
+[AI] 首先有变化。
+
+88
+00:03:47.381 --> 00:03:49.860
+It turns out that colonies are different.
+[AI] 结果证明，殖民地是不同的。
+
+89
+00:03:49.860 --> 00:03:52.556
+On dry days. some colonies forage less.
+[AI] 在干旱的日子里。有些殖民地觅食较少。
+
+90
+00:03:52.556 --> 00:03:54.061
+so colonies are different in how
+[AI] 因此，殖民地在方式上是不同的
+
+91
+00:03:54.061 --> 00:03:55.415
+they manage this trade-off
+[AI] 他们管理这一权衡
+
+92
+00:03:55.415 --> 00:03:58.583
+between spending water to search for seeds
+[AI] 在花钱寻找种子之间
+
+93
+00:03:58.583 --> 00:04:01.903
+and getting water back in the form of seeds.
+[AI] 以种子的形式把水弄回来。
+
+94
+00:04:01.903 --> 00:04:03.622
+And we're trying to understand why
+[AI] 我们正在努力理解为什么
+
+95
+00:04:03.622 --> 00:04:05.762
+some colonies forage less than others
+[AI] 一些殖民地的觅食量比其他殖民地少
+
+96
+00:04:05.762 --> 00:04:08.087
+by thinking about ants as neurons.
+[AI] 把蚂蚁想象成神经元。
+
+97
+00:04:08.087 --> 00:04:10.425
+using models from neuroscience.
+[AI] 使用神经科学的模型。
+
+98
+00:04:10.425 --> 00:04:13.099
+So just as a neuron adds up its stimulation
+[AI] 就像神经元增加刺激一样
+
+99
+00:04:13.099 --> 00:04:15.105
+from other neurons to decide whether to fire.
+[AI] 由其他神经元决定是否开火。
+
+100
+00:04:15.105 --> 00:04:17.990
+an ant adds up its stimulation from other ants
+[AI] 蚂蚁把其他蚂蚁的刺激加起来
+
+101
+00:04:17.990 --> 00:04:20.013
+to decide whether to forage.
+[AI] 决定是否饲草。
+
+102
+00:04:20.013 --> 00:04:21.650
+And what we're looking for is whether there might be
+[AI] 我们要找的是是否有可能
+
+103
+00:04:21.650 --> 00:04:23.642
+small differences among colonies
+[AI] 殖民地之间的微小差异
+
+104
+00:04:23.642 --> 00:04:26.956
+in how many interactions each ant needs
+[AI] 每只蚂蚁需要多少交互
+
+105
+00:04:26.956 --> 00:04:28.882
+before it's willing to go out and forage.
+[AI] 在它愿意出去觅食之前。
+
+106
+00:04:28.882 --> 00:04:32.649
+because a colony like that would forage less.
+[AI] 因为那样的一个殖民地会吃得更少。
+
+107
+00:04:32.649 --> 00:04:35.788
+And this raises an analogous question about brains.
+[AI] 这就提出了一个关于大脑的类似问题。
+
+108
+00:04:35.788 --> 00:04:37.200
+We talk about the brain.
+[AI] 我们谈论大脑。
+
+109
+00:04:37.200 --> 00:04:40.090
+but of course every brain is slightly different.
+[AI] 当然，每个人的大脑都略有不同。
+
+110
+00:04:40.090 --> 00:04:41.469
+and maybe there are some individuals
+[AI] 也许有一些人
+
+111
+00:04:41.469 --> 00:04:42.788
+or some conditions
+[AI] 或者一些条件
+
+112
+00:04:42.788 --> 00:04:46.010
+in which the electrical properties of neurons are such
+[AI] 神经元的电特性是这样的
+
+113
+00:04:46.010 --> 00:04:49.880
+that they require more stimulus to fire.
+[AI] 他们需要更多的刺激来激发。
+
+114
+00:04:49.880 --> 00:04:53.606
+and that would lead to differences in brain function.
+[AI] 这将导致大脑功能的差异。
+
+115
+00:04:53.606 --> 00:04:55.940
+So in order to ask evolutionary questions.
+[AI] 所以为了提出进化论的问题。
+
+116
+00:04:55.940 --> 00:04:58.619
+we need to know about reproductive success.
+[AI] 我们需要了解生殖成功的情况。
+
+117
+00:04:58.619 --> 00:05:00.944
+This is a map of the study site
+[AI] 这是研究地点的地图
+
+118
+00:05:00.944 --> 00:05:03.497
+where I have been tracking this population
+[AI] 我一直在跟踪这些人口
+
+119
+00:05:03.497 --> 00:05:06.790
+of harvester ant colonies for 28 years.
+[AI] 28年来收获机蚁群的数量。
+
+120
+00:05:06.790 --> 00:05:09.052
+which is about as long as a colony lives.
+[AI] 这大约是一个殖民地的寿命。
+
+121
+00:05:09.052 --> 00:05:11.151
+Each symbol is a colony.
+[AI] 每个符号都是一个殖民地。
+
+122
+00:05:11.151 --> 00:05:14.417
+and the size of the symbol is how many offspring it had.
+[AI] 这个符号的大小是它有多少后代。
+
+123
+00:05:14.417 --> 00:05:16.330
+because we were able to use genetic variation
+[AI] 因为我们能够利用遗传变异
+
+124
+00:05:16.330 --> 00:05:19.041
+to match up parent and offspring colonies.
+[AI] 匹配亲代和后代群体。
+
+125
+00:05:19.041 --> 00:05:22.338
+that is. to figure out which colonies
+[AI] 就是。找出哪个殖民地
+
+126
+00:05:22.338 --> 00:05:24.263
+were founded by a daughter queen
+[AI] 是由一位女王的女儿创建的
+
+127
+00:05:24.263 --> 00:05:26.331
+produced by which parent colony.
+[AI] 由哪个父群体产生的。
+
+128
+00:05:26.331 --> 00:05:28.333
+And this was amazing for me. after all these years.
+[AI] 这对我来说太神奇了。这么多年过去了。
+
+129
+00:05:28.333 --> 00:05:31.461
+to find out. for example. that colony 154.
+[AI] 去发现。例如那个殖民地是154。
+
+130
+00:05:31.461 --> 00:05:33.637
+whom I've known well for many years.
+[AI] 我认识他很多年了。
+
+131
+00:05:33.637 --> 00:05:35.456
+is a great-grandmother.
+[AI] 她是一位曾祖母。
+
+132
+00:05:35.456 --> 00:05:37.196
+Here's her daughter colony.
+[AI] 这是她的女儿柯罗尼。
+
+133
+00:05:37.196 --> 00:05:39.880
+here's her granddaughter colony.
+[AI] 这是她的孙女柯罗尼。
+
+134
+00:05:39.880 --> 00:05:42.272
+and these are her great-granddaughter colonies.
+[AI] 这些是她的曾孙女。
+
+135
+00:05:42.272 --> 00:05:44.297
+And by doing this. I was able to learn
+[AI] 通过这样做。我能够学习
+
+136
+00:05:44.297 --> 00:05:47.580
+that offspring colonies resemble parent colonies
+[AI] 后代群体与亲代群体相似
+
+137
+00:05:47.580 --> 00:05:49.797
+in their decisions about which days are so hot
+[AI] 他们决定哪天这么热
+
+138
+00:05:49.797 --> 00:05:51.575
+that they don't forage.
+[AI] 他们不吃草。
+
+139
+00:05:51.575 --> 00:05:53.039
+and the offspring of parent colonies
+[AI] 以及亲代群体的后代
+
+140
+00:05:53.039 --> 00:05:55.945
+live so far from each other that the ants never meet.
+[AI] 蚂蚁们住得太远了，从来没有见过面。
+
+141
+00:05:55.945 --> 00:05:58.234
+so the ants of the offspring colony
+[AI] 所以后代群体的蚂蚁
+
+142
+00:05:58.234 --> 00:06:00.478
+can't be learning this from the parent colony.
+[AI] 不能从母殖民地那里学到这一点。
+
+143
+00:06:00.478 --> 00:06:01.859
+And so our next step is to look
+[AI] 所以我们下一步要做的就是
+
+144
+00:06:01.859 --> 00:06:07.135
+for the genetic variation underlying this resemblance.
+[AI] 因为这种相似性背后的遗传变异。
+
+145
+00:06:07.135 --> 00:06:11.260
+So then I was able to ask. okay. who's doing better?
+[AI] 然后我就可以问了。可以谁做得更好？
+
+146
+00:06:11.260 --> 00:06:12.720
+Over the time of the study.
+[AI] 在研究期间。
+
+147
+00:06:12.720 --> 00:06:14.185
+and especially in the past 10 years.
+[AI] 尤其是在过去的10年里。
+
+148
+00:06:14.185 --> 00:06:17.493
+there's been a very severe and deepening drought
+[AI] 这是一场非常严重且不断加深的干旱
+
+149
+00:06:17.493 --> 00:06:19.620
+in the Southwestern U.S..
+[AI] 在美国西南部。。
+
+150
+00:06:19.620 --> 00:06:22.673
+and it turns out that the colonies that conserve water.
+[AI] 事实证明，这些保护水源的殖民地。
+
+151
+00:06:22.673 --> 00:06:27.102
+that stay in when it's really hot outside.
+[AI] 当外面真的很热的时候就呆在家里。
+
+152
+00:06:27.102 --> 00:06:29.734
+and thus sacrifice getting as much food as possible.
+[AI] 从而牺牲了获得尽可能多的食物。
+
+153
+00:06:29.734 --> 00:06:32.679
+are the ones more likely to have offspring colonies.
+[AI] 是那些更可能有后代的群体。
+
+154
+00:06:32.679 --> 00:06:34.948
+So all this time. I thought that colony 154
+[AI] 所以一直以来。我以为殖民地154号
+
+155
+00:06:34.948 --> 00:06:37.618
+was a loser. because on really dry days.
+[AI] 他是个失败者。因为在非常干燥的日子里。
+
+156
+00:06:37.618 --> 00:06:39.486
+there'd be just this trickle of foraging.
+[AI] 这只是一点点的觅食。
+
+157
+00:06:39.486 --> 00:06:41.077
+while the other colonies were out
+[AI] 当其他殖民地不在的时候
+
+158
+00:06:41.077 --> 00:06:43.194
+foraging. getting lots of food.
+[AI] 觅食。得到很多食物。
+
+159
+00:06:43.194 --> 00:06:46.214
+but in fact. colony 154 is a huge success.
+[AI] 但事实上。殖民地154是一个巨大的成功。
+
+160
+00:06:46.214 --> 00:06:47.546
+She's a matriarch.
+[AI] 她是女族长。
+
+161
+00:06:47.546 --> 00:06:50.598
+She's one of the rare great-grandmothers on the site.
+[AI] 她是网站上罕见的曾祖母之一。
+
+162
+00:06:50.598 --> 00:06:53.383
+To my knowledge. this is the first time
+[AI] 据我所知。这是第一次
+
+163
+00:06:53.383 --> 00:06:55.022
+that we've been able to track
+[AI] 我们能追踪到的
+
+164
+00:06:55.022 --> 00:06:58.023
+the ongoing evolution of collective behavior
+[AI] 集体行为的持续演变
+
+165
+00:06:58.023 --> 00:07:00.140
+in a natural population of animals
+[AI] 在动物的自然种群中
+
+166
+00:07:00.140 --> 00:07:04.797
+and find out what's actually working best.
+[AI] 找出什么是最有效的。
+
+167
+00:07:04.797 --> 00:07:07.218
+Now. the Internet uses an algorithm
+[AI] 现在互联网使用一种算法
+
+168
+00:07:07.218 --> 00:07:10.071
+to regulate the flow of data
+[AI] 调节数据流
+
+169
+00:07:10.071 --> 00:07:12.298
+that's very similar to the one
+[AI] 这和那个很相似
+
+170
+00:07:12.298 --> 00:07:14.674
+that the harvester ants are using to regulate
+[AI] 收割机蚂蚁用来调节的
+
+171
+00:07:14.674 --> 00:07:16.215
+the flow of foragers.
+[AI] 觅食者的流动。
+
+172
+00:07:16.215 --> 00:07:19.581
+And guess what we call this analogy?
+[AI] 猜猜我们怎么称呼这个比喻？
+
+173
+00:07:19.581 --> 00:07:21.099
+The anternet is coming.
+[AI] 蚂蚁网来了。
+
+174
+00:07:21.099 --> 00:07:22.820
+(Applause)
+[AI] （掌声）
+
+175
+00:07:22.820 --> 00:07:26.274
+So data doesn't leave the source computer
+[AI] 所以数据不会离开源计算机
+
+176
+00:07:26.274 --> 00:07:29.135
+unless it gets a signal that there's enough bandwidth
+[AI] 除非它得到足够带宽的信号
+
+177
+00:07:29.135 --> 00:07:31.864
+for it to travel on.
+[AI] 让它继续前行。
+
+178
+00:07:31.864 --> 00:07:33.305
+In the early days of the Internet.
+[AI] 在互联网的早期。
+
+179
+00:07:33.305 --> 00:07:35.579
+when operating costs were really high
+[AI] 当运营成本真的很高的时候
+
+180
+00:07:35.579 --> 00:07:38.806
+and it was really important not to lose any data.
+[AI] 不丢失任何数据非常重要。
+
+181
+00:07:38.806 --> 00:07:40.963
+then the system was set up for interactions
+[AI] 然后，系统被设置为交互
+
+182
+00:07:40.963 --> 00:07:44.025
+to activate the flow of data.
+[AI] 激活数据流。
+
+183
+00:07:44.025 --> 00:07:46.410
+It's interesting that the ants are using an algorithm
+[AI] 有趣的是蚂蚁正在使用一种算法
+
+184
+00:07:46.410 --> 00:07:50.306
+that's so similar to the one that we recently invented.
+[AI] 这和我们最近发明的非常相似。
+
+185
+00:07:50.306 --> 00:07:53.259
+but this is only one of a handful of ant algorithms
+[AI] 但这只是为数不多的蚂蚁算法之一
+
+186
+00:07:53.259 --> 00:07:54.678
+that we know about.
+[AI] 我们所知道的。
+
+187
+00:07:54.678 --> 00:07:57.871
+and ants have had 130 million years
+[AI] 蚂蚁已经有1.3亿年了
+
+188
+00:07:57.871 --> 00:07:59.897
+to evolve a lot of good ones.
+[AI] 进化出很多好的。
+
+189
+00:07:59.897 --> 00:08:01.403
+and I think it's very likely
+[AI] 我认为很有可能
+
+190
+00:08:01.403 --> 00:08:03.960
+that some of the other 12.000 species
+[AI] 其他12000个物种中的一些
+
+191
+00:08:03.960 --> 00:08:06.657
+are going to have interesting algorithms
+[AI] 我们将会有有趣的算法
+
+192
+00:08:06.657 --> 00:08:07.681
+for data networks
+[AI] 用于数据网络
+
+193
+00:08:07.681 --> 00:08:10.378
+that we haven't even thought of yet.
+[AI] 我们甚至还没想到。
+
+194
+00:08:10.378 --> 00:08:13.463
+So what happens when operating costs are low?
+[AI] 那么，当运营成本较低时会发生什么呢？
+
+195
+00:08:13.463 --> 00:08:15.250
+Operating costs are low in the tropics.
+[AI] 热带地区的运营成本很低。
+
+196
+00:08:15.250 --> 00:08:17.346
+because it's very humid. and it's easy for the ants
+[AI] 因为天气很潮湿。这对蚂蚁来说很容易
+
+197
+00:08:17.346 --> 00:08:20.170
+to be outside walking around.
+[AI] 在外面走来走去。
+
+198
+00:08:20.170 --> 00:08:21.823
+But the ants are so abundant
+[AI] 但是蚂蚁太多了
+
+199
+00:08:21.823 --> 00:08:23.641
+and diverse in the tropics
+[AI] 热带地区气候多样
+
+200
+00:08:23.641 --> 00:08:26.239
+that there's a lot of competition.
+[AI] 有很多竞争。
+
+201
+00:08:26.239 --> 00:08:28.191
+Whatever resource one species is using.
+[AI] 一个物种正在使用的任何资源。
+
+202
+00:08:28.191 --> 00:08:31.363
+another species is likely to be using that
+[AI] 另一个物种很可能正在使用它
+
+203
+00:08:31.363 --> 00:08:33.742
+at the same time.
+[AI] 同时
+
+204
+00:08:33.742 --> 00:08:36.350
+So in this environment. interactions are used
+[AI] 所以在这种环境下。使用交互
+
+205
+00:08:36.350 --> 00:08:38.295
+in the opposite way.
+[AI] 以相反的方式。
+
+206
+00:08:38.295 --> 00:08:39.690
+The system keeps going
+[AI] 系统继续运行
+
+207
+00:08:39.690 --> 00:08:41.244
+unless something negative happens.
+[AI] 除非有负面的事情发生。
+
+208
+00:08:41.244 --> 00:08:43.411
+and one species that I study makes circuits
+[AI] 我研究的一个物种制造电路
+
+209
+00:08:43.411 --> 00:08:45.570
+in the trees of foraging ants
+[AI] 在觅食蚂蚁的树上
+
+210
+00:08:45.570 --> 00:08:48.551
+going from the nest to a food source and back.
+[AI] 从巢穴到食物来源再回来。
+
+211
+00:08:48.551 --> 00:08:49.880
+just round and round.
+[AI] 一圈又一圈。
+
+212
+00:08:49.880 --> 00:08:51.322
+unless something negative happens.
+[AI] 除非有负面的事情发生。
+
+213
+00:08:51.322 --> 00:08:52.931
+like an interaction
+[AI] 就像一次互动
+
+214
+00:08:52.931 --> 00:08:55.670
+with ants of another species.
+[AI] 和另一种蚂蚁在一起。
+
+215
+00:08:55.670 --> 00:08:58.607
+So here's an example of ant security.
+[AI] 这里有一个蚂蚁安全的例子。
+
+216
+00:08:58.607 --> 00:09:00.465
+In the middle. there's an ant
+[AI] 在中间有一只蚂蚁
+
+217
+00:09:00.465 --> 00:09:02.928
+plugging the nest entrance with its head
+[AI] 用它的头堵住鸟巢的入口
+
+218
+00:09:02.928 --> 00:09:05.921
+in response to interactions with another species.
+[AI] 为了回应与另一物种的相互作用。
+
+219
+00:09:05.921 --> 00:09:07.580
+Those are the little ones running around
+[AI] 那些是到处跑的小家伙
+
+220
+00:09:07.580 --> 00:09:10.331
+with their abdomens up in the air.
+[AI] 腹部悬空。
+
+221
+00:09:10.331 --> 00:09:12.377
+But as soon as the threat is passed.
+[AI] 但一旦威胁过去。
+
+222
+00:09:12.377 --> 00:09:15.132
+the entrance is open again.
+[AI] 入口又开了。
+
+223
+00:09:15.132 --> 00:09:16.922
+and maybe there are situations
+[AI] 也许有些情况
+
+224
+00:09:16.922 --> 00:09:18.011
+in computer security
+[AI] 计算机安全
+
+225
+00:09:18.011 --> 00:09:20.217
+where operating costs are low enough
+[AI] 运营成本足够低的地方
+
+226
+00:09:20.217 --> 00:09:23.592
+that we could just block access temporarily
+[AI] 我们可以暂时阻止访问
+
+227
+00:09:23.592 --> 00:09:25.785
+in response to an immediate threat.
+[AI] 为了应对迫在眉睫的威胁。
+
+228
+00:09:25.785 --> 00:09:27.811
+and then open it again.
+[AI] 然后再打开它。
+
+229
+00:09:27.811 --> 00:09:29.080
+instead of trying to build
+[AI] 而不是试图建立
+
+230
+00:09:29.080 --> 00:09:33.060
+a permanent firewall or fortress.
+[AI] 永久的防火墙或堡垒。
+
+231
+00:09:33.060 --> 00:09:35.000
+So another environmental challenge
+[AI] 那么另一个环境挑战呢
+
+232
+00:09:35.000 --> 00:09:36.695
+that all systems have to deal with
+[AI] 所有系统都必须处理的问题
+
+233
+00:09:36.695 --> 00:09:42.147
+is resources. finding and collecting them.
+[AI] 这就是资源。寻找和收集它们。
+
+234
+00:09:42.147 --> 00:09:43.820
+And to do this. ants solve the problem
+[AI] 这样做。蚂蚁解决了这个问题
+
+235
+00:09:43.820 --> 00:09:45.078
+of collective search.
+[AI] 集体搜索的结果。
+
+236
+00:09:45.078 --> 00:09:46.654
+and this is a problem that's of great interest
+[AI] 这是一个非常有趣的问题
+
+237
+00:09:46.654 --> 00:09:48.138
+right now in robotics.
+[AI] 现在在机器人领域。
+
+238
+00:09:48.138 --> 00:09:49.870
+because we've understood that.
+[AI] 因为我们明白这一点。
+
+239
+00:09:49.870 --> 00:09:51.484
+rather than sending a single.
+[AI] 而不是发送一个。
+
+240
+00:09:51.484 --> 00:09:54.979
+sophisticated. expensive robot out
+[AI] 复杂的昂贵的机器人
+
+241
+00:09:54.979 --> 00:09:56.396
+to explore another planet
+[AI] 探索另一个星球
+
+242
+00:09:56.396 --> 00:09:58.963
+or to search a burning building.
+[AI] 或者搜查燃烧的建筑物。
+
+243
+00:09:58.963 --> 00:10:01.563
+that instead. it may be more effective
+[AI] 那倒是。它可能更有效
+
+244
+00:10:01.563 --> 00:10:05.940
+to get a group of cheaper robots
+[AI] 为了得到一群更便宜的机器人
+
+245
+00:10:05.940 --> 00:10:08.485
+exchanging only minimal information.
+[AI] 只交换最少的信息。
+
+246
+00:10:08.485 --> 00:10:11.284
+and that's the way that ants do it.
+[AI] 蚂蚁就是这样做的。
+
+247
+00:10:11.284 --> 00:10:13.049
+So the invasive Argentine ant
+[AI] 所以入侵的阿根廷蚂蚁
+
+248
+00:10:13.049 --> 00:10:15.379
+makes expandable search networks.
+[AI] 创建可扩展的搜索网络。
+
+249
+00:10:15.379 --> 00:10:17.652
+They're good at dealing with the main problem
+[AI] 他们擅长处理主要问题
+
+250
+00:10:17.652 --> 00:10:18.983
+of collective search.
+[AI] 集体搜索的结果。
+
+251
+00:10:18.983 --> 00:10:21.549
+which is the trade-off between
+[AI] 两者之间的权衡是什么
+
+252
+00:10:21.549 --> 00:10:22.885
+searching very thoroughly
+[AI] 彻底搜查
+
+253
+00:10:22.885 --> 00:10:24.882
+and covering a lot of ground.
+[AI] 覆盖了很多土地。
+
+254
+00:10:24.882 --> 00:10:25.777
+And what they do is.
+[AI] 他们所做的是。
+
+255
+00:10:25.777 --> 00:10:28.164
+when there are many ants in a small space.
+[AI] 当一个小空间里有很多蚂蚁时。
+
+256
+00:10:28.164 --> 00:10:30.377
+then each one can search very thoroughly
+[AI] 然后每个人都可以非常彻底地搜索
+
+257
+00:10:30.377 --> 00:10:32.001
+because there will be another ant nearby
+[AI] 因为附近会有另一只蚂蚁
+
+258
+00:10:32.001 --> 00:10:33.358
+searching over there.
+[AI] 在那边搜索。
+
+259
+00:10:33.358 --> 00:10:35.005
+but when there are a few ants
+[AI] 但是当有几只蚂蚁的时候
+
+260
+00:10:35.005 --> 00:10:37.060
+in a large space.
+[AI] 在很大的空间里。
+
+261
+00:10:37.060 --> 00:10:39.474
+then they need to stretch out their paths
+[AI] 然后他们需要扩展他们的道路
+
+262
+00:10:39.474 --> 00:10:41.277
+to cover more ground.
+[AI] 覆盖更多的土地。
+
+263
+00:10:41.277 --> 00:10:44.231
+I think they use interactions to assess density.
+[AI] 我认为他们用互动来评估密度。
+
+264
+00:10:44.231 --> 00:10:45.460
+so when they're really crowded.
+[AI] 所以当他们真的很拥挤的时候。
+
+265
+00:10:45.460 --> 00:10:46.562
+they meet more often.
+[AI] 他们见面更频繁。
+
+266
+00:10:46.562 --> 00:10:49.027
+and they search more thoroughly.
+[AI] 而且他们搜索得更彻底。
+
+267
+00:10:49.027 --> 00:10:52.427
+Different ant species must use different algorithms.
+[AI] 不同的蚂蚁物种必须使用不同的算法。
+
+268
+00:10:52.427 --> 00:10:54.949
+because they've evolved to deal with
+[AI] 因为他们已经进化到可以处理
+
+269
+00:10:54.949 --> 00:10:56.620
+different resources.
+[AI] 不同的资源。
+
+270
+00:10:56.620 --> 00:10:59.179
+and it could be really useful to know about this.
+[AI] 了解这一点可能非常有用。
+
+271
+00:10:59.179 --> 00:11:00.821
+and so we recently asked ants
+[AI] 所以我们最近问蚂蚁
+
+272
+00:11:00.821 --> 00:11:03.271
+to solve the collective search problem
+[AI] 解决集体搜索问题
+
+273
+00:11:03.271 --> 00:11:04.639
+in the extreme environment
+[AI] 在极端环境中
+
+274
+00:11:04.639 --> 00:11:06.197
+of microgravity
+[AI] 微重力
+
+275
+00:11:06.197 --> 00:11:08.173
+in the International Space Station.
+[AI] 在国际空间站。
+
+276
+00:11:08.173 --> 00:11:09.718
+When I first saw this picture. I thought.
+[AI] 当我第一次看到这张照片的时候。我想。
+
+277
+00:11:09.718 --> 00:11:12.575
+Oh no. they've mounted the habitat vertically.
+[AI] 哦，不，他们已经垂直安装了栖息地。
+
+278
+00:11:12.575 --> 00:11:15.193
+but then I realized that. of course. it doesn't matter.
+[AI] 但后来我意识到了这一点。当然没关系。
+
+279
+00:11:15.193 --> 00:11:17.830
+So the idea here is that the ants
+[AI] 所以这里的想法是蚂蚁
+
+280
+00:11:17.830 --> 00:11:19.800
+are working so hard to hang on
+[AI] 你是如此努力地工作来坚持下去
+
+281
+00:11:19.800 --> 00:11:22.857
+to the wall or the floor or whatever you call it
+[AI] 到墙上或地板上，或者你管它叫什么
+
+282
+00:11:22.857 --> 00:11:25.866
+that they're less likely to interact.
+[AI] 他们不太可能互动。
+
+283
+00:11:25.866 --> 00:11:27.110
+and so the relationship between
+[AI] 因此，它们之间的关系
+
+284
+00:11:27.110 --> 00:11:29.230
+how crowded they are and how often they meet
+[AI] 他们有多拥挤，见面的频率有多高
+
+285
+00:11:29.230 --> 00:11:30.955
+would be messed up.
+[AI] 会搞砸的。
+
+286
+00:11:30.955 --> 00:11:32.350
+We're still analyzing the data.
+[AI] 我们还在分析数据。
+
+287
+00:11:32.350 --> 00:11:34.314
+I don't have the results yet.
+[AI] 我还没有结果。
+
+288
+00:11:34.314 --> 00:11:36.008
+But it would be interesting to know
+[AI] 但知道这一点会很有趣
+
+289
+00:11:36.008 --> 00:11:38.467
+how other species solve this problem
+[AI] 其他物种如何解决这个问题
+
+290
+00:11:38.467 --> 00:11:41.031
+in different environments on Earth.
+[AI] 在地球上不同的环境中。
+
+291
+00:11:41.031 --> 00:11:42.297
+and so we're setting up a program
+[AI] 所以我们正在制定一个计划
+
+292
+00:11:42.297 --> 00:11:44.457
+to encourage kids around the world
+[AI] 鼓励世界各地的孩子
+
+293
+00:11:44.457 --> 00:11:46.993
+to try this experiment with different species.
+[AI] 用不同的物种做这个实验。
+
+294
+00:11:46.993 --> 00:11:48.760
+It's very simple.
+[AI] 这很简单。
+
+295
+00:11:48.760 --> 00:11:50.850
+It can be done with cheap materials.
+[AI] 这可以用便宜的材料来完成。
+
+296
+00:11:50.850 --> 00:11:53.683
+And that way. we could make a global map
+[AI] 就这样。我们可以制作一张全球地图
+
+297
+00:11:53.683 --> 00:11:57.030
+of ant collective search algorithms.
+[AI] 蚂蚁集体搜索算法。
+
+298
+00:11:57.030 --> 00:11:59.513
+And I think it's pretty likely that the invasive species.
+[AI] 我认为很可能是入侵物种。
+
+299
+00:11:59.513 --> 00:12:01.662
+the ones that come into our buildings.
+[AI] 那些进入我们大楼的人。
+
+300
+00:12:01.662 --> 00:12:03.404
+are going to be really good at this.
+[AI] 你会在这方面做得很好的。
+
+301
+00:12:03.404 --> 00:12:05.252
+because they're in your kitchen
+[AI] 因为它们在你的厨房里
+
+302
+00:12:05.252 --> 00:12:09.159
+because they're really good at finding food and water.
+[AI] 因为他们真的很擅长寻找食物和水。
+
+303
+00:12:09.159 --> 00:12:12.424
+So the most familiar resource for ants
+[AI] 所以蚂蚁最熟悉的资源
+
+304
+00:12:12.424 --> 00:12:13.739
+is a picnic.
+[AI] 这是一次野餐。
+
+305
+00:12:13.739 --> 00:12:15.884
+and this is a clustered resource.
+[AI] 这是一个集群资源。
+
+306
+00:12:15.884 --> 00:12:16.883
+When there's one piece of fruit.
+[AI] 当有一片水果的时候。
+
+307
+00:12:16.883 --> 00:12:19.398
+there's likely to be another piece of fruit nearby.
+[AI] 附近可能还有一块水果。
+
+308
+00:12:19.398 --> 00:12:22.830
+and the ants that specialize on clustered resources
+[AI] 还有专门研究集群资源的蚂蚁
+
+309
+00:12:22.830 --> 00:12:24.772
+use interactions for recruitment.
+[AI] 利用互动进行招聘。
+
+310
+00:12:24.772 --> 00:12:26.049
+So when one ant meets another.
+[AI] 所以当一只蚂蚁遇到另一只蚂蚁。
+
+311
+00:12:26.049 --> 00:12:27.674
+or when it meets a chemical deposited
+[AI] 或者当它遇到化学物质时
+
+312
+00:12:27.674 --> 00:12:29.410
+on the ground by another.
+[AI] 被另一个人扔在地上。
+
+313
+00:12:29.410 --> 00:12:31.243
+then it changes direction to follow
+[AI] 然后它改变方向以跟随
+
+314
+00:12:31.243 --> 00:12:32.816
+in the direction of the interaction.
+[AI] 在互动的方向上。
+
+315
+00:12:32.816 --> 00:12:34.793
+and that's how you get the trail of ants
+[AI] 你就是这样找到蚂蚁的踪迹的
+
+316
+00:12:34.793 --> 00:12:36.206
+sharing your picnic.
+[AI] 分享你的野餐。
+
+317
+00:12:36.206 --> 00:12:37.901
+Now this is a place where I think we might be able
+[AI] 现在我想我们可以在这里
+
+318
+00:12:37.901 --> 00:12:41.642
+to learn something from ants about cancer.
+[AI] 从蚂蚁身上学到一些关于癌症的知识。
+
+319
+00:12:41.642 --> 00:12:43.623
+I mean. first. it's obvious that we could do a lot
+[AI] 我是说。第一很明显，我们可以做很多
+
+320
+00:12:43.623 --> 00:12:45.233
+to prevent cancer
+[AI] 预防癌症
+
+321
+00:12:45.233 --> 00:12:47.810
+by not allowing people to spread around
+[AI] 不允许人们四处传播
+
+322
+00:12:47.810 --> 00:12:49.754
+or sell the toxins that promote
+[AI] 或者出售促进健康的毒素
+
+323
+00:12:49.754 --> 00:12:52.534
+the evolution of cancer in our bodies.
+[AI] 癌症在我们体内的演变。
+
+324
+00:12:52.534 --> 00:12:54.880
+but I don't think the ants can help us much with this
+[AI] 但我认为蚂蚁在这方面帮不了我们多少忙
+
+325
+00:12:54.880 --> 00:12:58.238
+because ants never poison their own colonies.
+[AI] 因为蚂蚁从不毒害自己的殖民地。
+
+326
+00:12:58.238 --> 00:12:59.570
+But we might be able to learn something from ants
+[AI] 但我们或许可以从蚂蚁身上学到一些东西
+
+327
+00:12:59.570 --> 00:13:01.333
+about treating cancer.
+[AI] 关于治疗癌症。
+
+328
+00:13:01.333 --> 00:13:03.558
+There are many different kinds of cancer.
+[AI] 癌症有很多种。
+
+329
+00:13:03.558 --> 00:13:06.536
+Each one originates in a particular part of the body.
+[AI] 每一个都起源于身体的特定部位。
+
+330
+00:13:06.536 --> 00:13:09.502
+and then some kinds of cancer will spread
+[AI] 然后一些癌症就会扩散
+
+331
+00:13:09.502 --> 00:13:12.332
+or metastasize to particular other tissues
+[AI] 或转移到特定的其他组织
+
+332
+00:13:12.332 --> 00:13:15.212
+where they must be getting resources that they need.
+[AI] 他们必须得到他们需要的资源。
+
+333
+00:13:15.212 --> 00:13:17.020
+So if you think from the perspective
+[AI] 所以如果你从这个角度来思考
+
+334
+00:13:17.020 --> 00:13:18.970
+of early metastatic cancer cells
+[AI] 早期转移癌细胞的研究进展
+
+335
+00:13:18.970 --> 00:13:20.593
+as they're out searching around
+[AI] 当他们在外面四处寻找的时候
+
+336
+00:13:20.593 --> 00:13:22.910
+for the resources that they need.
+[AI] 他们需要的资源。
+
+337
+00:13:22.910 --> 00:13:24.893
+if those resources are clustered.
+[AI] 如果这些资源是集群的。
+
+338
+00:13:24.893 --> 00:13:27.906
+they're likely to use interactions for recruitment.
+[AI] 他们可能会利用互动进行招聘。
+
+339
+00:13:27.906 --> 00:13:30.999
+and if we can figure out how cancer cells are recruiting.
+[AI] 如果我们能弄清楚癌细胞是如何招募的。
+
+340
+00:13:30.999 --> 00:13:33.346
+then maybe we could set traps
+[AI] 也许我们可以设陷阱
+
+341
+00:13:33.346 --> 00:13:37.395
+to catch them before they become established.
+[AI] 在他们建立之前抓住他们。
+
+342
+00:13:37.395 --> 00:13:40.630
+So ants are using interactions in different ways
+[AI] 所以蚂蚁以不同的方式使用交互作用
+
+343
+00:13:40.630 --> 00:13:43.232
+in a huge variety of environments.
+[AI] 在各种各样的环境中。
+
+344
+00:13:43.232 --> 00:13:45.053
+and we could learn from this
+[AI] 我们可以从中学习
+
+345
+00:13:45.053 --> 00:13:46.830
+about other systems that operate
+[AI] 关于其他运行的系统
+
+346
+00:13:46.830 --> 00:13:49.167
+without central control.
+[AI] 没有中央控制。
+
+347
+00:13:49.167 --> 00:13:51.146
+Using only simple interactions.
+[AI] 只使用简单的交互。
+
+348
+00:13:51.146 --> 00:13:52.941
+ant colonies have been performing
+[AI] 蚁群一直在表演
+
+349
+00:13:52.941 --> 00:13:56.574
+amazing feats for more than 130 million years.
+[AI] 超过1.3亿年的惊人壮举。
+
+350
+00:13:56.574 --> 00:13:58.714
+We have a lot to learn from them.
+[AI] 我们有很多东西要向他们学习。
+
+351
+00:13:58.714 --> 00:14:01.452
+Thank you.
+[AI] 非常感谢。
+
+352
+00:14:01.452 --> 00:14:04.185
+(Applause)
+[AI] （掌声）

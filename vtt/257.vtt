@@ -1,0 +1,1562 @@
+WEBVTT
+
+﻿1
+00:00:12.580 --> 00:00:14.420
+This is Pleurobot.
+这是一只蝾螈机器人
+
+2
+00:00:15.220 --> 00:00:18.836
+Pleurobot is a robot that we designed to closely mimic a salamander species
+是一种我们根据蝾螈设计出的仿生机器人
+
+3
+00:00:18.860 --> 00:00:20.260
+called Pleurodeles waltl.
+我们把它称为蝾螈机器人
+
+4
+00:00:21.060 --> 00:00:23.316
+Pleurobot can walk, as you can see here,
+就想你看到的，它会爬行
+
+5
+00:00:23.340 --> 00:00:25.380
+and as you'll see later, it can also swim.
+一会儿你还会看到它游泳
+
+6
+00:00:26.100 --> 00:00:28.291
+So you might ask, why did we design this robot?
+你可能会问我们为什么设计这样一个机器人
+
+7
+00:00:28.780 --> 00:00:32.542
+And in fact, this robot has been designed as a scientific tool for neuroscience.
+其实，蝾螈机器人是一种用来研究神经科学的工具
+
+8
+00:00:33.220 --> 00:00:35.716
+Indeed, we designed it together with neurobiologists
+我们和神经科学家一起设计出蝾螈机器人
+
+9
+00:00:35.740 --> 00:00:37.636
+to understand how animals move,
+希望能更好理解动物的运动原理
+
+10
+00:00:37.660 --> 00:00:40.420
+and especially how the spinal cord controls locomotion.
+尤其是脊髓控制运动的机理
+
+11
+00:00:41.380 --> 00:00:43.076
+But the more I work in biorobotics,
+但是，我们对仿生机器人的研究越深入
+
+12
+00:00:43.100 --> 00:00:45.481
+the more I'm really impressed by animal locomotion.
+就越被动物运动的复杂原理所震撼
+
+13
+00:00:45.740 --> 00:00:50.036
+If you think of a dolphin swimming or a cat running or jumping around,
+试想一下在海里遨游的海豚、又跑又跳的小猫
+
+14
+00:00:50.060 --> 00:00:51.636
+or even us as humans,
+甚至还有我们人类
+
+15
+00:00:51.660 --> 00:00:53.476
+when you go jogging or play tennis,
+在进行慢跑或者打网球的时候
+
+16
+00:00:53.500 --> 00:00:54.740
+we do amazing things.
+我们的每一个动作都那么神奇
+
+17
+00:00:55.700 --> 00:00:59.836
+And in fact, our nervous system solves a very, very complex control problem.
+实际上，在运动时，神经系统的控制过程十分复杂
+
+18
+00:00:59.860 --> 00:01:02.956
+It has to coordinate more or less 200 muscles perfectly,
+神经系统要协调200块左右的肌肉一起运作
+
+19
+00:01:02.980 --> 00:01:06.660
+because if the coordination is bad, we fall over or we do bad locomotion.
+一旦协调紊乱，我们就会摔跤或者肢体不协调
+
+20
+00:01:07.380 --> 00:01:10.100
+And my goal is to understand how this works.
+而我的目标就是要弄清楚这种协调机制的原理
+
+21
+00:01:10.980 --> 00:01:13.820
+There are four main components behind animal locomotion.
+动物的运动需要四个部分
+
+22
+00:01:14.620 --> 00:01:16.556
+The first component is just the body,
+首先就是肢体
+
+23
+00:01:16.580 --> 00:01:18.556
+and in fact we should never underestimate
+生物力学对于动物肢体运动的简化
+
+24
+00:01:18.580 --> 00:01:22.060
+to what extent the biomechanics already simplify locomotion in animals.
+已经到了令人难以想象地步
+
+25
+00:01:22.740 --> 00:01:24.196
+Then you have the spinal cord,
+第二个部分就是脊髓
+
+26
+00:01:24.220 --> 00:01:26.196
+and in the spinal cord you find reflexes,
+脊髓中有很多反射神经
+
+27
+00:01:26.220 --> 00:01:29.676
+multiple reflexes that create a sensorimotor coordination loop
+这些反射神经在脊髓中的神经活动和机械活动之间
+
+28
+00:01:29.700 --> 00:01:33.180
+between neural activity in the spinal cord and mechanical activity.
+建立了感觉协调环
+
+29
+00:01:33.820 --> 00:01:36.796
+A third component are central pattern generators.
+第三个要素是中枢模式发生器
+
+30
+00:01:36.820 --> 00:01:40.716
+These are very interesting circuits in the spinal cord of vertebrate animals
+脊椎动物的脊髓中有一些有趣的电路
+
+31
+00:01:40.740 --> 00:01:42.356
+that can generate, by themselves,
+这些电路在接收简单的信号时
+
+32
+00:01:42.380 --> 00:01:45.116
+very coordinated rhythmic patterns of activity
+可以自发地产生非常协调的
+
+33
+00:01:45.140 --> 00:01:47.516
+while receiving only very simple input signals.
+节律运动模式
+
+34
+00:01:47.540 --> 00:01:48.756
+And these input signals
+在我们运动的时候
+
+35
+00:01:48.780 --> 00:01:51.836
+coming from descending modulation from higher parts of the brain,
+大脑的高级中枢
+
+36
+00:01:51.860 --> 00:01:54.556
+like the motor cortex, the cerebellum, the basal ganglia,
+例如运动皮层、小脑和基地神经节
+
+37
+00:01:53.850 --> 00:01:56.256
+will all modulate activity of the spinal cord
+进行下行调节并产生上述信号
+
+38
+00:01:56.740 --> 00:01:58.196
+while we do locomotion.
+并对脊髓中的活动起到调控作用
+
+39
+00:01:58.220 --> 00:02:01.436
+But what's interesting is to what extent just a low-level component,
+但是有趣的是，脊髓和肢体这类低级中枢
+
+40
+00:02:01.460 --> 00:02:03.396
+the spinal cord, together with the body,
+在完成运动过程中
+
+41
+00:02:03.420 --> 00:02:05.876
+already solve a big part of the locomotion problem.
+到底扮演了何种角色
+
+42
+00:02:05.900 --> 00:02:09.322
+You probably know it by the fact that you can cut the head off a chicken,
+大家应该都知道，即使鸡的头被砍掉了
+
+43
+00:02:08.272 --> 00:02:09.653
+it can still run for a while,
+它也不会立即死亡
+
+44
+00:02:09.757 --> 00:02:12.196
+showing that just the lower part, spinal cord and body,
+这个事实表明低级的脊髓和躯干
+
+45
+00:02:12.520 --> 00:02:14.653
+already solve a big part of locomotion.
+在完成运动过程中扮演了重要的角色
+
+46
+00:02:15.217 --> 00:02:17.676
+Now, understanding how this works is very complex,
+但是想要弄清楚它的工作原理还是很困难
+
+47
+00:02:17.700 --> 00:02:18.996
+because first of all,
+因为，第一点就是
+
+48
+00:02:19.020 --> 00:02:21.640
+recording activity in the spinal cord is very difficult.
+想要记录脊髓中的活动十分复杂
+
+49
+00:02:21.664 --> 00:02:24.436
+It's much easier to implant electrodes in the motor cortex
+由于脊椎的保护作用，把电极植入到脊髓中
+
+50
+00:02:24.460 --> 00:02:27.516
+than in the spinal cord, because it's protected by the vertebrae.
+要比植入到运动皮层中难得多
+
+51
+00:02:27.540 --> 00:02:29.356
+Especially in humans, very hard to do.
+对于人类来说更是难上加难
+
+52
+00:02:29.380 --> 00:02:33.156
+A second difficulty is that locomotion is really due to a very complex
+另外一个难题就是，运动基于这四个要素的相互作用
+
+53
+00:02:33.180 --> 00:02:36.236
+and very dynamic interaction between these four components.
+是一个复杂的动态过程
+
+54
+00:02:36.260 --> 00:02:39.500
+So it's very hard to find out what's the role of each over time.
+因此，很难区分各要素所发挥的作用
+
+55
+00:02:40.700 --> 00:02:44.436
+This is where biorobots like Pleurobot and mathematical models
+所以，像蝾螈机器人这样的仿生机器人和数学模型
+
+56
+00:02:44.460 --> 00:02:45.660
+can really help.
+就派上用场了
+
+57
+00:02:47.300 --> 00:02:48.556
+So what's biorobotics?
+那么到底什么是仿生机器人学呢
+
+58
+00:02:48.580 --> 00:02:51.316
+Biorobotics is a very active field of research in robotics
+这是机器人研究中一个热门的领域
+
+59
+00:02:51.340 --> 00:02:53.796
+where people want to take inspiration from animals
+人们试图从动物身上获取灵感
+
+60
+00:02:53.820 --> 00:02:56.276
+to make robots to go outdoors,
+并运用到机器人身上，使它们可以运用于户外
+
+61
+00:02:56.300 --> 00:02:58.956
+like service robots or search and rescue robots
+例如服务用机器人、搜救机器人
+
+62
+00:02:58.980 --> 00:03:00.180
+or field robots.
+以及农业机器人
+
+63
+00:03:00.700 --> 00:03:03.396
+And the big goal here is to take inspiration from animals
+现在最大的目标就是从动物身上获得灵感
+
+64
+00:03:03.420 --> 00:03:05.756
+to make robots that can handle complex terrain --
+使机器人能够应对一些复杂的地形
+
+65
+00:03:05.780 --> 00:03:07.396
+stairs, mountains, forests,
+例如楼梯、山区、树林
+
+66
+00:03:07.420 --> 00:03:09.436
+places where robots still have difficulties
+这些地形对于机器人来说还是个挑战
+
+67
+00:03:09.460 --> 00:03:11.516
+and where animals can do a much better job.
+它们并不能像动物那样灵活应对
+
+68
+00:03:11.540 --> 00:03:14.036
+The robot can be a wonderful scientific tool as well.
+机器人也是一项极好的科学研究工具
+
+69
+00:03:14.060 --> 00:03:16.680
+There are some very nice projects where robots are used,
+在一些优秀研究项目中得以应用
+
+70
+00:03:16.704 --> 00:03:20.676
+like a scientific tool for neuroscience, for biomechanics or for hydrodynamics.
+例如神经科学、仿生学和流体动力学
+
+71
+00:03:20.700 --> 00:03:22.820
+And this is exactly the purpose of Pleurobot.
+这也正是蝾螈机器人存在的意义
+
+72
+00:03:23.420 --> 00:03:26.356
+So what we do in my lab is to collaborate with neurobiologists
+所以，我们在实验室里与神经生物学家合作
+
+73
+00:03:26.380 --> 00:03:29.596
+like Jean-Marie Cabelguen, a neurobiologist in Bordeaux in France,
+法国波尔多大学的神经生物学家 让·玛丽 卡贝肯就是其中之一
+
+74
+00:03:29.620 --> 00:03:33.660
+and we want to make spinal cord models and validate them on robots.
+我们制作出脊髓的模型并用机器人加以验证
+
+75
+00:03:34.300 --> 00:03:35.916
+And here we want to start simple.
+我们希望先从简单的动物入手
+
+76
+00:03:35.940 --> 00:03:37.916
+So it's good to start with simple animals
+例如七鳃鳗
+
+77
+00:03:37.940 --> 00:03:40.196
+like lampreys, which are very primitive fish,
+这种原始的鱼类
+
+78
+00:03:40.220 --> 00:03:42.716
+and then gradually go toward more complex locomotion,
+然后慢慢过渡到运动更复杂的动物
+
+79
+00:03:42.740 --> 00:03:43.996
+like in salamanders,
+例如蝾螈
+
+80
+00:03:43.886 --> 00:03:45.012
+but also in cats and in humans,
+然后还有猫、人类
+
+81
+00:03:45.540 --> 00:03:46.740
+in mammals.
+等哺乳动物
+
+82
+00:03:47.700 --> 00:03:50.076
+And here, a robot becomes an interesting tool
+这样一来
+
+83
+00:03:48.246 --> 00:03:51.302
+to validate our models.
+机器人成为一种验证模型的有趣工具
+
+84
+00:03:52.060 --> 00:03:55.076
+And in fact, for me, Pleurobot is a kind of dream becoming true.
+实际上，蝾螈机器人的出现使得我的梦想成真
+
+85
+00:03:55.100 --> 00:03:58.356
+Like, more or less 20 years ago I was already working on a computer
+因为，大约在20年前
+
+86
+00:03:56.670 --> 00:03:58.666
+making simulations of lamprey and salamander locomotion
+我在读博士期间就通过计算机
+
+87
+00:04:01.060 --> 00:04:02.596
+during my PhD.
+模拟七鳃鳗和蝾螈的运动
+
+88
+00:04:02.620 --> 00:04:05.996
+But I always knew that my simulations were just approximations.
+但是，我一直很清楚我的模拟非常粗糙
+
+89
+00:04:06.020 --> 00:04:09.996
+Like, simulating the physics in water or with mud or with complex ground,
+因为在水中和在泥泞等地形复杂的陆地上的运动
+
+90
+00:04:10.020 --> 00:04:12.676
+it's very hard to simulate that properly on a computer.
+很难在电脑上精确地模拟出来
+
+91
+00:04:12.700 --> 00:04:14.740
+Why not have a real robot and real physics?
+那么为什么不用机器人真正地模拟这些动作呢
+
+92
+00:04:15.420 --> 00:04:18.556
+So among all these animals, one of my favorites is the salamander.
+所以在众多的动物中，蝾螈成为我最喜欢的动物之一
+
+93
+00:04:18.580 --> 00:04:22.036
+You might ask why, and it's because as an amphibian,
+你可能会问为什么,因为从进化的角度来看
+
+94
+00:04:22.060 --> 00:04:24.916
+it's a really key animal from an evolutionary point of view.
+蝾螈作为两栖动物,发挥着至关重要的作用
+
+95
+00:04:24.940 --> 00:04:26.996
+It makes a wonderful link between swimming,
+它在两种运动方式间建立起美妙的联系
+
+96
+00:04:27.020 --> 00:04:28.916
+as you find it in eels or fish,
+一个是鳗和鱼类在水中的游泳方式
+
+97
+00:04:28.940 --> 00:04:33.060
+and quadruped locomotion, as you see in mammals, in cats and humans.
+一个是猫、人类等哺乳动物在陆上的运动方式
+
+98
+00:04:33.980 --> 00:04:35.636
+And in fact, the modern salamander
+事实上，现代的蝾螈
+
+99
+00:04:35.660 --> 00:04:38.036
+is very close to the first terrestrial vertebrate,
+和最早出现的陆生脊椎动物十分相近
+
+100
+00:04:37.976 --> 00:04:39.512
+so it's almost a living fossil,
+所以说，蝾螈就像是活化石一样
+
+101
+00:04:39.620 --> 00:04:41.556
+which gives us access to our ancestor,
+通过它，我们有机会了解我们的祖先
+
+102
+00:04:41.580 --> 00:04:44.500
+the ancestor to all terrestrial tetrapods.
+即四足动物的祖先
+
+103
+00:04:45.060 --> 00:04:46.436
+So the salamander swims
+蝾螈以所谓的鳗形游泳的步态
+
+104
+00:04:46.460 --> 00:04:48.956
+by doing what's called an anguilliform swimming gait,
+在水中游动
+
+105
+00:04:48.980 --> 00:04:52.620
+so they propagate a nice traveling wave of muscle activity from head to tail.
+因此肌肉活动产生的优美行波从头部传到尾部
+
+106
+00:04:53.260 --> 00:04:55.436
+And if you place the salamander on the ground,
+如果把它放在地上
+
+107
+00:04:54.780 --> 00:04:57.116
+it switches to what's called a walking trot gait.
+它的动作转变为快速爬行的步态
+
+108
+00:04:57.820 --> 00:05:00.683
+In this case, you have nice periodic activation of the limbs
+在这种情况下，蝾螈的四肢被定期地激活
+
+109
+00:05:00.707 --> 00:05:02.316
+which are very nicely coordinated
+十分协调地
+
+110
+00:05:02.340 --> 00:05:04.996
+with this standing wave undulation of the body,
+随着身体驻波的起伏而运动
+
+111
+00:05:05.020 --> 00:05:08.676
+and that's exactly the gait that you are seeing here on Pleurobot.
+这就是蝾螈机器人行走的步态的原型
+
+112
+00:05:08.700 --> 00:05:11.676
+Now, one thing which is very surprising and fascinating in fact
+现在令人惊叹的是
+
+113
+00:05:11.700 --> 00:05:15.836
+is the fact that all this can be generated just by the spinal cord and the body.
+所有这些活动仅靠脊髓和肢体就可以完成
+
+114
+00:05:15.860 --> 00:05:17.860
+So if you take a decerebrated salamander --
+如果拿一只去脑的蝾螈
+
+115
+00:05:17.884 --> 00:05:19.900
+it's not so nice but you remove the head --
+虽然这听起来有些残忍，但是你把它的头部切除
+
+116
+00:05:19.924 --> 00:05:22.596
+and if you electrically stimulate the spinal cord,
+如果以低强度的刺激电激它的脊髓
+
+117
+00:05:22.620 --> 00:05:25.876
+at low level of stimulation this will induce a walking-like gait.
+它会表现出类似爬行的步态
+
+118
+00:05:25.900 --> 00:05:28.356
+If you stimulate a bit more, the gait accelerates.
+但如果你加大刺激的强度，步态就会发生变化
+
+119
+00:05:28.380 --> 00:05:30.276
+And at some point, there's a threshold,
+这里存在一个临界值，如果强度达到临界点
+
+120
+00:05:30.300 --> 00:05:32.836
+and automatically, the animal switches to swimming.
+它会自己变成游泳的步态
+
+121
+00:05:32.860 --> 00:05:34.236
+This is amazing.
+这简直太神奇了
+
+122
+00:05:34.260 --> 00:05:35.756
+Just changing the global drive,
+仅仅改变了刺激的强度
+
+123
+00:05:35.780 --> 00:05:37.516
+as if you are pressing the gas pedal
+就像是踩下了
+
+124
+00:05:36.880 --> 00:05:38.606
+of descending modulation to your spinal cord,
+下行调节脊髓的油门一样
+
+125
+00:05:38.720 --> 00:05:42.690
+makes a complete switch between two very different gaits.
+实现了两种完全不同的步态之间的转变
+
+126
+00:05:44.260 --> 00:05:46.836
+And in fact, the same has been observed in cats.
+而且我们在猫身上发现了同样的规律
+
+127
+00:05:46.860 --> 00:05:48.876
+If you stimulate the spinal cord of a cat,
+刺激猫的脊髓
+
+128
+00:05:48.900 --> 00:05:51.116
+you can switch between walk, trot and gallop.
+就可以使它在行走、慢跑和快跑之间进行转换
+
+129
+00:05:51.140 --> 00:05:53.876
+Or in birds, you can make a bird switch between walking,
+还可以实现鸟从行走到拍动翅膀之间的转换
+
+130
+00:05:53.900 --> 00:05:55.356
+at a low level of stimulation,
+相应地，需要从低强度的刺激
+
+131
+00:05:55.380 --> 00:05:58.196
+and flapping its wings at high-level stimulation.
+转变为高强度的刺激
+
+132
+00:05:58.220 --> 00:06:00.236
+And this really shows that the spinal cord
+这恰好证明了
+
+133
+00:06:00.260 --> 00:06:02.676
+is a very sophisticated locomotion controller.
+脊髓是一处智能的运动控制中心
+
+134
+00:06:02.700 --> 00:06:05.156
+So we studied salamander locomotion in more detail,
+因此我们对于蝾螈的运动展开更仔细的研究
+
+135
+00:06:05.180 --> 00:06:08.276
+and we had in fact access to a very nice X-ray video machine
+我们从德国耶拿大学的马丁·费希尔教授的手中
+
+136
+00:06:08.300 --> 00:06:11.876
+from Professor Martin Fischer in Jena University in Germany.
+得到了一台非常精妙的X射线成像仪
+
+137
+00:06:11.900 --> 00:06:14.476
+And thanks to that, you really have an amazing machine
+多亏了这台精妙的仪器
+
+138
+00:06:13.216 --> 00:06:16.522
+to record all the bone motion in great detail.
+我们可以记录更多关于骨骼运动的细节
+
+139
+00:06:16.980 --> 00:06:18.236
+That's what we did.
+这就是我们得到的成像
+
+140
+00:06:18.260 --> 00:06:21.436
+So we basically figured out which bones are important for us
+然后我们大致选出关键的骨骼
+
+141
+00:06:21.460 --> 00:06:24.476
+and collected their motion in 3D.
+并且搜集他们三维运动数据
+
+142
+00:06:24.500 --> 00:06:27.196
+And what we did is collect a whole database of motions,
+我们所做的就是搜集运动过程的全数据
+
+143
+00:06:27.220 --> 00:06:28.876
+both on ground and in water,
+既有在陆地爬行的，也有在水中游行的
+
+144
+00:06:28.900 --> 00:06:31.384
+to really collect a whole database of motor behaviors
+真的是动物
+
+145
+00:06:30.329 --> 00:06:32.338
+that a real animal can do.
+在运动过程中的全部数据
+
+146
+00:06:32.678 --> 00:06:35.828
+And then our job as roboticists was to replicate that in our robot.
+然后我们这些机器人学家的任务就是 把数据复制到机器人身上
+
+147
+00:06:35.853 --> 00:06:39.236
+So we did a whole optimization process to find out the right structure,
+因此我们为了找到正确的结构，进行了全套的优化方案
+
+148
+00:06:39.260 --> 00:06:41.916
+where to place the motors, how to connect them together,
+例如在哪里放置这些运动，如何让它们连贯起来
+
+149
+00:06:41.940 --> 00:06:44.820
+to be able to replay these motions as well as possible.
+才能尽可能地重现这些动作
+
+150
+00:06:45.500 --> 00:06:47.860
+And this is how Pleurobot came to life.
+这就是蝾螈机器人诞生的过程
+
+151
+00:06:49.020 --> 00:06:51.436
+So let's look at how close it is to the real animal.
+接下来我们就来欣赏一下 它和活生生的动物多么相似吧
+
+152
+00:06:52.780 --> 00:06:55.276
+So what you see here is almost a direct comparison
+你现在看到的就是非常直观的对比
+
+153
+00:06:55.300 --> 00:06:57.996
+between the walking of the real animal and the Pleurobot.
+一个是活生生的动物，一个是蝾螈机器人
+
+154
+00:06:58.020 --> 00:07:00.756
+You can see that we have almost a one-to-one exact replay
+你可以看到我们几乎实现了两者在步态上
+
+155
+00:07:00.780 --> 00:07:02.036
+of the walking gait.
+一对一的重现
+
+156
+00:07:02.060 --> 00:07:04.660
+If you go backwards and slowly, you see it even better.
+如果进行慢速回放，你会看得更清楚
+
+157
+00:07:07.340 --> 00:07:09.716
+But even better, we can do swimming.
+但是更神奇的是，我们成功重现了游行
+
+158
+00:07:09.740 --> 00:07:12.756
+So for that we have a dry suit that we put all over the robot --
+但我们必须给机器人穿上外套
+
+159
+00:07:12.780 --> 00:07:13.876
+(Laughter)
+（笑声）
+
+160
+00:07:13.900 --> 00:07:17.076
+and then we can go in water and start replaying the swimming gaits.
+然后就可以入水重现游行的步态
+
+161
+00:07:17.100 --> 00:07:20.436
+And here, we were very happy, because this is difficult to do.
+看到这里我们很是欣慰，因为这个过程真得很艰辛
+
+162
+00:07:20.460 --> 00:07:22.676
+The physics of interaction are complex.
+物理交互作用十分复杂
+
+163
+00:07:22.700 --> 00:07:25.116
+Our robot is much bigger than a small animal,
+因为蝾螈机器人比真正的蝾螈大得多
+
+164
+00:07:25.140 --> 00:07:28.196
+so we had to do what's called dynamic scaling of the frequencies
+所以我们必须进行所谓的动态频率缩放
+
+165
+00:07:28.220 --> 00:07:30.556
+to make sure we had the same interaction physics.
+确保蝾螈机器人能实现一样的物理协调
+
+166
+00:07:30.580 --> 00:07:32.996
+But you see at the end, we have a very close match,
+但是你看，最后两者已经十分相近
+
+167
+00:07:32.950 --> 00:07:34.900
+and we were very, very happy with this.
+对此我们非常高兴
+
+168
+00:07:35.300 --> 00:07:37.516
+So let's go to the spinal cord.
+让我们再回到脊髓的研究
+
+169
+00:07:37.540 --> 00:07:39.836
+So here what we did with Jean-Marie Cabelguen
+我们和Jean-Marie Cabelguen教授所做的工作就是
+
+170
+00:07:39.860 --> 00:07:42.100
+is model the spinal cord circuits.
+模拟脊髓中的电路
+
+171
+00:07:42.860 --> 00:07:44.996
+And what's interesting is that the salamander
+但是非常有趣的是，我们发现蝾螈
+
+172
+00:07:45.020 --> 00:07:46.640
+has kept a very primitive circuit,
+始终保持一种非常原始的电路
+
+173
+00:07:46.664 --> 00:07:49.316
+which is very similar to the one we find in the lamprey,
+这和我们在七鳃鳗身上发现的很相似
+
+174
+00:07:49.340 --> 00:07:51.316
+this primitive eel-like fish,
+就是那个原始的鳗形鱼类
+
+175
+00:07:51.340 --> 00:07:53.076
+and it looks like during evolution,
+似乎在进化过程中
+
+176
+00:07:53.100 --> 00:07:56.036
+new neural oscillators have been added to control the limbs,
+产生了一种新的神经振荡器来控制肢干
+
+177
+00:07:56.060 --> 00:07:57.476
+to do the leg locomotion.
+并完成腿部的运动
+
+178
+00:07:57.500 --> 00:07:59.676
+And we know where these neural oscillators are
+现在我们知道了这些神经振荡器的位置
+
+179
+00:07:59.700 --> 00:08:01.956
+but what we did was to make a mathematical model
+但是我们还需要建立数学模型
+
+180
+00:08:01.980 --> 00:08:03.596
+to see how they should be coupled
+来研究它们是如何连接起来
+
+181
+00:08:03.620 --> 00:08:06.556
+to allow this transition between the two very different gaits.
+实现两种完全不同的步态的转换
+
+182
+00:08:06.580 --> 00:08:09.140
+And we tested that on board of a robot.
+我们在机器人的背部进行测试
+
+183
+00:08:09.500 --> 00:08:10.700
+And this is how it looks.
+就像这个样子
+
+184
+00:08:18.740 --> 00:08:21.756
+So what you see here is a previous version of Pleurobot
+你现在看到的就是蝾螈机器人的原始版本
+
+185
+00:08:21.780 --> 00:08:24.876
+that's completely controlled by our spinal cord model
+它完全由背部的脊髓模型
+
+186
+00:08:24.900 --> 00:08:26.500
+programmed on board of the robot.
+进行控制
+
+187
+00:08:26.900 --> 00:08:28.316
+And the only thing we do
+然后我们只需要
+
+188
+00:08:28.340 --> 00:08:30.516
+is send to the robot through a remote control
+通过远程控制，向机器人发送
+
+189
+00:08:30.540 --> 00:08:33.036
+the two descending signals it normally should receive
+它在正常情况下从大脑高级部位接受的到的
+
+190
+00:08:33.060 --> 00:08:34.660
+from the upper part of the brain.
+两种下行调节信号
+
+191
+00:08:35.300 --> 00:08:37.996
+And what's interesting is, by playing with these signals,
+有趣的是，通过这些信号
+
+192
+00:08:37.150 --> 00:08:40.820
+we can completely control speed, heading and type of gait.
+我们可以完全控制步态的速度，方向和类型
+
+193
+00:08:41.420 --> 00:08:42.636
+For instance,
+举例来说
+
+194
+00:08:42.660 --> 00:08:46.236
+when we stimulate at a low level, we have the walking gait,
+当我们的刺激强度较低时，表现为行走的步态
+
+195
+00:08:46.260 --> 00:08:48.236
+and at some point, if we stimulate a lot,
+当我们加大刺激的强度到某个极限
+
+196
+00:08:48.260 --> 00:08:50.420
+very rapidly it switches to the swimming gait.
+它迅速转换成游行的步态
+
+197
+00:08:51.300 --> 00:08:53.516
+And finally, we can also do turning very nicely
+最后，我们也可以很轻松地再变回来
+
+198
+00:08:53.540 --> 00:08:57.060
+by just stimulating more one side of the spinal cord than the other.
+只需要刺激脊髓的另一端
+
+199
+00:08:57.880 --> 00:08:59.646
+And I think it's really beautiful
+我觉得这真的很美妙
+
+200
+00:08:59.660 --> 00:09:01.916
+how nature has distributed control
+大自然竟然赋予了脊髓
+
+201
+00:09:01.940 --> 00:09:04.796
+to really give a lot of responsibility to the spinal cord
+这么重大的责任
+
+202
+00:09:04.820 --> 00:09:08.476
+so that the upper part of the brain doesn't need to worry about every muscle.
+以至于脑部高级中枢部分根本不需要担心每一块肌肉
+
+203
+00:09:08.500 --> 00:09:11.036
+It just has to worry about this high-level modulation,
+它只需要进行高层调节
+
+204
+00:09:11.060 --> 00:09:14.636
+and it's really the job of the spinal cord to coordinate all the muscles.
+而协调所有的肌肉就是脊髓的任务了
+
+205
+00:09:14.660 --> 00:09:18.180
+So now let's go to cat locomotion and the importance of biomechanics.
+我们再回到猫的运动，进一步认识仿生学的的重要性
+
+206
+00:09:18.900 --> 00:09:20.156
+So this is another project
+这就是另一个项目了
+
+207
+00:09:20.180 --> 00:09:22.596
+where we studied cat biomechanics,
+我们对猫进行了仿生学研究
+
+208
+00:09:22.620 --> 00:09:26.516
+and we wanted to see how much the morphology helps locomotion.
+想弄清楚形态学对于肢体动作的影响
+
+209
+00:09:26.540 --> 00:09:30.156
+And we found three important criteria in the properties,
+我们发现，从根本上讲
+
+210
+00:09:28.200 --> 00:09:30.780
+basically, of the limbs.
+躯干具有三个重要的属性
+
+211
+00:09:32.140 --> 00:09:34.116
+The first one is that a cat limb
+首先就是猫的四肢，
+
+212
+00:09:34.140 --> 00:09:36.836
+more or less looks like a pantograph-like structure.
+或多或少地类似于受电弓的结构
+
+213
+00:09:36.860 --> 00:09:39.076
+So a pantograph is a mechanical structure
+受电弓是一种机械结构
+
+214
+00:09:39.100 --> 00:09:42.500
+which keeps the upper segment and the lower segments always parallel.
+它使得上框架和下框架始终保持平行
+
+215
+00:09:43.420 --> 00:09:46.516
+So a simple geometrical system that kind of coordinates a bit
+如此简单的几何学系统
+
+216
+00:09:46.540 --> 00:09:48.356
+the internal movement of the segments.
+竟能协调上下框架的内部移动
+
+217
+00:09:48.380 --> 00:09:51.436
+A second property of cat limbs is that they are very lightweight.
+猫的四肢的第二个属性就是轻盈性
+
+218
+00:09:51.460 --> 00:09:53.316
+Most of the muscles are in the trunk,
+大部分的肌肉都集中在身体
+
+219
+00:09:53.340 --> 00:09:56.236
+which is a good idea, because then the limbs have low inertia
+这真是个好点子，这样一来四肢的惯性就很小
+
+220
+00:09:56.260 --> 00:09:58.036
+and can be moved very rapidly.
+猫就可以灵活地运动
+
+221
+00:09:58.060 --> 00:10:01.876
+The last final important property is this very elastic behavior of the cat limb,
+最后一个重要的属性是四肢的弹性
+
+222
+00:10:01.900 --> 00:10:04.556
+so to handle impacts and forces.
+可以应对各种冲击和压力
+
+223
+00:10:04.580 --> 00:10:06.916
+And this is how we designed Cheetah-Cub.
+我们就是根据这些属性设计出猎豹机器人
+
+224
+00:10:06.940 --> 00:10:09.140
+So let's invite Cheetah-Cub onstage.
+接下来有请猎豹机器人登场
+
+225
+00:10:13.980 --> 00:10:17.636
+So this is Peter Eckert, who does his PhD on this robot,
+这是由彼得埃克特在博士期间研制的机器人
+
+226
+00:10:17.660 --> 00:10:19.716
+and as you see, it's a cute little robot.
+你可以看到，它是一个非常可爱的小型机器人
+
+227
+00:10:19.740 --> 00:10:20.996
+It looks a bit like a toy,
+看起来就像玩具一样
+
+228
+00:10:21.020 --> 00:10:23.076
+but it was really used as a scientific tool
+但它的的确确是一项科研工具
+
+229
+00:10:23.100 --> 00:10:26.396
+to investigate these properties of the legs of the cat.
+用来研究猫的四肢的属性
+
+230
+00:10:26.420 --> 00:10:29.036
+So you see, it's very compliant, very lightweight,
+你看，它的四肢十分协调、轻盈
+
+231
+00:10:29.060 --> 00:10:30.316
+and also very elastic,
+并且富有弹性
+
+232
+00:10:30.340 --> 00:10:33.116
+so you can easily press it down and it will not break.
+你可以轻而易举地把它压下去，但它一点事都没有
+
+233
+00:10:33.140 --> 00:10:34.596
+It will just jump, in fact.
+实际上，它只会跳起来
+
+234
+00:10:34.620 --> 00:10:37.500
+And this very elastic property is also very important.
+所以说四肢的弹跳性非常重要
+
+235
+00:10:38.980 --> 00:10:40.876
+And you also see a bit these properties
+你也可以把四肢的三个节段
+
+236
+00:10:40.900 --> 00:10:43.300
+of these three segments of the leg as pantograph.
+看作一个受电弓
+
+237
+00:10:44.100 --> 00:10:46.876
+Now, what's interesting is that this quite dynamic gait
+现在，有趣的是这个动态的装置
+
+238
+00:10:46.900 --> 00:10:48.796
+is obtained purely in open loop,
+实现了完全的开环回路
+
+239
+00:10:48.820 --> 00:10:51.956
+meaning no sensors, no complex feedback loops.
+也就是说没有传感器，也没有复杂的反馈回路
+
+240
+00:10:51.980 --> 00:10:54.396
+And that's interesting, because it means
+这真的很有趣，因为这意味着
+
+241
+00:10:54.420 --> 00:10:58.436
+that just the mechanics already stabilized this quite rapid gait,
+仅仅靠机器就可以维持这个敏捷的装置的平衡
+
+242
+00:10:58.460 --> 00:11:02.636
+and that really good mechanics already basically simplify locomotion.
+并且这个精巧的机器对运动进行了基本的简化
+
+243
+00:11:02.660 --> 00:11:05.956
+To the extent that we can even disturb a bit locomotion,
+在某种程度上，我们甚至可以在运动过程中制造一些障碍
+
+244
+00:11:05.980 --> 00:11:07.636
+as you will see in the next video,
+在接下来的视频是你会看到
+
+245
+00:11:07.660 --> 00:11:11.556
+where we can for instance do some exercise where we have the robot go down a step,
+例如我们做一些实验让机器人下台阶
+
+246
+00:11:11.580 --> 00:11:13.196
+and the robot will not fall over,
+机器人并不会摔倒
+
+247
+00:11:13.220 --> 00:11:14.796
+which was a surprise for us.
+这确实出乎我们的意料
+
+248
+00:11:14.820 --> 00:11:16.236
+This is a small perturbation.
+对于这个细微的干扰
+
+249
+00:11:16.260 --> 00:11:18.676
+I was expecting the robot to immediately fall over,
+我预期机器人会立刻摔倒
+
+250
+00:11:18.700 --> 00:11:21.136
+because there are no sensors, no fast feedback loop.
+因为它没有传感器，也没有快速反馈回路
+
+251
+00:11:20.940 --> 00:11:23.356
+But no, just the mechanics stabilized the gait,
+但是出乎我们的意料，仅仅靠这个机器维持了装着的平衡
+
+252
+00:11:23.380 --> 00:11:24.956
+and the robot doesn't fall over.
+机器人并没有摔倒
+
+253
+00:11:24.980 --> 00:11:28.116
+Obviously, if you make the step bigger, and if you have obstacles,
+显然，如果增大跨度，再设置一些障碍
+
+254
+00:11:28.140 --> 00:11:31.796
+you need the full control loops and reflexes and everything.
+就需要全控制回路和反射弧等一系列东西
+
+255
+00:11:31.820 --> 00:11:34.756
+But what's important here is that just for small perturbation,
+但是眼下最重要的是，对于一些细微的干扰
+
+256
+00:11:34.780 --> 00:11:36.276
+the mechanics are right.
+仅仅靠机器就可以完成
+
+257
+00:11:36.300 --> 00:11:38.396
+And I think this is a very important message
+我想这对仿生学家、机器人学家和神经学家来说
+
+258
+00:11:38.420 --> 00:11:40.611
+from biomechanics and robotics to neuroscience,
+是一个非常重要的信息，那就是：
+
+259
+00:11:40.635 --> 00:11:45.315
+saying don't underestimate to what extent the body already helps locomotion.
+不要低估躯干对于运动所发挥的作用
+
+260
+00:11:47.260 --> 00:11:49.420
+Now, how does this relate to human locomotion?
+那么这是如何联系到人类的运动上的呢
+
+261
+00:11:49.780 --> 00:11:53.420
+Clearly, human locomotion is more complex than cat and salamander locomotion,
+显然，人类的运动比猫和蝾螈的运动更为复杂
+
+262
+00:11:53.940 --> 00:11:56.440
+but at the same time, the nervous system of humans is very similar
+但是另一方面，人类的神经系统
+
+263
+00:11:56.620 --> 00:11:58.736
+to that of other vertebrates.
+和其他脊椎动物的十分相似
+
+264
+00:11:58.940 --> 00:12:00.396
+And especially the spinal cord
+尤其是脊髓
+
+265
+00:12:00.420 --> 00:12:03.060
+is also the key controller for locomotion in humans.
+它同样是人类运动的重要处理中心
+
+266
+00:12:03.580 --> 00:12:05.996
+That's why, if there's a lesion of the spinal cord,
+这就是为什么一旦脊髓受损
+
+267
+00:12:05.920 --> 00:12:07.470
+this has dramatic effects.
+将会导致严重的后果
+
+268
+00:12:07.540 --> 00:12:10.316
+The person can become paraplegic or tetraplegic.
+例如瘫痪或者四肢麻痹
+
+269
+00:12:10.340 --> 00:12:12.716
+This is because the brain loses this communication
+这是由于大脑与脊髓
+
+270
+00:12:12.740 --> 00:12:13.996
+with the spinal cord.
+之间的信息传递受损
+
+271
+00:12:13.960 --> 00:12:16.236
+Especially, it loses this descending modulation
+尤其是用于引发和调节运动的
+
+272
+00:12:16.260 --> 00:12:18.180
+to initiate and modulate locomotion.
+下行调节机制
+
+273
+00:12:19.460 --> 00:12:21.156
+So a big goal of neuroprosthetics
+所以神经学家的一大目标
+
+274
+00:12:21.180 --> 00:12:23.556
+is to be able to reactivate that communication
+就是通过电刺激或者化学刺激
+
+275
+00:12:23.580 --> 00:12:26.020
+using electrical or chemical stimulations.
+激活两者之间的信息传递
+
+276
+00:12:26.660 --> 00:12:29.596
+And there are several teams in the world that do exactly that,
+世界上有些团队就在研究这一领域
+
+277
+00:12:29.620 --> 00:12:30.836
+especially at EPFL.
+在洛桑联邦理工学院更是如此
+
+278
+00:12:30.860 --> 00:12:33.356
+My colleagues Grégoire Courtine and Silvestro Micera,
+例如我的同事格雷瓜尔·库尔蒂纳
+
+279
+00:12:33.380 --> 00:12:34.620
+with whom I collaborate.
+还有西尔维斯特·米切拉
+
+280
+00:12:35.780 --> 00:12:38.876
+But to do this properly, it's very important to understand
+但是为了做好这一点，理解以下几点非常重要
+
+281
+00:12:38.900 --> 00:12:40.636
+how the spinal cord works,
+脊髓是如何工作的
+
+282
+00:12:40.660 --> 00:12:42.356
+how it interacts with the body,
+它是如何与躯干相互作用的
+
+283
+00:12:42.380 --> 00:12:44.860
+and how the brain communicates with the spinal cord.
+以及大脑是如何与脊髓进行信息传递的
+
+284
+00:12:45.620 --> 00:12:48.516
+This is where the robots and models that I've presented today
+我今天所呈现的机器人和模型
+
+285
+00:12:48.540 --> 00:12:50.436
+will hopefully play a key role
+就将针对上述重要问题
+
+286
+00:12:50.460 --> 00:12:53.116
+towards these very important goals.
+发挥关键的作用
+
+287
+00:12:53.140 --> 00:12:54.356
+Thank you.
+感谢大家
+
+288
+00:12:54.380 --> 00:12:58.940
+(Applause)
+（掌声）
+
+289
+00:13:03.920 --> 00:13:06.556
+Bruno Giussani: Auke, I've seen in your lab other robots
+布鲁诺·朱萨尼：奥克，我在你的实验室 看到一些其他的机器人
+
+290
+00:13:06.580 --> 00:13:09.036
+that do things like swim in pollution
+例如在污水中游泳
+
+291
+00:13:09.060 --> 00:13:11.516
+and measure the pollution while they swim.
+并检测污染程度的机器人
+
+292
+00:13:11.540 --> 00:13:12.756
+But for this one,
+但是你在演讲中提到的蝾螈机器人
+
+293
+00:13:12.780 --> 00:13:16.260
+you mentioned in your talk, like a side project,
+它更像是一个小项目
+
+294
+00:13:17.460 --> 00:13:18.676
+search and rescue,
+它的鼻子上有一个照相机
+
+295
+00:13:18.700 --> 00:13:20.876
+and it does have a camera on its nose.
+可以进行搜救工作
+
+296
+00:13:20.900 --> 00:13:23.396
+Auke Ijspeert: Absolutely. So the robot --
+奥克：确实是这样，关于机器人
+
+297
+00:13:23.420 --> 00:13:24.849
+We have some spin-off projects
+我们有很多派生项目
+
+298
+00:13:24.873 --> 00:13:28.316
+where we would like to use the robots to do search and rescue inspection,
+我们希望用这些机器人进行搜救和视察工作
+
+299
+00:13:28.340 --> 00:13:29.916
+so this robot is now seeing you.
+所以蝾螈机器人诞生了
+
+300
+00:13:29.940 --> 00:13:33.116
+And the big dream is to, if you have a difficult situation
+我们设想的是，如果有人陷入困境
+
+301
+00:13:33.140 --> 00:13:36.756
+like a collapsed building or a building that is flooded,
+例如建筑坍塌或者遭遇洪水
+
+302
+00:13:36.780 --> 00:13:40.116
+and this is very dangerous for a rescue team or even rescue dogs,
+这对救援团队和搜救犬来说都是危险的
+
+303
+00:13:40.140 --> 00:13:43.036
+why not send in a robot that can crawl around, swim, walk,
+那么为什么不派一个个既会爬行 又会游行的机器人呢
+
+304
+00:13:43.060 --> 00:13:46.236
+with a camera onboard to do inspection and identify survivors
+它的背部还装有照相机，可以用来 进行侦查、识别幸存者
+
+305
+00:13:46.260 --> 00:13:49.036
+and possibly create a communication link with the survivor.
+甚至可能实现与幸存者的联系
+
+306
+00:13:49.060 --> 00:13:52.636
+BG: Of course, assuming the survivors don't get scared by the shape of this.
+布鲁诺:当然，前提是幸存者没有被机器人的样子吓到
+
+307
+00:13:52.660 --> 00:13:55.956
+AI: Yeah, we should probably change the appearance quite a bit,
+奥克:是的，我们将对机器人的外形进行改善
+
+308
+00:13:55.980 --> 00:13:58.796
+because here I guess a survivor might die of a heart attack
+否则，我猜幸存者可能会被吓出心脏病
+
+309
+00:13:58.820 --> 00:14:01.356
+just of being worried that this would feed on you.
+害怕机器人会吃了他们
+
+310
+00:14:01.380 --> 00:14:04.236
+But by changing the appearance and it making it more robust,
+但是我相信，通过改变它的外形，让它更强健一些
+
+311
+00:14:04.260 --> 00:14:06.316
+I'm sure we can make a good tool out of it.
+它将会发挥很重要的作用
+
+312
+00:14:05.776 --> 00:14:08.426
+BG: Thank you very much. Thank you and your team.
+布鲁诺:非常感谢你和你的团队
+

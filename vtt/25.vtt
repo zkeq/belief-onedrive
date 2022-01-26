@@ -1,0 +1,876 @@
+WEBVTT
+
+﻿1
+00:00:13.363 --> 00:00:17.827
+You're sitting in the doctor's office waiting for test results.
+你坐在医生办公室等待测试结果。
+
+2
+00:00:18.661 --> 00:00:20.830
+She comes in and says,
+她进来说，
+
+3
+00:00:20.830 --> 00:00:22.914
+"You have Parkinson's disease."
+“你有帕金森氏综合症。”
+
+4
+00:00:23.583 --> 00:00:26.793
+Your heart sinks, and you think about everything that will go wrong:
+你心里一沉，想到了 将要变糟的所有事情：
+
+5
+00:00:26.836 --> 00:00:33.092
+you'll be unable to walk, unable to feed yourself, your hands trembling, drooling,
+你不能走路，不能自己吃饭， 你的手颤颤巍巍，流着口水，
+
+6
+00:00:33.133 --> 00:00:34.594
+unable to swallow.
+无法吞咽。
+
+7
+00:00:35.427 --> 00:00:38.097
+But before you say anything, she says,
+但在你开口前，她说，
+
+8
+00:00:38.097 --> 00:00:43.811
+"Not to worry, we'll put in an order for your cells today."
+“不要担心，我们今天就订购你的细胞。”
+
+9
+00:00:43.853 --> 00:00:45.187
+You come back a week later,
+你一周之后回来，
+
+10
+00:00:45.187 --> 00:00:49.858
+and a surgeon transplants brand new neurons into your brain.
+外科医生将全新的神经元 移植到你的大脑中。
+
+11
+00:00:51.110 --> 00:00:56.491
+You just received an on-demand functional cure for Parkinson's,
+你刚刚接受了一个 帕金森的按需功能治疗，
+
+12
+00:00:56.531 --> 00:00:58.950
+made from your cells.
+取自你的细胞。
+
+13
+00:01:01.162 --> 00:01:04.207
+It sounds like science fiction, but in the future,
+这听起来像科幻，但在将来，
+
+14
+00:01:04.248 --> 00:01:09.504
+we will all have the option of having our stem cells banked ahead of time
+我们都可以选择提前 将干细胞储藏起来，
+
+15
+00:01:09.544 --> 00:01:14.382
+so that any time you need new neurons, new muscle cells, new skin cells,
+这样任何时候你需要新的神经元、 新的肌肉细胞、新的皮肤细胞时，
+
+16
+00:01:14.424 --> 00:01:17.011
+they'd be generated from this bank.
+它们都可以从这个银行中生产出来。
+
+17
+00:01:17.053 --> 00:01:21.390
+And because they're 100 percent your cells,
+并且由于它们100%是你的细胞，
+
+18
+00:01:21.431 --> 00:01:26.228
+your immune system is extremely unlikely to reject or attack those cells.
+你的免疫系统不会排斥 或攻击这些细胞。
+
+19
+00:01:26.895 --> 00:01:29.689
+In fact, the body has no idea
+事实上，身体不知道
+
+20
+00:01:29.731 --> 00:01:33.693
+that these cells were actually made in a cell factory.
+这些细胞其实是在细胞工厂制造的。
+
+21
+00:01:35.279 --> 00:01:37.740
+All of this is possible because of a breakthrough
+这一切成为可能
+
+22
+00:01:36.488 --> 00:01:42.245
+at the intersection of biology, laser physics and machine learning.
+是因为生物学、激光物理学 和机器学习交叉领域的突破。
+
+23
+00:01:42.285 --> 00:01:44.246
+We'll start with biology.
+我们从生物学开始。
+
+24
+00:01:44.288 --> 00:01:47.749
+The human body is an absolute miracle.
+人类身体绝对是个奇迹。
+
+25
+00:01:47.749 --> 00:01:47.750
+Trillions of cells are working in synchronicity
+数以亿计的细胞同步工作
+
+26
+00:01:47.750 --> 00:01:51.294
+Trillions of cells are working in synchronicity
+数以亿计的细胞同步工作
+
+27
+00:01:51.336 --> 00:01:53.588
+to pump blood, secrete dopamine
+以输送血液，分泌多巴胺
+
+28
+00:01:53.588 --> 00:01:56.049
+and let me see and speak to you right now.
+让我现在得以看见并为你们演讲。
+
+29
+00:01:56.883 --> 00:02:00.220
+But as we age, our cells age, too.
+但随着年龄渐长， 我们的细胞也会变老。
+
+30
+00:02:00.263 --> 00:02:03.223
+That's why our skin starts to sag,
+于是我们的皮肤开始松弛，
+
+31
+00:02:03.266 --> 00:02:05.308
+our cartilage wears away,
+我们的软骨磨损掉，
+
+32
+00:02:05.308 --> 00:02:05.309
+and your five-mile run might turn into a 20-minute walk.
+你5英里的跑步可能会 变成20分钟的步行。
+
+33
+00:02:05.309 --> 00:02:08.937
+and your five-mile run might turn into a 20-minute walk.
+你5英里的跑步可能会 变成20分钟的步行。
+
+34
+00:02:09.604 --> 00:02:11.691
+Yes, we're all getting older.
+是的，我们所有人都会变老。
+
+35
+00:02:11.691 --> 00:02:14.109
+Our bodies are ticking time bombs.
+我们的身体就像定时炸弹。
+
+36
+00:02:14.109 --> 00:02:18.321
+But stem cells could offer a solution,
+但干细胞可以提供解法，
+
+37
+00:02:18.364 --> 00:02:22.869
+because one stem cell can become almost any cell in your body.
+因为一个干细胞能够成为 你身体的几乎任何细胞。
+
+38
+00:02:24.078 --> 00:02:27.832
+My grandma passed away due to diabetes in 2012.
+我奶奶2012年因糖尿病去世。
+
+39
+00:02:27.874 --> 00:02:30.293
+If the technology were available at the time,
+如果当时技术成熟，
+
+40
+00:02:30.334 --> 00:02:35.131
+we could have used her stem cells to generate new pancreatic cells,
+我们就可以使用她的 干细胞来生成胰腺，
+
+41
+00:02:35.173 --> 00:02:37.258
+and it could have cured her.
+就可以治愈她。
+
+42
+00:02:38.216 --> 00:02:43.722
+Now, unfortunately, stem cells are notoriously difficult to engineer.
+现在，不幸的是，干细胞是 出了名地难以制造。
+
+43
+00:02:43.722 --> 00:02:46.434
+One fundamental problem relates to how they're made,
+一个根本的问题 跟它们如何制造有关，
+
+44
+00:02:46.475 --> 00:02:49.061
+which involves taking a patient's blood cells
+这涉及到取下病人的血液细胞
+
+45
+00:02:49.102 --> 00:02:52.814
+and adding chemicals to those blood cells to turn them into stem cells.
+加入化学物质来把它们变成干细胞。
+
+46
+00:02:53.399 --> 00:02:55.693
+Now, during this chemical process,
+在这个化学过程中，
+
+47
+00:02:55.734 --> 00:02:58.779
+you never end up with a perfect set of stem cells.
+你基本不可能得到 一套完美的干细胞。
+
+48
+00:02:58.779 --> 00:03:03.409
+In fact, you get a very messy plate of cells going in different directions --
+实际是，你会得到一盘 非常杂乱的不同方向的细胞
+
+49
+00:03:03.451 --> 00:03:05.912
+towards the eye, brain, liver --
+——向眼睛、大脑、肝脏发展的细胞——
+
+50
+00:03:06.912 --> 00:03:09.832
+and every random cell must be removed.
+这些随机的细胞必须被移除掉。
+
+51
+00:03:10.666 --> 00:03:17.089
+Until recently, the main way to remove cells was by hand.
+直到最近，移除这些细胞的方法是人工。
+
+52
+00:03:18.131 --> 00:03:22.093
+I remember the first time I visited the Harvard Stem Cell Institute.
+我还记得第一次造访 哈佛干细胞研究所时。
+
+53
+00:03:22.136 --> 00:03:26.139
+I watched a highly skilled scientist sitting at a bench looking at stem cells,
+我看到一位技术高超的科学家 坐在长凳上观察干细胞，
+
+54
+00:03:26.181 --> 00:03:28.726
+evaluating them one at a time
+一次一个地评估它们
+
+55
+00:03:28.768 --> 00:03:31.979
+and removing the unwanted cells by hand.
+并手工移除不需要的细胞。
+
+56
+00:03:32.647 --> 00:03:35.941
+It's a slow, tedious and artisanal process,
+这是个缓慢、乏味和手工的过程，
+
+57
+00:03:35.941 --> 00:03:40.445
+which is why generating a personalized stem cell bank today
+所以今天制作一个 客制化的干细胞银行
+
+58
+00:03:40.488 --> 00:03:43.199
+costs about one million dollars.
+耗费达100万美元。
+
+59
+00:03:43.907 --> 00:03:48.078
+Now, using a donor's stem cells is much cheaper,
+如今，使用捐赠者的干细胞要更便宜，
+
+60
+00:03:48.119 --> 00:03:52.791
+but your immune system will likely attack or reject those cells
+但你的免疫系统可能会 攻击和排斥这些细胞，
+
+61
+00:03:52.833 --> 00:03:54.543
+unless you take immunosuppressants,
+除非你服用免疫抑制剂，
+
+62
+00:03:54.584 --> 00:03:57.963
+which, unfortunately, is not an option for a lot of people,
+不幸的是，这对很多人不可选，
+
+63
+00:03:58.005 --> 00:03:59.548
+especially the elderly.
+尤其对于老年人。
+
+64
+00:04:00.423 --> 00:04:01.633
+To avoid this problem,
+要避免这个问题，
+
+65
+00:04:01.675 --> 00:04:04.595
+some scientists are banking stem cells
+一些科学家存储来自具有
+
+66
+00:04:04.595 --> 00:04:08.723
+from individuals with the most common genetic backgrounds.
+最通用遗传背景个体的干细胞。
+
+67
+00:04:08.766 --> 00:04:09.976
+Here in the US,
+在美国，
+
+68
+00:04:10.017 --> 00:04:15.356
+let's say we made a cell bank with 100 of the most common cell lines.
+假设我们用100个最常见的 细胞系做了一个细胞库。
+
+69
+00:04:15.398 --> 00:04:18.734
+It could work for about 75 percent of Caucasians,
+它对75%的白种人有效，
+
+70
+00:04:18.775 --> 00:04:20.944
+50 percent of African Americans.
+对50%的非裔美国人有效。
+
+71
+00:04:20.987 --> 00:04:23.614
+But it gets harder.
+但这变得愈来愈困难。
+
+72
+00:04:23.614 --> 00:04:26.534
+My cofounder is Filipina-Mexican,
+我的联合创始人是 菲律宾-墨西哥人，
+
+73
+00:04:26.534 --> 00:04:30.203
+and it's unclear if she would be ever covered by a bank.
+她能不能被这个银行覆盖 仍然不清楚。
+
+74
+00:04:30.996 --> 00:04:32.872
+And regardless,
+不管怎样说，
+
+75
+00:04:32.915 --> 00:04:39.838
+if you could choose between using a stranger's cells versus your own,
+如果在陌生人 和自己的细胞上有得选，
+
+76
+00:04:39.879 --> 00:04:41.923
+wouldn't you choose your own?
+为什么不选自己的？
+
+77
+00:04:43.467 --> 00:04:45.803
+Personalized stem cells are our opportunity
+客制化的干细胞是我们制造
+
+78
+00:04:45.845 --> 00:04:51.350
+to make medicines that truly work for me, for you and everyone.
+能够真正对我、对你和每个人 有效的药物的机会。
+
+79
+00:04:52.393 --> 00:04:57.648
+And in order to make this process of stem cell production affordable and scalable,
+要让干细胞生产过程的 费用可承受和规模化，
+
+80
+00:04:57.689 --> 00:04:59.065
+we have to automate it.
+我们需要自动化这个过程。
+
+81
+00:04:59.107 --> 00:05:02.485
+Different people are taking different approaches to doing that,
+不同的人正在用不同的方法去实现，
+
+82
+00:05:02.486 --> 00:05:06.532
+and I decided to use physics.
+我决定使用物理方法。
+
+83
+00:05:06.573 --> 00:05:09.826
+Since childhood, I've been a die-hard physics fan,
+从孩提时代开始，我就是个铁杆物理迷。
+
+84
+00:05:09.826 --> 00:05:11.119
+gazing at the stars,
+仰望星空，
+
+85
+00:05:11.119 --> 00:05:14.122
+daydreaming about space travel.
+做着太空旅行的白日梦。
+
+86
+00:05:14.165 --> 00:05:16.624
+Thanks, Mom, for not thinking I was weird!
+感谢母亲，没觉得我是个怪胎。
+
+87
+00:05:17.376 --> 00:05:19.462
+My family moved around a lot,
+我家庭经常搬迁，
+
+88
+00:05:19.503 --> 00:05:23.965
+from Saudi Arabia to Germany to Sri Lanka to Bangladesh,
+从沙特阿拉伯到德国， 从斯里兰卡到孟加拉国，
+
+89
+00:05:23.965 --> 00:05:23.966
+and each time, I had to learn new languages and cultures.
+每次，我都要学习新的语言和文化。
+
+90
+00:05:23.966 --> 00:05:27.511
+and each time, I had to learn new languages and cultures.
+每次，我都要学习新的语言和文化。
+
+91
+00:05:28.136 --> 00:05:32.266
+Eventually, I fell in love with physics because it was a universal language
+最终，我爱上物理学，因为它是
+
+92
+00:05:32.266 --> 00:05:34.352
+that I didn't have to relearn every time.
+不需要我每次都学习的通用语言。
+
+93
+00:05:35.143 --> 00:05:39.148
+When I started my PhD, I joined a laser physics lab,
+当我读博士时， 我加入激光物理实验室，
+
+94
+00:05:39.189 --> 00:05:42.192
+because lasers are the coolest.
+因为激光是最酷的。
+
+95
+00:05:42.193 --> 00:05:45.738
+But I also decided to dabble in biology.
+但我也决定涉足生物学。
+
+96
+00:05:46.405 --> 00:05:50.785
+I started using lasers to engineer human cells,
+我开始使用激光来设计人类细胞，
+
+97
+00:05:50.785 --> 00:05:54.537
+and when I talked to biologists about it, they were amazed.
+当我和生物学家谈这个时， 他们感到惊讶。
+
+98
+00:05:55.330 --> 00:06:00.335
+Here's why: scientists are always looking for ways to make biology more precise.
+原因在于：科学家一直在寻找 让生物学更精确的方法。
+
+99
+00:06:00.878 --> 00:06:04.548
+Sometimes cell culture can feel a lot like cooking:
+有时候细胞培养像烹饪：
+
+100
+00:06:04.590 --> 00:06:09.136
+take some chemicals, put it in a pot, stir it, heat it, see what happens,
+取一些化学物质，放进锅里，搅拌， 加热，看看会发生什么，
+
+101
+00:06:09.177 --> 00:06:10.804
+try it all over again.
+一次次尝试。
+
+102
+00:06:10.845 --> 00:06:13.306
+In contrast, lasers are so precise,
+相比之下，激光是如此精确，
+
+103
+00:06:13.306 --> 00:06:17.352
+you can target one cell in millions at precise intervals --
+你可以在精确的时间间隔里 瞄准数百万个细胞中的任何一个，
+
+104
+00:06:17.395 --> 00:06:20.689
+every second, every minute, every hour -- you name it.
+一秒内、一分内、 一小时内，你说了算。
+
+105
+00:06:21.564 --> 00:06:25.276
+I realized that instead of doing this tedious process of stem cell culture
+我意识到与其手工去做这个乏味的
+
+106
+00:06:25.318 --> 00:06:26.694
+by hand,
+干细胞培养过程，
+
+107
+00:06:26.737 --> 00:06:30.282
+we could use lasers to remove the unwanted cells.
+我们可以使用激光来移除 不需要的细胞。
+
+108
+00:06:30.282 --> 00:06:32.867
+And to automate the entire process,
+要自动化整个过程，
+
+109
+00:06:32.867 --> 00:06:32.868
+we decided to use machine learning to identify those unwanted cells
+我们决定使用机器学习 来识别不需要的细胞
+
+110
+00:06:32.868 --> 00:06:37.080
+we decided to use machine learning to identify those unwanted cells
+我们决定使用机器学习 来识别不需要的细胞
+
+111
+00:06:37.122 --> 00:06:38.623
+and zap them.
+并杀死它们。
+
+112
+00:06:38.624 --> 00:06:42.794
+Algorithms today are great at finding useful information and images,
+今天的算法在寻找有用的 信息和图像方面做得很好，
+
+113
+00:06:42.794 --> 00:06:46.172
+making this a perfect use case for machine learning.
+令这成为机器学习的 一个完美使用场景。
+
+114
+00:06:46.881 --> 00:06:48.049
+Here's how it works:
+这是工作的原理：
+
+115
+00:06:48.049 --> 00:06:50.218
+Take some blood cells, put it in a cassette.
+取一些血液细胞，放在卡盒里。
+
+116
+00:06:50.261 --> 00:06:54.222
+Add chemicals to those blood cells to turn them into stem cells like always.
+往血液细胞中加入化学物质 让它们像往常一样变成干细胞。
+
+117
+00:06:54.765 --> 00:06:59.728
+Now, instead of having a human look for those unwanted cells
+现在，跟过去人工寻找不需要的细胞
+
+118
+00:06:59.770 --> 00:07:01.897
+and remove them by hand,
+并手动移除掉不同的是，
+
+119
+00:07:01.939 --> 00:07:04.859
+the machine identifies the unwanted cells
+机器识别出不需要的细胞
+
+120
+00:07:04.900 --> 00:07:08.112
+and zaps them with a laser.
+并用激光杀死它们。
+
+121
+00:07:08.903 --> 00:07:12.532
+As you can see, this entire process happens by machine.
+你可以看到，这整个流程 都是机器操作的。
+
+122
+00:07:12.532 --> 00:07:16.871
+The computer decides when and how often to print the cells
+机器决定打印细胞的时间和频率
+
+123
+00:07:16.871 --> 00:07:21.584
+and uses a fully automated system to run the process.
+并使用全自动系统来运行这个过程。
+
+124
+00:07:21.624 --> 00:07:23.334
+After repeated pruning,
+经过反复修剪后，
+
+125
+00:07:23.376 --> 00:07:26.338
+you end up with a perfect culture of your stem cells,
+你得到你自己的完美干细胞培养物，
+
+126
+00:07:26.338 --> 00:07:29.299
+ready to be banked and used at any time.
+随时可以存入银行并使用。
+
+127
+00:07:30.758 --> 00:07:34.095
+In the future, we're going to have stem cell farms
+在未来，我们将会拥有干细胞农场，
+
+128
+00:07:34.095 --> 00:07:38.434
+with stacks and stacks of hundreds and then eventually millions of cassettes,
+那里有一叠又一叠的，成百上千的， 最终是数百万的卡盒，
+
+129
+00:07:38.475 --> 00:07:41.853
+each cassette a personalized bank for one human.
+每个盒子是一个人的客制化银行。
+
+130
+00:07:41.895 --> 00:07:45.107
+Nurses will take a sample of your cord blood right at birth
+护士会在你出生时采集脐带血样本
+
+131
+00:07:45.107 --> 00:07:47.150
+and ship it off for cultivation,
+然后运去培育，
+
+132
+00:07:47.150 --> 00:07:51.155
+so that for the rest of your life, your stem cells are on file, banked,
+这样在你的余生中，你的干细胞 都会被存档，储存起来，
+
+133
+00:07:51.196 --> 00:07:54.240
+ready to go, should any medical need arise.
+随时准备使用，假设有任何医疗需要。
+
+134
+00:07:54.241 --> 00:07:56.118
+Let's say you develop heart disease.
+我们假设说你患上了心脏疾病，
+
+135
+00:07:56.160 --> 00:07:58.287
+Your doctor can order up new heart cells.
+你的医生可以订购新的心脏细胞。
+
+136
+00:07:58.287 --> 00:08:01.165
+Hair loss. They can order up new hair.
+秃头，他们可以订购新的头发。
+
+137
+00:08:02.583 --> 00:08:06.419
+The most immediate application of this technology is for implants.
+这个技术最快的应用是移植。
+
+138
+00:08:06.462 --> 00:08:09.632
+Dr. Kapil Bharti's research at the National Eye Institute
+Kapil Bharti 博士 在国家眼科研究所的研究
+
+139
+00:08:09.672 --> 00:08:12.217
+has informed a breakthrough clinical trial
+对干细胞治疗失明
+
+140
+00:08:12.258 --> 00:08:15.136
+for a stem cell derived therapy for blindness.
+有突破性的临床试验。
+
+141
+00:08:15.136 --> 00:08:17.347
+As the process becomes cheaper,
+随着整个过程变得便宜，
+
+142
+00:08:17.388 --> 00:08:21.852
+scientists can run larger and larger clinical trials at scale
+科学家可以进行 越来越大规模的临床试验
+
+143
+00:08:21.893 --> 00:08:24.979
+to develop new treatments that don't exist today,
+去开发今天不存在的治疗方法，
+
+144
+00:08:25.021 --> 00:08:29.108
+because what costs one million dollars today
+因为今天耗费100万美元的东西
+
+145
+00:08:29.109 --> 00:08:31.695
+will soon be less than 50,000,
+很快将会少于5万美元，
+
+146
+00:08:31.737 --> 00:08:33.571
+and then even cheaper with time.
+并且随着时间将进一步下降。
+
+147
+00:08:35.323 --> 00:08:40.162
+Now, it gets even more interesting than that.
+现在，事情变得比那更有趣了。
+
+148
+00:08:40.203 --> 00:08:42.830
+And perhaps you have longevity in mind.
+也许你想要长寿。
+
+149
+00:08:43.706 --> 00:08:45.792
+That is certainly a possibility.
+这当然是可能的。
+
+150
+00:08:45.833 --> 00:08:49.170
+In the future, we might use these exact same stem cell banks
+将来，我们可以使用这些 同样的干细胞银行
+
+151
+00:08:49.213 --> 00:08:54.927
+to generate entire new organs, new tissues, new skin ...
+来生产全新的器官、组织、新的皮肤…
+
+152
+00:08:54.968 --> 00:08:58.137
+New bone, teeth, anyone?
+新的骨头、牙齿。有人需要吗？
+
+153
+00:09:01.016 --> 00:09:04.060
+This technology also has the potential
+这个技术也具有革命性
+
+154
+00:09:04.060 --> 00:09:06.854
+to revolutionize personalized pharmaceuticals.
+客制化药品的潜力。
+
+155
+00:09:07.606 --> 00:09:10.900
+Today, taking medicine is, to some degree, trial and error.
+今天，服药在某种程度上 是一种试错法。
+
+156
+00:09:10.943 --> 00:09:13.737
+You don't really know if the drug is going to work for you
+你并不确切知道这个药物 是不是对你有效，
+
+157
+00:09:13.779 --> 00:09:15.655
+until you put it in your body.
+直到把它服入体内。
+
+158
+00:09:16.115 --> 00:09:22.955
+But what if we had a miniature human replica of you with your cells --
+但如果我们有一个里面 有你细胞的微型人体复制品，
+
+159
+00:09:23.871 --> 00:09:29.252
+eye cells, brain cells, heart cells, muscle cells, blood cells --
+——眼睛细胞、大脑细胞、心脏细胞、 肌肉细胞、血液细胞——
+
+160
+00:09:29.252 --> 00:09:30.588
+on a chip?
+在一个芯片上。
+
+161
+00:09:31.588 --> 00:09:34.465
+A miniature human replica of you.
+你的微型人体复制品。
+
+162
+00:09:35.049 --> 00:09:38.386
+We could take the drugs, test them on the cells in the lab first
+我们可以测试药物，首先在实验室里 在细胞上测试它们
+
+163
+00:09:38.429 --> 00:09:39.597
+to see how it works.
+看是否有效。
+
+164
+00:09:39.597 --> 00:09:42.348
+If it works, fantastic. Go ahead and take the drug.
+如果有效，那很好。 下一步就是服药。
+
+165
+00:09:42.348 --> 00:09:47.061
+If it doesn't, pharmacists can order up custom drugs just for you.
+如果无效，药剂师可以为你定制药物。
+
+166
+00:09:49.022 --> 00:09:53.109
+This has been the hope and dream of scientists for decades.
+这是科学家数十年来的希望和梦想。
+
+167
+00:09:53.943 --> 00:09:55.570
+With this technology,
+通过这种技术，
+
+168
+00:09:55.570 --> 00:10:00.033
+we can finally realize the true potential of stem cells:
+我们可以最终实现干细胞的真正潜力：
+
+169
+00:10:00.074 --> 00:10:04.996
+on-demand functional cures made from your cells.
+来自你的细胞的按需功能治疗方法。
+
+170
+00:10:05.831 --> 00:10:08.542
+Cures that your body won't reject.
+你的身体不会排斥的治疗方法。
+
+171
+00:10:08.583 --> 00:10:11.962
+Cures that truly work for everyone.
+真正适合每个人的治疗方法。
+
+172
+00:10:15.131 --> 00:10:21.512
+The future of regenerative medicine is 100 percent personalized,
+未来的再生医学100%是客制化的，
+
+173
+00:10:21.554 --> 00:10:24.516
+and it's a lot closer than you think.
+这比你想象的要近得多。
+
+174
+00:10:24.558 --> 00:10:25.768
+Thank you.
+谢谢。
+
+175
+00:10:26.352 --> 00:10:29.520
+(Applause)
+（鼓掌）

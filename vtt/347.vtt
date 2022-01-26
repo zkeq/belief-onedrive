@@ -1,0 +1,1151 @@
+WEBVTT
+
+1
+00:00:12.664 --> 00:00:15.126
+So this is a talk about gene drives,
+这是一个有关于基因驱动的演讲，
+
+2
+00:00:15.150 --> 00:00:17.703
+but I'm going to start by telling you a brief story.
+但首先我先讲一个小故事。
+
+3
+00:00:18.441 --> 00:00:21.664
+20 years ago, a biologist named Anthony James
+20年前，一位名为安东尼·詹姆斯的
+
+4
+00:00:21.688 --> 00:00:26.610
+got obsessed with the idea of making mosquitos that didn't transmit malaria.
+生物学家正致力于培育不会传播疟疾的蚊子。
+
+5
+00:00:27.503 --> 00:00:31.559
+It was a great idea, and pretty much a complete failure.
+想法很好，但是结果是失败的。
+
+6
+00:00:32.416 --> 00:00:37.107
+For one thing, it turned out to be really hard to make a malaria-resistant mosquito.
+首先，让蚊子不携带疟疾是非常困难的。
+
+7
+00:00:38.106 --> 00:00:41.733
+James managed it, finally, just a few years ago,
+最终，詹姆斯在几年之前
+
+8
+00:00:41.757 --> 00:00:43.828
+by adding some genes that make it impossible
+利用添加基因的方式才使
+
+9
+00:00:43.852 --> 00:00:46.566
+for the malaria parasite to survive inside the mosquito.
+蚊子抵抗疟原虫的寄生成为可能。
+
+10
+00:00:47.371 --> 00:00:49.193
+But that just created another problem.
+但是接下来还有一个问题。
+
+11
+00:00:49.863 --> 00:00:52.705
+Now that you've got a malaria-resistant mosquito,
+我们有了抵抗疟疾的蚊子，
+
+12
+00:00:52.729 --> 00:00:56.315
+how do you get it to replace all the malaria-carrying mosquitos?
+要如何替换那些携带疟疾的蚊子呢？
+
+13
+00:00:57.927 --> 00:00:59.400
+There are a couple options,
+有很多方案，
+
+14
+00:00:59.424 --> 00:01:01.447
+but plan A was basically to breed up
+方案一主要依靠培育的办法，
+
+15
+00:01:01.471 --> 00:01:05.908
+a bunch of the new genetically-engineered mosquitos release them into the wild
+向大自然中释放一群新型的经过基因改造的蚊子，
+
+16
+00:01:05.932 --> 00:01:07.899
+and hope that they pass on their genes.
+寄希望于它们大量繁殖，稀释原来的基因。
+
+17
+00:01:08.493 --> 00:01:10.607
+The problem was that you'd have to release
+可是问题在于差不多要释放
+
+18
+00:01:10.631 --> 00:01:14.931
+literally 10 times the number of native mosquitos to work.
+10倍于原来蚊子数量的转基因蚊子才有效果。
+
+19
+00:01:14.955 --> 00:01:17.042
+So in a village with 10,000 mosquitos,
+如果一个小镇上有一万只蚊子，
+
+20
+00:01:16.996 --> 00:01:19.145
+you release an extra 100,000.
+就要释放十万只转基因蚊子。
+
+21
+00:01:20.049 --> 00:01:21.199
+As you might guess,
+可以想象
+
+22
+00:01:20.933 --> 00:01:23.971
+this was not a very popular strategy with the villagers.
+小镇村民肯定不会接受这个方案。
+
+23
+00:01:23.971 --> 00:01:25.151
+(Laughter)
+（笑声）
+
+24
+00:01:26.783 --> 00:01:32.462
+Then, last January, Anthony James got an email from a biologist named Ethan Bier.
+后来，今年一月的时候，安东尼詹姆斯收到了一封来自于一名叫伊森比尔的生物学家的邮件。
+
+25
+00:01:33.220 --> 00:01:36.079
+Bier said that he and his grad student Valentino Gantz
+比尔说他和他的研究生瓦伦蒂诺·甘茨
+
+26
+00:01:36.103 --> 00:01:39.047
+had stumbled on a tool that could not only guarantee
+无意中发现了一种工具，
+
+27
+00:01:39.071 --> 00:01:41.745
+that a particular genetic trait would be inherited,
+不仅可以保证特定的基因会被遗传，
+
+28
+00:01:41.769 --> 00:01:43.848
+but that it would spread incredibly quickly.
+而且基因传播的速度难以置信的快。
+
+29
+00:01:44.554 --> 00:01:45.506
+If they were right, 
+如果他们是对的， 
+
+30
+00:01:45.507 --> 00:01:49.625
+it would basically solve the problem that he and James had been working on for 20 years.
+就从基本上解决了这个詹姆斯潜心研究20年的问题。
+
+31
+00:01:50.270 --> 00:01:54.928
+As a test, they engineered two mosquitos to carry the anti-malaria gene
+实验中需要两只携带抗疟疾基因的蚊子，
+
+32
+00:01:54.952 --> 00:01:57.111
+and also this new tool, a gene drive,
+以及新的工具，即基因驱动装置，
+
+33
+00:01:57.135 --> 00:01:58.626
+which I'll explain in a minute.
+一会儿我会详细介绍。
+
+34
+00:01:59.326 --> 00:02:03.621
+Finally, they set it up so that any mosquitos that had inherited the anti-malaria gene
+实验的设计是任何携带抗疟疾基因的蚊子
+
+35
+00:02:03.645 --> 00:02:07.644
+wouldn't have the usual white eyes, but would instead have red eyes.
+将拥有红色的眼睛，而不是常见的白色眼睛。
+
+36
+00:02:08.502 --> 00:02:10.552
+That was pretty much just for convenience
+这只是为了更好的通过肉眼
+
+37
+00:02:10.576 --> 00:02:13.113
+so they could tell just at a glance which was which.
+就可以区分它们的基因携带情况。
+
+38
+00:02:14.012 --> 00:02:16.769
+So they took their two anti-malarial, red-eyed mosquitos
+研究者把两只抗疟疾红眼蚊子
+
+39
+00:02:16.793 --> 00:02:19.452
+and put them in a box with 30 ordinary white-eyed ones,
+放入一个有30只普通白眼蚊子的盒子中，
+
+40
+00:02:19.476 --> 00:02:20.650
+and let them breed.
+让它们自由繁殖。
+
+41
+00:02:21.203 --> 00:02:25.060
+In two generations, those had produced 3,800 grandchildren.
+两代繁殖之后，培养了3800个子二代。
+
+42
+00:02:26.037 --> 00:02:27.830
+That is not the surprising part.
+这并不是让人惊讶的部分。
+
+43
+00:02:28.536 --> 00:02:30.458
+This is the surprising part:
+下面才是惊人的部分：
+
+44
+00:02:30.482 --> 00:02:33.389
+given that you started with just two red-eyed mosquitos
+如果一开始只有两只红眼蚊子，
+
+45
+00:02:33.413 --> 00:02:34.747
+and 30 white-eyed ones,
+三十只白眼蚊子，
+
+46
+00:02:34.771 --> 00:02:37.532
+you expect mostly white-eyed descendants.
+它们自由繁殖的后代大多数应该是白眼。
+
+47
+00:02:38.334 --> 00:02:41.358
+Instead, when James opened the box,
+然而当詹姆斯打开盒子，
+
+48
+00:02:41.382 --> 00:02:44.723
+all 3,800 mosquitos had red eyes.
+3800只蚊子全部都是红眼。
+
+49
+00:02:45.135 --> 00:02:47.175
+When I asked Ethan Bier about this moment,
+当我问伊森比尔这一时刻的感受时，
+
+50
+00:02:47.199 --> 00:02:50.714
+he became so excited that he was literally shouting into the phone.
+他太兴奋了，在电话里一直叫喊着。
+
+51
+00:02:51.706 --> 00:02:53.869
+That's because getting only red-eyed mosquitos
+因为只得到了红色眼睛的蚊子
+
+52
+00:02:53.893 --> 00:02:56.841
+violates a rule that is the absolute cornerstone of biology,
+打破了生物学的绝对基本定律，
+
+53
+00:02:56.865 --> 00:02:58.107
+Mendelian genetics.
+孟德尔遗传学定律。
+
+54
+00:02:58.732 --> 00:02:59.901
+I'll keep this quick,
+这部分我大概讲一下，
+
+55
+00:02:59.925 --> 00:03:02.689
+but Mendelian genetics says when a male and a female mate,
+孟德尔遗传学认为当雄性和雌性交配，
+
+56
+00:03:02.713 --> 00:03:05.355
+their baby inherits half of its DNA from each parent.
+它们的后代会遗传父母各一半的基因。
+
+57
+00:03:05.379 --> 00:03:08.974
+So if our original mosquito was aa and our new mosquito is aB,
+所以如果本来蚊子的基因是aa转基因蚊子的基因是aB，
+
+58
+00:03:08.998 --> 00:03:10.800
+where B is the anti-malarial gene,
+B是抗疟疾基因，
+
+59
+00:03:10.824 --> 00:03:13.211
+the babies should come out in four permutations:
+后代应该呈现下面四种基因组合：
+
+60
+00:03:13.235 --> 00:03:15.808
+aa, aB, aa, Ba.
+aa aB aa Ba。
+
+61
+00:03:16.704 --> 00:03:18.993
+Instead, with the new gene drive,
+然而使用了新的基因驱动之后，
+
+62
+00:03:18.967 --> 00:03:20.529
+they all came out aB.
+它们全变成了aB型。
+
+63
+00:03:21.720 --> 00:03:24.272
+Biologically, that shouldn't even be possible.
+从生物的角度说这应该是不可能的。
+
+64
+00:03:24.296 --> 00:03:25.600
+So what happened?
+到底发生了什么呢？
+
+65
+00:03:26.529 --> 00:03:27.973
+The first thing that happened
+首先，
+
+66
+00:03:27.997 --> 00:03:31.267
+was the arrival of a gene-editing tool known as CRISPR in 2012.
+2012年一种叫做CRISPR的基因修改工具进入了人们的视野。
+
+67
+00:03:32.521 --> 00:03:34.631
+Many of you have probably heard about CRISPR,
+很多人可能听说过CRISPR，
+
+68
+00:03:34.655 --> 00:03:37.956
+so I'll just say briefly that CRISPR is a tool that allows researchers
+简而言之CRISPR是一种允许研究者
+
+69
+00:03:37.980 --> 00:03:40.559
+to edit genes very precisely, easily and quickly.
+快速，精准，简单地修改基因的工具。
+
+70
+00:03:41.353 --> 00:03:45.082
+It does this by harnessing a mechanism that already existed in bacteria.
+这种工具利用了一种存在于细菌中的机制。
+
+71
+00:03:45.106 --> 00:03:48.990
+Basically, there's a protein that acts like a scissors and cuts the DNA,
+也就是一个扮演了DNA剪刀角色的蛋白质，
+
+72
+00:03:48.424 --> 00:03:50.741
+and there's an RNA molecule that directs the scissors
+在一个RNA分子的指示下
+
+73
+00:03:50.741 --> 00:03:53.003
+to any point on the genome you want.
+剪刀可以作用于任何目标基因组。
+
+74
+00:03:53.263 --> 00:03:55.953
+The result is basically a word processor for genes.
+就像是一个基因文字处理系统。
+
+75
+00:03:55.977 --> 00:03:58.603
+You can take an entire gene out, put one in,
+你可以取出整段基因，再加入一个进行替换，
+
+76
+00:03:58.627 --> 00:04:01.072
+or even edit just a single letter within a gene.
+甚至可以编辑基因中的单个碱基。
+
+77
+00:04:01.466 --> 00:04:03.419
+And you can do it in nearly any species.
+这个工具几乎适用于所有物种。
+
+78
+00:04:05.148 --> 00:04:08.862
+OK, remember how I said that gene drives originally had two problems?
+前面我提过基因驱动有两大难题。
+
+79
+00:04:09.655 --> 00:04:14.186
+The first was that it was hard to engineer a mosquito to be malaria-resistant.
+首先是如何培育一只抗疟疾的蚊子。
+
+80
+00:04:14.210 --> 00:04:16.337
+That's basically gone now, thanks to CRISPR.
+多亏了CRISPR，我们解决了这个难题。
+
+81
+00:04:16.937 --> 00:04:18.699
+But the other problem was logistical.
+但是第二个问题随之而来。
+
+82
+00:04:19.127 --> 00:04:20.929
+How do you get your trait to spread?
+如何让这个性状得以传播？
+
+83
+00:04:22.016 --> 00:04:23.492
+This is where it gets clever.
+这就是这个装置精巧的地方。
+
+84
+00:04:24.763 --> 00:04:28.365
+A couple years ago, a biologist at Harvard named Kevin Esvelt
+几年前，哈佛大学的一名叫做凯文·恩斯福尔特的生物学家
+
+85
+00:04:28.389 --> 00:04:29.739
+wondered what would happen
+探究如果不仅仅在
+
+86
+00:04:29.763 --> 00:04:33.390
+if you made it so that CRISPR inserted not only your new gene
+新基因中使用CRISPR，在剪切复制机制中
+
+87
+00:04:33.414 --> 00:04:36.255
+but also the machinery that does the cutting and pasting.
+也使用CRISPR，会发生什么情况。
+
+88
+00:04:37.053 --> 00:04:40.893
+In other words, what if CRISPR also copied and pasted itself.
+换言之，如果CRISPR自己也进行复制粘贴会如何。
+
+89
+00:04:41.965 --> 00:04:45.096
+You'd end up with a perpetual motion machine for gene editing.
+我们就得到了永动的基因修改工具。
+
+90
+00:04:46.278 --> 00:04:48.012
+And that's exactly what happened.
+事实果真如此。
+
+91
+00:04:48.857 --> 00:04:51.735
+This CRISPR gene drive that Esvelt created
+恩斯福尔特创造的CRISPR基因驱动装置
+
+92
+00:04:51.759 --> 00:04:55.402
+not only guarantees that a trait will get passed on,
+不仅保证了性状的传播，
+
+93
+00:04:55.426 --> 00:04:57.864
+but if it's used in the germline cells,
+而且当它作用于生殖细胞的时候，
+
+94
+00:04:57.888 --> 00:05:03.134
+it will automatically copy and paste your new gene into both chromosomes of every single individual.
+它会在每个个体的两条染色体上自动复制粘贴新的基因。
+
+95
+00:05:03.563 --> 00:05:05.960
+It's like a global search and replace,
+就像是全面检索并替换的功能，
+
+96
+00:05:05.984 --> 00:05:09.205
+or in science terms, it makes a heterozygous trait homozygous.
+用学术术语来说，就是杂合子性状纯合化。
+
+97
+00:05:10.865 --> 00:05:13.476
+So, what does this mean?
+那么这意味着什么呢？
+
+98
+00:05:13.500 --> 00:05:16.224
+For one thing, it means we have a very powerful,
+首先，我们拥有了一个很强大，
+
+99
+00:05:16.248 --> 00:05:18.905
+but also somewhat alarming new tool.
+但同时也令人担忧的新工具。
+
+100
+00:05:20.396 --> 00:05:23.285
+Up until now, the fact that gene drives didn't work very well
+目前为止，基因驱动还并不是很有效，
+
+101
+00:05:23.309 --> 00:05:24.792
+was actually kind of a relief.
+这反而让我们感到欣慰。
+
+102
+00:05:25.245 --> 00:05:27.927
+Normally when we mess around with an organism's genes,
+通常，当我们对有机体的基因进行研究时，
+
+103
+00:05:27.951 --> 00:05:30.300
+we make that thing less evolutionarily fit.
+会研究一些进化中不太可能发生的改变。
+
+104
+00:05:30.324 --> 00:05:33.157
+So biologists can make all the mutant fruit flies they want
+生物学家可以随心所欲培育变异果蝇，
+
+105
+00:05:32.671 --> 00:05:34.108
+without worrying about it.
+根本不用担心任何后果。
+
+106
+00:05:34.458 --> 00:05:37.465
+If some escape, natural selection just takes care of them.
+就算有些逃出了实验室，也无法在自然界中存活和繁殖。
+
+107
+00:05:38.570 --> 00:05:41.793
+What's remarkable and powerful and frightening about gene drives
+基因驱动的强大和可怕之处在于
+
+108
+00:05:41.817 --> 00:05:43.577
+is that that will no longer be true.
+这种情况不再是理所当然的了。
+
+109
+00:05:44.912 --> 00:05:50.579
+Assuming that your trait does not have a big evolutionary handicap, like a mosquito that can't fly,
+想象新的性状并没有一个像蚊子不会飞那样的很大的进化缺陷，
+
+110
+00:05:50.603 --> 00:05:57.086
+the CRISPR-based gene drive will spread the change relentlessly until it is in every single individual in the population.
+基于CRISPR的基因驱动将很快地让每一个个体拥有这种性状。
+
+111
+00:05:58.921 --> 00:06:01.810
+Now, it isn't easy to make a gene drive that works that well,
+目前为止基因驱动技术还并不完善，
+
+112
+00:06:01.834 --> 00:06:04.008
+but James and Esvelt think that we can.
+但是詹姆斯和恩斯福尔特相信最终我们可以做到。
+
+113
+00:06:05.159 --> 00:06:08.983
+The good news is that this opens the door to some remarkable things.
+好消息是它拥有美好的前景。
+
+114
+00:06:08.977 --> 00:06:13.129
+If you put an anti-malarial gene drive in just 1 percent of Anopheles mosquitoes,
+只要在1%的疟蚊身上使用含有抗疟疾基因的基因驱动装置，
+
+115
+00:06:13.159 --> 00:06:14.911
+the species that transmits malaria,
+疟蚊就是传播疟疾的蚊子，
+
+116
+00:06:15.308 --> 00:06:19.427
+researchers estimate that it would spread to the entire population in a year.
+研究者预测一年之内所有疟蚊都会获得新的基因。
+
+117
+00:06:19.998 --> 00:06:22.867
+So in a year, you could virtually eliminate malaria.
+所以一年之内就可以根除疟疾。
+
+118
+00:06:23.275 --> 00:06:27.147
+In practice, we're still a few years out from being able to do that,
+实际上我们还需要几年时间来进行试验，
+
+119
+00:06:25.961 --> 00:06:29.883
+but still, a 1,000 children a day die of malaria.
+但是目前，每天仍有1000个孩子死于疟疾。
+
+120
+00:06:29.913 --> 00:06:32.103
+In a year, that number could be almost zero.
+一年之内这个数字可能几乎下降为0。
+
+121
+00:06:32.786 --> 00:06:35.682
+The same goes for dengue fever, chikungunya, yellow fever.
+登革热、基孔肯雅热、黄热病也可以同样被根除。
+
+122
+00:06:36.902 --> 00:06:38.436
+And it gets better.
+这项技术会越来越成熟。
+
+123
+00:06:39.035 --> 00:06:41.511
+Say you want to get rid of an invasive species,
+如果你想根除入侵物种，
+
+124
+00:06:41.535 --> 00:06:43.658
+like get Asian carp out of the Great Lakes.
+比如五大湖中的亚洲鲤鱼。
+
+125
+00:06:44.254 --> 00:06:46.278
+All you have to do is release a gene drive
+只要使用基因驱动
+
+126
+00:06:46.302 --> 00:06:48.619
+that makes the fish produce only male offspring.
+让鱼群只能繁衍雄性后代。
+
+127
+00:06:49.206 --> 00:06:53.404
+In a few generations, there'll be no females left, no more carp.
+几代之后没有了雌性鲤鱼，鲤鱼种群就会随之消失。
+
+128
+00:06:53.428 --> 00:06:58.198
+In theory, this means we could restore hundreds of native species that have been pushed to the brink.
+理论上我们可以通过这个方式保护上百种濒临灭绝的本地物种。
+
+129
+00:06:59.230 --> 00:07:02.517
+OK, that's the good news,
+上面都是好的部分，
+
+130
+00:07:02.541 --> 00:07:03.833
+this is the bad news.
+下面说说负面影响。
+
+131
+00:07:04.890 --> 00:07:06.918
+Gene drives are so effective
+基因驱动的效率太高，
+
+132
+00:07:06.942 --> 00:07:11.981
+that even an accidental release could change an entire species, and often very quickly.
+以至于不经意释放的样本都可能在短时间内引起整个种群的巨大改变。
+
+133
+00:07:12.998 --> 00:07:15.124
+Anthony James took good precautions.
+詹姆斯做好了预防措施。
+
+134
+00:07:15.148 --> 00:07:17.314
+He bred his mosquitos in a bio-containment lab
+他在一个生物控制实验室繁殖蚊子，
+
+135
+00:07:17.338 --> 00:07:19.926
+and he also used a species that's not native to the US
+并且蚊子也并不是美国本土的种类，
+
+136
+00:07:19.950 --> 00:07:21.505
+so that even if some did escape,
+所以就算蚊子逃跑了，
+
+137
+00:07:21.529 --> 00:07:24.544
+they'd just die off, there'd be nothing for them to mate with.
+也会因为没有办法交配而灭绝。
+
+138
+00:07:24.568 --> 00:07:28.591
+But it's also true that if a dozen Asian carp with the all-male gene drive
+但是如果有一些携带只繁殖雄性后代基因驱动的亚洲鲤鱼
+
+139
+00:07:28.615 --> 00:07:32.544
+accidentally got carried from the Great Lakes back to Asia,
+偶然从五大湖被带回了亚洲，
+
+140
+00:07:32.568 --> 00:07:35.997
+they could potentially wipe out the native Asian carp population.
+这可能会让整个亚洲鲤鱼种群灭绝。
+
+141
+00:07:37.750 --> 00:07:40.662
+And that's not so unlikely, given how connected our world is.
+鉴于现在世界联系的紧密程度，这是很有可能的。
+
+142
+00:07:40.686 --> 00:07:43.257
+In fact, it's why we have an invasive species problem.
+这也是为什么会出现物种入侵。
+
+143
+00:07:43.732 --> 00:07:44.900
+And that's fish.
+这是鱼类的情况。
+
+144
+00:07:45.248 --> 00:07:47.836
+Things like mosquitos and fruit flies,
+而像蚊子和果蝇一类的生物，
+
+145
+00:07:47.860 --> 00:07:51.955
+there's literally no way to contain them. They cross borders and oceans all the time.
+它们经常漂洋过海，基本上是没有办法限制它们的。
+
+146
+00:07:53.574 --> 00:07:55.756
+OK, the other piece of bad news
+另外一个坏消息，
+
+147
+00:07:55.780 --> 00:07:59.935
+is that a gene drive might not stay confined to what we call the target species.
+基因驱动不一定被限制在我们所谓的靶物种上。
+
+148
+00:08:00.376 --> 00:08:01.875
+That's because of gene flow,
+这是源于基因流动，
+
+149
+00:08:01.899 --> 00:08:05.768
+which is a fancy way of saying that neighboring species sometimes interbreed.
+基因流动意思是相似的物种偶尔会彼此杂交。
+
+150
+00:08:05.792 --> 00:08:08.943
+If that happens, it's possible a gene drive could cross over,
+如果发生了杂交，有可能基因驱动会穿过物种的限制，
+
+151
+00:08:08.967 --> 00:08:11.494
+like Asian carp could infect some other kind of carp.
+比如亚洲鲤鱼可能会影响其他的鲤鱼种类。
+
+152
+00:08:11.518 --> 00:08:15.233
+That's not so bad if your drive just promotes a trait, like eye color.
+如果基因驱动只是改变了一个性状，比如眼睛颜色，可能还好。
+
+153
+00:08:15.257 --> 00:08:20.099
+In fact, there's a decent chance that we'll see a wave of very weird fruit flies in the near future.
+而实际上，近期很可能将会有大量奇怪的果蝇被培育出来。
+
+154
+00:08:21.210 --> 00:08:22.473
+But it could be a disaster
+不过如果基因驱动
+
+155
+00:08:22.497 --> 00:08:25.401
+if your drive is deigned to eliminate the species entirely.
+被用于毁灭物种，可能会导致大的灾难。
+
+156
+00:08:26.171 --> 00:08:29.699
+The last worrisome thing is that the technology to do this,
+更为可怕的是基因驱动的技术，
+
+157
+00:08:29.723 --> 00:08:33.414
+to genetically engineer an organism and include a gene drive,
+这种能够培育含有基因驱动的有机体的技术，
+
+158
+00:08:33.438 --> 00:08:36.772
+is something that basically any lab in the world can do.
+基本上在世界上任何一个实验室都可以做到。
+
+159
+00:08:36.796 --> 00:08:38.136
+An undergraduate can do it.
+本科生就可以做到。
+
+160
+00:08:39.029 --> 00:08:42.311
+A talented high schooler with some equipment can do it.
+甚至有天赋的高中生在有设备的情况下都可以做到。
+
+161
+00:08:44.346 --> 00:08:46.655
+Now, I'm guessing that this sounds terrifying.
+这就很可怕了。
+
+162
+00:08:47.171 --> 00:08:49.377
+(Laughter)
+（笑声）
+
+163
+00:08:49.401 --> 00:08:52.291
+Interestingly though, nearly every scientist I talk to
+有趣的是，几乎每一个和我探讨基因驱动的科学家
+
+164
+00:08:52.315 --> 00:08:56.196
+seemed to think that gene drives were not actually that frightening or dangerous.
+都不认为基因驱动实际上那么可怕和危险。
+
+165
+00:08:56.220 --> 00:09:01.076
+Partly because they believe that scientists will be very cautious and responsible about using them.
+一部分原因是他们相信科学家们使用这个技术时都会非常小心谨慎。
+
+166
+00:09:01.100 --> 00:09:02.114
+(Laughter)
+（笑声）
+
+167
+00:09:01.998 --> 00:09:03.368
+So far, that's been true.
+目前为止确实如此。
+
+168
+00:09:04.122 --> 00:09:06.818
+But gene drives also have some actual limitations.
+不过基因驱动也有一些实际的限制。
+
+169
+00:09:06.842 --> 00:09:10.151
+So for one thing, they work only in sexually reproducing species.
+首先它只能应用于有性生殖的物种。
+
+170
+00:09:10.524 --> 00:09:13.952
+So thank goodness, they can't be used to engineer viruses or bacteria.
+所以谢天谢地，它们并不能用在细菌和病毒的培育上。
+
+171
+00:09:13.976 --> 00:09:17.166
+Also, the trait spreads only with each successive generation.
+其次，性状只有在不停繁衍下才会传播。
+
+172
+00:09:17.190 --> 00:09:22.533
+So changing or eliminating a population is practical only if that species has a fast reproductive cycle,
+所以只有在繁殖周期很短的物种中改变或者灭绝种群才是可能的。
+
+173
+00:09:22.557 --> 00:09:25.357
+like insects or maybe small vertebrates like mice or fish.
+比如昆虫或者类似于鼠类或者鱼类的小型脊椎动物。
+
+174
+00:09:26.258 --> 00:09:28.519
+In elephants or people, it would take centuries
+对于大象或者人类，可能需要几百年，
+
+175
+00:09:28.543 --> 00:09:30.923
+for a trait to spread widely enough to matter.
+改变的性状才可能传播的足够广。
+
+176
+00:09:31.899 --> 00:09:37.041
+Also, even with CRISPR, it's not that easy to engineer a truly devastating trait.
+另外，就算有CRISPR，想要制造一个真正可以引发灭绝的性状也不是简单的事。
+
+177
+00:09:37.899 --> 00:09:39.628
+Say you wanted to make a fruit fly
+比如你想制造一种果蝇，
+
+178
+00:09:39.652 --> 00:09:42.207
+that feeds on ordinary fruit instead of rotting fruit,
+它们以普通水果为食，而不是腐烂的水果，
+
+179
+00:09:42.231 --> 00:09:44.864
+with the aim of sabotaging American agriculture.
+打算以此摧毁美国的农业。
+
+180
+00:09:44.888 --> 00:09:46.418
+First, you'd have to figure out
+首先你要搞清楚，
+
+181
+00:09:46.442 --> 00:09:49.214
+which genes control what the fly wants to eat,
+哪个基因控制果蝇的择食，
+
+182
+00:09:49.238 --> 00:09:51.785
+which is already a very long and complicated project.
+这已经是很复杂的项目了。
+
+183
+00:09:52.309 --> 00:09:57.175
+Then you'd have to alter those genes to change the fly's behavior to whatever you'd want it to be,
+接下来你要根据你的想法通过改变基因去改变果蝇的习性，
+
+184
+00:09:57.199 --> 00:10:00.000
+which is an even longer and more complicated project.
+这将是更加复杂的项目。
+
+185
+00:10:00.024 --> 00:10:01.342
+And it might not even work,
+甚至可能压根儿没什么效果，
+
+186
+00:10:01.366 --> 00:10:03.860
+because the genes that control behavior are complex.
+因为基因对于行为的控制是非常复杂的。
+
+187
+00:10:03.884 --> 00:10:05.892
+So if you're a terrorist and have to choose
+所以如果你是一个恐怖分子，
+
+188
+00:10:05.916 --> 00:10:08.274
+between starting a grueling basic research program
+你会选择开始一个耗时多年的
+
+189
+00:10:07.558 --> 00:10:11.159
+that will require years of meticulous lab work and still might not pan out,
+艰苦卓绝的也许还没有结果的实验，
+
+190
+00:10:11.849 --> 00:10:13.196
+or just blowing stuff up?
+还是直接选择炸毁目的地？
+
+191
+00:10:13.220 --> 00:10:14.875
+You'll probably choose the later.
+多半是后者。
+
+192
+00:10:15.318 --> 00:10:17.738
+This is especially true because at least in theory,
+而且至少在理论上，
+
+193
+00:10:17.762 --> 00:10:20.896
+it should be pretty easy to build what's called a reversal drive.
+制造一个逆转驱动装置也应该很简单。
+
+194
+00:10:20.920 --> 00:10:24.618
+That's one that basically overwrites the change made by the first gene drive.
+这样就可以覆盖第一个基因驱动进行的改变。
+
+195
+00:10:24.642 --> 00:10:26.936
+So if you don't like the effects of a change,
+所以如果你对于改变的结果不满意，
+
+196
+00:10:26.960 --> 00:10:29.793
+you can just release a second drive that will cancel it out,
+启动第二个装置取消改变，
+
+197
+00:10:29.817 --> 00:10:30.967
+at least in theory.
+至少理论上是可行的。
+
+198
+00:10:33.194 --> 00:10:34.916
+OK, so where does this leave us?
+那么这一切到底告诉了我们什么呢？
+
+199
+00:10:36.424 --> 00:10:40.019
+We now have the ability to change entire species at will.
+我们现在可以随意改变整个种群。
+
+200
+00:10:40.837 --> 00:10:42.003
+Should we?
+是这样么？
+
+201
+00:10:42.372 --> 00:10:43.737
+Are we gods now?
+我们扮演上帝的角色了么？
+
+202
+00:10:45.792 --> 00:10:47.125
+I'm not sure I'd say that.
+我不这么认为。
+
+203
+00:10:47.914 --> 00:10:49.141
+But I would say this:
+我想说的是：
+
+204
+00:10:50.149 --> 00:10:52.007
+first, some very smart people
+首先，很多睿智的人
+
+205
+00:10:52.031 --> 00:10:54.887
+are even now debating how to regulate gene drives.
+现在已经开始讨论如何规范基因驱动。
+
+206
+00:10:55.418 --> 00:10:57.982
+At the same time, some other very smart people
+与此同时另外一些聪明的人
+
+207
+00:10:57.976 --> 00:11:00.101
+are working hard to create safeguards,
+开始制定安全保护措施，
+
+208
+00:11:00.141 --> 00:11:03.693
+like gene drives that self-regulate or peter out after a few generations.
+比如让基因驱动自我调控，或者在经过几代之后逐渐消失。
+
+209
+00:11:04.464 --> 00:11:05.664
+That's great.
+这是很好的。
+
+210
+00:11:06.133 --> 00:11:08.680
+But this technology still requires a conversation.
+但是这项技术仍然需要更多讨论。
+
+211
+00:11:09.879 --> 00:11:11.609
+And given the nature of gene drives,
+而且鉴于基因驱动的本质，
+
+212
+00:11:11.633 --> 00:11:13.323
+that conversation has to be global.
+全球都应该参与到讨论之中。
+
+213
+00:11:13.951 --> 00:11:16.658
+What if Kenya wants to use a drive but Tanzania doesn't?
+如果肯尼亚想使用一个基因驱动但坦桑尼亚不想怎么办？
+
+214
+00:11:17.061 --> 00:11:20.428
+Who decides whether to release a gene drive that can fly?
+谁来决定可以广泛传播的基因驱动什么时候释放？
+
+215
+00:11:22.694 --> 00:11:24.648
+I don't have the answer to that question.
+我不知道答案。
+
+216
+00:11:25.438 --> 00:11:30.304
+All we can do going forward, I think, is talk honestly about the risks and benefits
+接下来我们能做的是实事求是的讨论利弊，
+
+217
+00:11:30.328 --> 00:11:32.550
+and take responsibility for our choices.
+并且对我们做出的选择负责。
+
+218
+00:11:33.637 --> 00:11:37.550
+By that I mean, not just the choice to use a gene drive,
+我的意思是，不仅仅是选择使用基因驱动，
+
+219
+00:11:37.574 --> 00:11:39.573
+but also the choice not to use one.
+也可以选择禁用它。
+
+220
+00:11:40.931 --> 00:11:45.724
+Humans have a tendency to assume that the safest option is to preserve the status quo.
+人类倾向的最安全的方案就是维持现状。
+
+221
+00:11:46.725 --> 00:11:48.297
+But that's not always the case.
+但是事实往往不一定如此。
+
+222
+00:11:49.531 --> 00:11:52.932
+Gene drives have risks, and those need to be discussed,
+基因驱动确实有风险，也需要认真讨论，
+
+223
+00:11:52.956 --> 00:11:56.106
+but malaria exists now and kills 1,000 people a day.
+但是疟疾现在每天都夺去1000个人的生命。
+
+224
+00:11:56.797 --> 00:12:01.955
+To combat it, we spray pesticides that do grave damage to other species, including amphibians and birds.
+为了对抗疟疾我们播撒了对于其他物种，包括两栖类和鸟类都伤害巨大的杀虫剂。
+
+225
+00:12:03.488 --> 00:12:06.352
+So when you hear about gene drives in the coming months,
+所以如果接下来的几个月你听到了基因驱动，
+
+226
+00:12:06.376 --> 00:12:08.630
+and trust me, you will be hearing about them,
+你们一定会听到的，
+
+227
+00:12:08.654 --> 00:12:10.198
+remember that.
+请记住我说的话。
+
+228
+00:12:10.222 --> 00:12:12.242
+It can be frightening to act,
+行动意味着风险，
+
+229
+00:12:12.266 --> 00:12:14.403
+but sometimes, not acting is worse.
+但是有时无动于衷更加致命。
+
+230
+00:12:16.566 --> 00:12:24.386
+(Applause)
+（掌声）

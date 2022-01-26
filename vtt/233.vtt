@@ -1,0 +1,1576 @@
+WEBVTT
+
+1
+00:00:12.599 --> 00:00:16.320
+What do you think of when I say the word "design"?
+[AI] 当我说“设计”这个词时，你会怎么想？
+
+2
+00:00:16.320 --> 00:00:18.640
+You probably think of things like this.
+[AI] 你可能会想到这样的事情。
+
+3
+00:00:18.640 --> 00:00:22.151
+finely crafted objects that you can hold in your hand.
+[AI] 精心制作的物品，你可以拿在手里。
+
+4
+00:00:22.151 --> 00:00:25.080
+or maybe logos and posters and maps
+[AI] 或者是商标、海报和地图
+
+5
+00:00:25.080 --> 00:00:27.001
+that visually explain things.
+[AI] 可以直观地解释事情。
+
+6
+00:00:27.001 --> 00:00:30.159
+classic icons of timeless design.
+[AI] 永恒设计的经典图标。
+
+7
+00:00:30.159 --> 00:00:33.040
+But I'm not here to talk about that kind of design.
+[AI] 但我不是来这里谈论这种设计的。
+
+8
+00:00:33.040 --> 00:00:34.195
+I want to talk about the kind
+[AI] 我想谈谈那种
+
+9
+00:00:34.195 --> 00:00:36.224
+that you probably use every day
+[AI] 你可能每天都在用
+
+10
+00:00:36.224 --> 00:00:37.985
+and may not give much thought to.
+[AI] 而且可能不会考虑太多。
+
+11
+00:00:37.985 --> 00:00:40.096
+designs that change all the time
+[AI] 不断变化的设计
+
+12
+00:00:40.096 --> 00:00:42.353
+and that live inside your pocket.
+[AI] 那就住在你的口袋里。
+
+13
+00:00:42.353 --> 00:00:44.416
+I'm talking about the design
+[AI] 我说的是设计
+
+14
+00:00:44.416 --> 00:00:46.471
+of digital experiences
+[AI] 数字体验
+
+15
+00:00:46.471 --> 00:00:49.207
+and specifically the design of systems
+[AI] 特别是系统的设计
+
+16
+00:00:49.207 --> 00:00:50.840
+that are so big that their scale
+[AI] 他们的规模如此之大
+
+17
+00:00:50.840 --> 00:00:52.931
+can be hard to comprehend.
+[AI] 可能很难理解。
+
+18
+00:00:52.931 --> 00:00:55.192
+Consider the fact that Google processes
+[AI] 考虑谷歌过程的事实
+
+19
+00:00:55.192 --> 00:00:58.977
+over one billion search queries every day.
+[AI] 每天超过10亿次搜索查询。
+
+20
+00:00:58.977 --> 00:01:01.145
+that every minute. over 100 hours
+[AI] 每分钟都是这样。超过100小时
+
+21
+00:01:01.145 --> 00:01:03.345
+of footage are uploaded to YouTube.
+[AI] 视频被上传到YouTube。
+
+22
+00:01:03.345 --> 00:01:05.112
+That's more in a single day
+[AI] 一天之内就有更多
+
+23
+00:01:05.112 --> 00:01:07.862
+than all three major U.S. networks broadcast
+[AI] 比美国三大电视网广播的都多
+
+24
+00:01:07.862 --> 00:01:11.137
+in the last five years combined.
+[AI] 在过去的五年里。
+
+25
+00:01:11.137 --> 00:01:13.441
+And Facebook transmitting the photos.
+[AI] Facebook也在传送照片。
+
+26
+00:01:13.441 --> 00:01:14.637
+messages and stories
+[AI] 信息和故事
+
+27
+00:01:14.637 --> 00:01:17.809
+of over 1.23 billion people.
+[AI] 超过12.3亿人。
+
+28
+00:01:17.809 --> 00:01:20.553
+That's almost half of the Internet population.
+[AI] 这几乎占互联网人口的一半。
+
+29
+00:01:20.553 --> 00:01:23.225
+and a sixth of humanity.
+[AI] 人类的六分之一。
+
+30
+00:01:23.225 --> 00:01:24.239
+These are some of the products
+[AI] 这些是一些产品
+
+31
+00:01:24.239 --> 00:01:26.993
+that I've helped design over the course of my career.
+[AI] 在我的职业生涯中，我一直在帮助设计。
+
+32
+00:01:26.993 --> 00:01:29.113
+and their scale is so massive
+[AI] 他们的规模是如此巨大
+
+33
+00:01:29.113 --> 00:01:31.001
+that they've produced unprecedented
+[AI] 他们创造了前所未有的
+
+34
+00:01:31.001 --> 00:01:32.847
+design challenges.
+[AI] 设计挑战。
+
+35
+00:01:32.847 --> 00:01:35.209
+But what is really hard
+[AI] 但真正困难的是什么
+
+36
+00:01:35.209 --> 00:01:37.940
+about designing at scale is this:
+[AI] 关于按比例设计，如下所示：
+
+37
+00:01:37.940 --> 00:01:39.776
+It's hard in part because
+[AI] 这很难，部分原因是
+
+38
+00:01:39.776 --> 00:01:42.681
+it requires a combination of two things.
+[AI] 它需要两件事的结合。
+
+39
+00:01:42.681 --> 00:01:45.458
+audacity and humility —
+[AI] 厚颜无耻-
+
+40
+00:01:45.458 --> 00:01:49.302
+audacity to believe that the thing that you're making
+[AI] 大胆地相信你正在做的事情
+
+41
+00:01:49.302 --> 00:01:52.598
+is something that the entire world wants and needs.
+[AI] 是全世界都想要和需要的东西。
+
+42
+00:01:52.598 --> 00:01:55.694
+and humility to understand that as a designer.
+[AI] 作为一名设计师，谦逊地理解这一点。
+
+43
+00:01:55.694 --> 00:01:58.134
+it's not about you or your portfolio.
+[AI] 这与你或你的投资组合无关。
+
+44
+00:01:58.134 --> 00:02:00.726
+it's about the people that you're designing for.
+[AI] 这是关于你为之设计的人。
+
+45
+00:02:00.726 --> 00:02:02.622
+and how your work just might help them
+[AI] 你的工作对他们有什么帮助
+
+46
+00:02:02.622 --> 00:02:04.226
+live better lives.
+[AI] 过更好的生活。
+
+47
+00:02:04.226 --> 00:02:06.847
+Now. unfortunately. there's no school
+[AI] 现在不幸地没有学校
+
+48
+00:02:06.847 --> 00:02:10.940
+that offers the course Designing for Humanity 101.
+[AI] 这提供了人性设计101课程。
+
+49
+00:02:10.940 --> 00:02:12.512
+I and the other designers
+[AI] 我和其他设计师
+
+50
+00:02:12.512 --> 00:02:14.256
+who work on these kinds of products
+[AI] 谁在做这类产品
+
+51
+00:02:14.256 --> 00:02:17.608
+have had to invent it as we go along.
+[AI] 我们不得不在前进的过程中发明它。
+
+52
+00:02:17.608 --> 00:02:19.225
+and we are teaching ourselves
+[AI] 我们在自学
+
+53
+00:02:19.225 --> 00:02:23.073
+the emerging best practices of designing at scale.
+[AI] 大规模设计的新兴最佳实践。
+
+54
+00:02:23.073 --> 00:02:25.025
+and today I'd like share some of the things
+[AI] 今天我想和大家分享一些事情
+
+55
+00:02:25.025 --> 00:02:27.105
+that we've learned over the years.
+[AI] 这是我们多年来学到的。
+
+56
+00:02:27.105 --> 00:02:28.336
+Now. the first thing that you need to know
+[AI] 现在你需要知道的第一件事
+
+57
+00:02:28.336 --> 00:02:29.466
+about designing at scale
+[AI] 关于规模化设计
+
+58
+00:02:29.466 --> 00:02:32.440
+is that the little things really matter.
+[AI] 小事情真的很重要。
+
+59
+00:02:32.440 --> 00:02:34.377
+Here's a really good example of how
+[AI] 这里有一个很好的例子说明
+
+60
+00:02:34.377 --> 00:02:37.880
+a very tiny design element can make a big impact.
+[AI] 一个非常微小的设计元素可以产生巨大的影响。
+
+61
+00:02:37.880 --> 00:02:43.068
+The team at Facebook that manages the Facebook "Like" button
+[AI] 管理Facebook“喜欢”按钮的Facebook团队
+
+62
+00:02:43.068 --> 00:02:45.540
+decided that it needed to be redesigned.
+[AI] 决定需要重新设计。
+
+63
+00:02:45.540 --> 00:02:49.416
+The button had kind of gotten out of sync with the evolution of our brand
+[AI] 这个按钮与我们品牌的发展有点不同步
+
+64
+00:02:49.416 --> 00:02:51.204
+and it needed to be modernized.
+[AI] 它需要现代化。
+
+65
+00:02:51.204 --> 00:02:53.072
+Now you might think. well. it's a tiny little button.
+[AI] 现在你可能会想。好这是一个小小的按钮。
+
+66
+00:02:53.072 --> 00:02:55.065
+it probably is a pretty straightforward.
+[AI] 这可能是一个非常简单的问题。
+
+67
+00:02:55.065 --> 00:02:58.080
+easy design assignment. but it wasn't.
+[AI] 简单的设计任务。但事实并非如此。
+
+68
+00:02:58.080 --> 00:03:00.201
+Turns out. there were all kinds of constraints
+[AI] 结果是。有各种各样的限制
+
+69
+00:03:00.201 --> 00:03:02.010
+for the design of this button.
+[AI] 用于此按钮的设计。
+
+70
+00:03:02.010 --> 00:03:05.465
+You had to work within specific height and width parameters.
+[AI] 您必须在特定的高度和宽度参数内工作。
+
+71
+00:03:05.465 --> 00:03:07.760
+You had to be careful to make it work
+[AI] 你必须小心才能让它工作
+
+72
+00:03:07.760 --> 00:03:09.521
+in a bunch of different languages.
+[AI] 用一大堆不同的语言。
+
+73
+00:03:09.521 --> 00:03:12.576
+and be careful about using fancy gradients or borders
+[AI] 要小心使用奇特的渐变或边框
+
+74
+00:03:12.576 --> 00:03:14.720
+because it has to degrade gracefully
+[AI] 因为它必须优雅地退化
+
+75
+00:03:14.720 --> 00:03:16.473
+in old web browsers.
+[AI] 在旧的web浏览器中。
+
+76
+00:03:16.473 --> 00:03:19.145
+The truth is. designing this tiny little button
+[AI] 事实是。设计这个小按钮
+
+77
+00:03:19.145 --> 00:03:21.328
+was a huge pain in the butt.
+[AI] 屁股痛得厉害。
+
+78
+00:03:21.328 --> 00:03:23.380
+Now. this is the new version of the button.
+[AI] 现在这是按钮的新版本。
+
+79
+00:03:23.380 --> 00:03:25.894
+and the designer who led this project estimates
+[AI] 领导这个项目的设计师估计
+
+80
+00:03:25.894 --> 00:03:29.408
+that he spent over 280 hours
+[AI] 他花了280多个小时
+
+81
+00:03:29.408 --> 00:03:33.058
+redesigning this button over the course of months.
+[AI] 在几个月内重新设计此按钮。
+
+82
+00:03:33.058 --> 00:03:35.402
+Now. why would we spend so much time
+[AI] 现在我们为什么要花这么多时间
+
+83
+00:03:35.402 --> 00:03:37.706
+on something so small?
+[AI] 这么小的东西？
+
+84
+00:03:37.706 --> 00:03:39.322
+It's because when you're designing at scale.
+[AI] 这是因为当你按比例设计时。
+
+85
+00:03:39.322 --> 00:03:42.451
+there's no such thing as a small detail.
+[AI] 没有一个小细节。
+
+86
+00:03:42.451 --> 00:03:43.967
+This innocent little button
+[AI] 这个天真的小按钮
+
+87
+00:03:43.967 --> 00:03:47.922
+is seen on average 22 billion times a day
+[AI] 平均每天看220亿次
+
+88
+00:03:47.922 --> 00:03:51.422
+and on over 7.5 million websites.
+[AI] 超过750万个网站。
+
+89
+00:03:51.422 --> 00:03:55.506
+It's one of the single most viewed design elements ever created.
+[AI] 这是有史以来最受欢迎的设计元素之一。
+
+90
+00:03:55.506 --> 00:03:58.010
+Now that's a lot of pressure for a little button
+[AI] 现在一个小按钮的压力很大
+
+91
+00:03:58.010 --> 00:03:59.730
+and the designer behind it.
+[AI] 以及背后的设计师。
+
+92
+00:03:59.730 --> 00:04:01.258
+but with these kinds of products.
+[AI] 但是有了这些产品。
+
+93
+00:04:01.258 --> 00:04:03.994
+you need to get even the tiny things right.
+[AI] 你甚至需要把小事情做好。
+
+94
+00:04:03.994 --> 00:04:06.530
+Now. the next thing that you need to understand
+[AI] 现在接下来你需要了解的是
+
+95
+00:04:06.530 --> 00:04:09.018
+is how to design with data.
+[AI] 就是如何用数据进行设计。
+
+96
+00:04:09.018 --> 00:04:10.690
+Now. when you're working on products like this.
+[AI] 现在当你在做这样的产品时。
+
+97
+00:04:10.690 --> 00:04:13.435
+you have incredible amounts of information
+[AI] 你有大量的信息
+
+98
+00:04:13.435 --> 00:04:15.523
+about how people are using your product
+[AI] 关于人们如何使用你的产品
+
+99
+00:04:15.523 --> 00:04:17.178
+that you can then use to influence
+[AI] 你可以用它来影响别人
+
+100
+00:04:17.178 --> 00:04:18.762
+your design decisions.
+[AI] 您的设计决策。
+
+101
+00:04:18.762 --> 00:04:21.514
+but it's not just as simple as following the numbers.
+[AI] 但这不仅仅是简单的数字。
+
+102
+00:04:21.514 --> 00:04:22.765
+Let me give you an example
+[AI] 让我给你举个例子
+
+103
+00:04:22.765 --> 00:04:24.930
+so that you can understand what I mean.
+[AI] 这样你才能理解我的意思。
+
+104
+00:04:24.930 --> 00:04:27.087
+Facebook has had a tool for a long time
+[AI] Facebook已经有了一个工具很长时间了
+
+105
+00:04:27.087 --> 00:04:29.400
+that allowed people to report photos
+[AI] 这使得人们可以报告照片
+
+106
+00:04:29.400 --> 00:04:32.262
+that may be in violation of our community standards.
+[AI] 这可能违反了我们的社区标准。
+
+107
+00:04:32.262 --> 00:04:34.682
+things like spam and abuse.
+[AI] 像垃圾邮件和虐待之类的事情。
+
+108
+00:04:34.682 --> 00:04:36.690
+And there were a ton of photos reported.
+[AI] 有大量的照片被报道。
+
+109
+00:04:36.690 --> 00:04:38.326
+but as it turns out.
+[AI] 但事实证明。
+
+110
+00:04:38.326 --> 00:04:40.222
+only a small percentage were actually
+[AI] 实际上只有一小部分人被解雇了
+
+111
+00:04:40.222 --> 00:04:43.140
+in violation of those community standards.
+[AI] 违反了这些社区标准。
+
+112
+00:04:43.140 --> 00:04:45.650
+Most of them were just your typical party photo.
+[AI] 大多数只是你典型的派对照片。
+
+113
+00:04:45.650 --> 00:04:48.558
+Now. to give you a specific hypothetical example.
+[AI] 现在给你一个具体的假设例子。
+
+114
+00:04:48.558 --> 00:04:51.054
+let's say my friend Laura hypothetically
+[AI] 假设我的朋友劳拉
+
+115
+00:04:51.054 --> 00:04:52.712
+uploads a picture of me
+[AI] 上传我的照片
+
+116
+00:04:52.712 --> 00:04:55.700
+from a drunken night of karaoke.
+[AI] 从一个醉醺醺的卡拉OK之夜。
+
+117
+00:04:55.700 --> 00:04:58.966
+This is purely hypothetical. I can assure you.
+[AI] 这纯粹是假设。我可以向你保证。
+
+118
+00:04:58.966 --> 00:05:00.461
+(Laughter)
+[AI] （众笑）
+
+119
+00:05:00.461 --> 00:05:02.230
+Now. incidentally.
+[AI] 现在顺便提一句
+
+120
+00:05:02.230 --> 00:05:03.520
+you know how some people are kind of worried
+[AI] 你知道有些人有多担心吗
+
+121
+00:05:03.520 --> 00:05:05.163
+that their boss or employee
+[AI] 他们的老板或雇员
+
+122
+00:05:05.163 --> 00:05:07.170
+is going to discover embarrassing photos of them
+[AI] 将会发现他们令人尴尬的照片
+
+123
+00:05:07.170 --> 00:05:08.710
+on Facebook?
+[AI] 在Facebook上？
+
+124
+00:05:08.710 --> 00:05:10.646
+Do you know how hard that is to avoid
+[AI] 你知道这有多难避免吗
+
+125
+00:05:10.646 --> 00:05:13.900
+when you actually work at Facebook?
+[AI] 当你在Facebook工作的时候？
+
+126
+00:05:13.900 --> 00:05:16.186
+So anyway. there are lots of these photos
+[AI] 所以无论如何。有很多这样的照片
+
+127
+00:05:16.186 --> 00:05:19.620
+being erroneously reported as spam and abuse.
+[AI] 被错误地报告为垃圾邮件和滥用。
+
+128
+00:05:19.620 --> 00:05:22.069
+and one of the engineers on the team had a hunch.
+[AI] 团队中的一名工程师有预感。
+
+129
+00:05:22.069 --> 00:05:24.196
+He really thought there was something else going on
+[AI] 他真的以为还有别的事
+
+130
+00:05:24.196 --> 00:05:25.352
+and he was right.
+[AI] 他是对的。
+
+131
+00:05:25.352 --> 00:05:27.676
+because when he looked through a bunch of the cases.
+[AI] 因为当他看了一大堆案子的时候。
+
+132
+00:05:27.676 --> 00:05:29.276
+he found that most of them
+[AI] 他发现他们中的大多数人
+
+133
+00:05:29.276 --> 00:05:31.151
+were from people who were requesting
+[AI] 是从那些要求
+
+134
+00:05:31.151 --> 00:05:33.973
+the takedown of a photo of themselves.
+[AI] 拍摄他们自己的照片。
+
+135
+00:05:33.973 --> 00:05:36.013
+Now this was a scenario that the team
+[AI] 现在，这是一个团队
+
+136
+00:05:36.013 --> 00:05:38.380
+never even took into account before.
+[AI] 以前从未考虑过。
+
+137
+00:05:38.380 --> 00:05:40.189
+So they added a new feature
+[AI] 所以他们增加了一个新功能
+
+138
+00:05:40.189 --> 00:05:42.333
+that allowed people to message their friend
+[AI] 这使得人们可以给他们的朋友发信息
+
+139
+00:05:42.333 --> 00:05:44.605
+to ask them to take the photo down.
+[AI] 让他们把照片拍下来。
+
+140
+00:05:44.605 --> 00:05:46.064
+But it didn't work.
+[AI] 但它不起作用。
+
+141
+00:05:46.064 --> 00:05:47.315
+Only 20 percent of people
+[AI] 只有20%的人
+
+142
+00:05:47.315 --> 00:05:49.533
+sent the message to their friend.
+[AI] 把消息发给他们的朋友。
+
+143
+00:05:49.533 --> 00:05:51.784
+So the team went back at it.
+[AI] 于是球队又重新开始了。
+
+144
+00:05:51.784 --> 00:05:54.975
+They consulted with experts in conflict resolution.
+[AI] 他们与解决冲突的专家进行了磋商。
+
+145
+00:05:54.975 --> 00:05:58.037
+They even studied the universal principles
+[AI] 他们甚至研究了宇宙法则
+
+146
+00:05:58.037 --> 00:05:59.524
+of polite language.
+[AI] 礼貌用语。
+
+147
+00:05:59.524 --> 00:06:01.059
+which I didn't even actually know existed
+[AI] 我甚至不知道它的存在
+
+148
+00:06:01.059 --> 00:06:02.996
+until this research happened.
+[AI] 直到这项研究发生。
+
+149
+00:06:02.996 --> 00:06:05.525
+And they found something really interesting.
+[AI] 他们发现了一些非常有趣的东西。
+
+150
+00:06:05.525 --> 00:06:07.708
+They had to go beyond just helping people
+[AI] 他们必须不仅仅是帮助别人
+
+151
+00:06:07.708 --> 00:06:09.620
+ask their friend to take the photo down.
+[AI] 让他们的朋友把照片拍下来。
+
+152
+00:06:09.620 --> 00:06:12.349
+They had to help people express to their friend
+[AI] 他们必须帮助人们向他们的朋友表达自己的想法
+
+153
+00:06:12.349 --> 00:06:14.780
+how the photo made them feel.
+[AI] 照片给他们的感觉。
+
+154
+00:06:14.780 --> 00:06:16.978
+Here's how the experience works today.
+[AI] 这就是今天的体验。
+
+155
+00:06:16.978 --> 00:06:20.205
+So I find this hypothetical photo of myself.
+[AI] 所以我找到了这张我自己的假想照片。
+
+156
+00:06:20.205 --> 00:06:22.834
+and it's not spam. it's not abuse.
+[AI] 这不是垃圾邮件。这不是虐待。
+
+157
+00:06:22.834 --> 00:06:25.357
+but I really wish it weren't on the site.
+[AI] 但我真希望它不在网站上。
+
+158
+00:06:25.357 --> 00:06:28.581
+So I report it and I say.
+[AI] 所以我报告了，我说。
+
+159
+00:06:28.581 --> 00:06:30.621
+"I'm in this photo and I don't like it."
+[AI] “我在这张照片里，我不喜欢它。”
+
+160
+00:06:30.621 --> 00:06:33.883
+and then we dig deeper.
+[AI] 然后我们再深入挖掘。
+
+161
+00:06:33.883 --> 00:06:36.389
+Why don't you like this photo of yourself?
+[AI] 你为什么不喜欢这张你自己的照片？
+
+162
+00:06:36.389 --> 00:06:39.236
+And I select "It's embarrassing."
+[AI] 我选择“这很尴尬”
+
+163
+00:06:39.236 --> 00:06:42.562
+And then I'm encouraged to message my friend.
+[AI] 然后我被鼓励给我的朋友发短信。
+
+164
+00:06:42.562 --> 00:06:44.421
+but here's the critical difference.
+[AI] 但关键的区别在于此。
+
+165
+00:06:44.421 --> 00:06:48.053
+I'm provided specific suggested language
+[AI] 我被提供了具体的建议语言
+
+166
+00:06:48.053 --> 00:06:50.389
+that helps me communicate to Laura
+[AI] 这有助于我与劳拉沟通
+
+167
+00:06:50.389 --> 00:06:52.324
+how the photo makes me feel.
+[AI] 这张照片给我的感觉。
+
+168
+00:06:52.324 --> 00:06:55.365
+Now the team found that this relatively small change
+[AI] 现在研究小组发现这个相对较小的变化
+
+169
+00:06:55.365 --> 00:06:57.044
+had a huge impact.
+[AI] 产生了巨大的影响。
+
+170
+00:06:57.044 --> 00:06:59.444
+Before. only 20 percent of people
+[AI] 之前只有20%的人
+
+171
+00:06:59.444 --> 00:07:00.615
+were sending the message.
+[AI] 我们正在发送消息。
+
+172
+00:07:00.615 --> 00:07:02.660
+and now 60 percent were.
+[AI] 现在有60%的人是。
+
+173
+00:07:02.660 --> 00:07:04.294
+and surveys showed that people
+[AI] 调查显示人们
+
+174
+00:07:04.294 --> 00:07:06.222
+on both sides of the conversation
+[AI] 在谈话的双方
+
+175
+00:07:06.222 --> 00:07:07.862
+felt better as a result.
+[AI] 结果感觉好多了。
+
+176
+00:07:07.862 --> 00:07:09.517
+That same survey showed
+[AI] 同样的调查显示
+
+177
+00:07:09.517 --> 00:07:11.870
+that 90 percent of your friends
+[AI] 你90%的朋友
+
+178
+00:07:11.870 --> 00:07:14.608
+want to know if they've done something to upset you.
+[AI] 想知道他们是否做了什么让你不高兴的事。
+
+179
+00:07:14.608 --> 00:07:16.705
+Now I don't know who the other 10 percent are.
+[AI] 现在我不知道其他10%的人是谁。
+
+180
+00:07:16.705 --> 00:07:18.479
+but maybe that's where our "Unfriend" feature
+[AI] 但也许这就是我们的“不朋友”功能
+
+181
+00:07:18.479 --> 00:07:20.040
+can come in handy.
+[AI] 可以派上用场。
+
+182
+00:07:20.040 --> 00:07:21.814
+So as you can see.
+[AI] 如你所见。
+
+183
+00:07:21.814 --> 00:07:24.422
+these decisions are highly nuanced.
+[AI] 这些决定非常微妙。
+
+184
+00:07:24.422 --> 00:07:26.391
+Of course we use a lot of data
+[AI] 当然，我们使用了大量的数据
+
+185
+00:07:26.391 --> 00:07:27.702
+to inform our decisions.
+[AI] 通知我们的决定。
+
+186
+00:07:27.702 --> 00:07:31.145
+but we also rely very heavily on iteration.
+[AI] 但我们也非常依赖迭代。
+
+187
+00:07:31.145 --> 00:07:35.269
+research. testing. intuition. human empathy.
+[AI] 研究测试。直觉人类的同理心。
+
+188
+00:07:35.269 --> 00:07:37.115
+It's both art and science.
+[AI] 这既是艺术也是科学。
+
+189
+00:07:37.115 --> 00:07:39.681
+Now. sometimes the designers who work on these products
+[AI] 现在有时，设计这些产品的设计师
+
+190
+00:07:39.681 --> 00:07:41.369
+are called "data-driven."
+[AI] 被称为“数据驱动”
+
+191
+00:07:41.369 --> 00:07:44.110
+which is a term that totally drives us bonkers.
+[AI] 这是一个让我们发疯的术语。
+
+192
+00:07:44.110 --> 00:07:47.009
+The fact is. it would be irresponsible of us
+[AI] 事实是。这对我们来说是不负责任的
+
+193
+00:07:47.009 --> 00:07:49.561
+not to rigorously test our designs
+[AI] 不要严格测试我们的设计
+
+194
+00:07:49.561 --> 00:07:51.647
+when so many people are counting on us
+[AI] 当这么多人都指望我们的时候
+
+195
+00:07:51.647 --> 00:07:52.840
+to get it right.
+[AI] 让它正确。
+
+196
+00:07:52.840 --> 00:07:55.160
+but data analytics
+[AI] 但是数据分析
+
+197
+00:07:55.160 --> 00:07:58.262
+will never be a substitute for design intuition.
+[AI] 永远不会取代设计直觉。
+
+198
+00:07:58.262 --> 00:08:01.430
+Data can help you make a good design great.
+[AI] 数据可以帮助你做出一个好的设计。
+
+199
+00:08:01.430 --> 00:08:05.054
+but it will never made a bad design good.
+[AI] 但它永远不会让一个糟糕的设计变好。
+
+200
+00:08:05.054 --> 00:08:08.166
+The next thing that you need to understand as a principle
+[AI] 接下来你需要理解的是一个原则
+
+201
+00:08:08.166 --> 00:08:09.713
+is that when you introduce change.
+[AI] 这就是你引入变革的时候。
+
+202
+00:08:09.713 --> 00:08:12.319
+you need to do it extraordinarily carefully.
+[AI] 你需要格外小心地做这件事。
+
+203
+00:08:12.319 --> 00:08:13.986
+Now I often have joked that
+[AI] 现在我经常开玩笑说
+
+204
+00:08:13.986 --> 00:08:16.224
+I spend almost as much time
+[AI] 我花了几乎同样多的时间
+
+205
+00:08:16.224 --> 00:08:18.038
+designing the introduction of change
+[AI] 设计变革的引入
+
+206
+00:08:18.038 --> 00:08:20.238
+as I do the change itself.
+[AI] 就像我做改变一样。
+
+207
+00:08:20.238 --> 00:08:22.534
+and I'm sure that we can all relate to that
+[AI] 我相信我们都能理解这一点
+
+208
+00:08:22.534 --> 00:08:24.574
+when something that we use a lot changes
+[AI] 当我们经常使用的东西发生变化时
+
+209
+00:08:24.574 --> 00:08:26.806
+and then we have to adjust.
+[AI] 然后我们必须调整。
+
+210
+00:08:26.806 --> 00:08:29.010
+The fact is. people can become
+[AI] 事实是。人可以成为
+
+211
+00:08:29.010 --> 00:08:31.950
+very efficient at using bad design.
+[AI] 非常有效地使用糟糕的设计。
+
+212
+00:08:31.950 --> 00:08:34.622
+and so even if the change is good for them in the long run.
+[AI] 因此，即使这种改变从长远来看对他们有利。
+
+213
+00:08:34.622 --> 00:08:37.679
+it's still incredibly frustrating when it happens.
+[AI] 当它发生时，仍然令人难以置信地沮丧。
+
+214
+00:08:37.679 --> 00:08:39.486
+and this is particularly true
+[AI] 尤其如此
+
+215
+00:08:39.486 --> 00:08:42.182
+with user-generated content platforms.
+[AI] 使用用户生成的内容平台。
+
+216
+00:08:42.182 --> 00:08:45.623
+because people can rightfully claim a sense of ownership.
+[AI] 因为人们可以理所当然地要求拥有感。
+
+217
+00:08:45.623 --> 00:08:49.226
+It is. after all. their content.
+[AI] 它是。毕竟他们的内容。
+
+218
+00:08:49.226 --> 00:08:51.593
+Now. years ago. when I was working at YouTube.
+[AI] 现在几年前。当我在YouTube工作的时候。
+
+219
+00:08:51.593 --> 00:08:53.788
+we were looking for ways to
+[AI] 我们在想办法
+
+220
+00:08:53.788 --> 00:08:56.064
+encourage more people to rate videos.
+[AI] 鼓励更多人对视频进行评分。
+
+221
+00:08:56.064 --> 00:08:58.790
+and it was interesting because when we looked into the data.
+[AI] 这很有趣，因为当我们研究数据时。
+
+222
+00:08:58.790 --> 00:09:02.249
+we found that almost everyone was exclusively using
+[AI] 我们发现几乎每个人都只使用
+
+223
+00:09:02.249 --> 00:09:04.216
+the highest five-star rating.
+[AI] 最高的五星评级。
+
+224
+00:09:04.216 --> 00:09:05.800
+a handful of people were using
+[AI] 少数人正在使用
+
+225
+00:09:05.800 --> 00:09:07.476
+the lowest one-star.
+[AI] 最低的一颗星。
+
+226
+00:09:07.476 --> 00:09:08.895
+and virtually no one
+[AI] 几乎没有人
+
+227
+00:09:08.895 --> 00:09:11.225
+was using two. three or four stars.
+[AI] 他用了两个。三星或四星。
+
+228
+00:09:11.225 --> 00:09:13.120
+So we decided to simplify
+[AI] 所以我们决定简化
+
+229
+00:09:13.120 --> 00:09:16.444
+into an up-down kind of voting binary model.
+[AI] 变成了一个上下两种投票的二元模型。
+
+230
+00:09:16.444 --> 00:09:19.440
+It's going to be much easier for people to engage with.
+[AI] 这将使人们更容易参与。
+
+231
+00:09:19.440 --> 00:09:21.992
+But people were very attached
+[AI] 但是人们都很依恋
+
+232
+00:09:21.992 --> 00:09:23.785
+to the five-star rating system.
+[AI] 到五星评级系统。
+
+233
+00:09:23.785 --> 00:09:26.216
+Video creators really loved their ratings.
+[AI] 视频制作人非常喜欢他们的收视率。
+
+234
+00:09:26.216 --> 00:09:27.438
+Millions and millions of people
+[AI] 千百万人
+
+235
+00:09:27.438 --> 00:09:29.601
+were accustomed to the old design.
+[AI] 我们习惯了旧的设计。
+
+236
+00:09:29.601 --> 00:09:31.536
+So in order to help people
+[AI] 所以为了帮助人们
+
+237
+00:09:31.536 --> 00:09:35.473
+prepare themselves for change and acclimate to the new design more quickly.
+[AI] 为变化做好准备，更快地适应新设计。
+
+238
+00:09:35.473 --> 00:09:37.936
+we actually published the data graph
+[AI] 我们实际上发布了数据图
+
+239
+00:09:37.936 --> 00:09:39.656
+sharing with the community
+[AI] 与社区分享
+
+240
+00:09:39.656 --> 00:09:41.804
+the rationale for what we were going to do.
+[AI] 我们将要做的事情的基本原理。
+
+241
+00:09:41.804 --> 00:09:44.425
+and it even engaged the larger industry
+[AI] 它甚至参与了更大的行业
+
+242
+00:09:44.425 --> 00:09:45.890
+in a conversation. which resulted in
+[AI] 在谈话中。导致
+
+243
+00:09:45.890 --> 00:09:48.968
+my favorite TechCrunch headline of all time:
+[AI] 我最喜欢的TechCrunch头条：
+
+244
+00:09:48.968 --> 00:09:52.432
+"YouTube Comes to a 5-Star Realization:
+[AI] “YouTube实现了五星级：
+
+245
+00:09:52.432 --> 00:09:55.460
+Its Ratings Are Useless."
+[AI] 它的评级毫无用处。"
+
+246
+00:09:55.460 --> 00:10:00.615
+Now. it's impossible to completely avoid change aversion when you're making changes
+[AI] 现在当你做出改变时，不可能完全避免对改变的厌恶
+
+247
+00:10:00.615 --> 00:10:02.743
+to products that so many people use.
+[AI] 许多人使用的产品。
+
+248
+00:10:02.743 --> 00:10:04.350
+Even though we tried to do all the right things.
+[AI] 尽管我们试着做所有正确的事情。
+
+249
+00:10:04.350 --> 00:10:06.583
+we still received our customary flood
+[AI] 我们仍按惯例收到洪水
+
+250
+00:10:06.583 --> 00:10:09.207
+of video protests and angry emails
+[AI] 视频抗议和愤怒的电子邮件
+
+251
+00:10:09.207 --> 00:10:13.455
+and even a package that had to be scanned by security.
+[AI] 甚至是一个需要安全部门扫描的包裹。
+
+252
+00:10:13.455 --> 00:10:15.415
+but we have to remember
+[AI] 但我们必须记住
+
+253
+00:10:15.415 --> 00:10:18.255
+people care intensely about this stuff.
+[AI] 人们非常关心这些东西。
+
+254
+00:10:18.255 --> 00:10:21.193
+and it's because these products. this work.
+[AI] 这是因为这些产品。这项工作。
+
+255
+00:10:21.193 --> 00:10:23.413
+really. really matters to them.
+[AI] 真正地对他们来说真的很重要。
+
+256
+00:10:23.413 --> 00:10:26.720
+Now. we know that we have to be careful
+[AI] 现在我们知道我们必须小心
+
+257
+00:10:26.720 --> 00:10:28.710
+about paying attention to the details.
+[AI] 关于关注细节。
+
+258
+00:10:28.710 --> 00:10:31.183
+we have to be cognizant about how we use data
+[AI] 我们必须认识到我们如何使用数据
+
+259
+00:10:31.183 --> 00:10:32.855
+in our design process.
+[AI] 在我们的设计过程中。
+
+260
+00:10:32.855 --> 00:10:34.660
+and we have to introduce change
+[AI] 我们必须引入变革
+
+261
+00:10:34.660 --> 00:10:36.351
+very. very carefully.
+[AI] 非常非常小心。
+
+262
+00:10:36.351 --> 00:10:38.447
+Now. these things are all really useful.
+[AI] 现在这些东西都很有用。
+
+263
+00:10:38.447 --> 00:10:41.559
+They're good best practices for designing at scale.
+[AI] 它们是大规模设计的最佳实践。
+
+264
+00:10:41.559 --> 00:10:43.351
+But they don't mean anything
+[AI] 但它们没有任何意义
+
+265
+00:10:43.351 --> 00:10:46.685
+if you don't understand something much more fundamental.
+[AI] 如果你不了解更基本的东西。
+
+266
+00:10:46.685 --> 00:10:51.446
+You have to understand who you are designing for.
+[AI] 你必须了解你是为谁设计的。
+
+267
+00:10:51.446 --> 00:10:53.183
+Now. when you set a goal to design
+[AI] 现在当你为设计设定目标时
+
+268
+00:10:53.183 --> 00:10:55.049
+for the entire human race.
+[AI] 为了整个人类。
+
+269
+00:10:55.049 --> 00:10:58.103
+and you start to engage in that goal in earnest.
+[AI] 然后你开始认真地实现这个目标。
+
+270
+00:10:58.103 --> 00:11:00.527
+at some point you run into the walls
+[AI] 在某个时候，你会撞到墙上
+
+271
+00:11:00.527 --> 00:11:02.575
+of the bubble that you're living in.
+[AI] 你生活的泡沫。
+
+272
+00:11:02.575 --> 00:11:05.215
+Now. in San Francisco. we get a little miffed
+[AI] 现在在旧金山。我们有点生气
+
+273
+00:11:05.215 --> 00:11:06.799
+when we hit a dead cell zone
+[AI] 当我们到达死囚区时
+
+274
+00:11:06.799 --> 00:11:08.448
+because we can't use our phones to navigate
+[AI] 因为我们不能用手机导航
+
+275
+00:11:08.448 --> 00:11:10.943
+to the new hipster coffee shop.
+[AI] 去新开的时髦咖啡店。
+
+276
+00:11:10.943 --> 00:11:14.097
+But what if you had to drive four hours
+[AI] 但是如果你不得不开四个小时的车呢
+
+277
+00:11:14.097 --> 00:11:18.674
+to charge your phone because you had no reliable source of electricity?
+[AI] 因为你没有可靠的电源给你的手机充电？
+
+278
+00:11:18.674 --> 00:11:22.129
+What if you had no access to public libraries?
+[AI] 如果你不能进入公共图书馆怎么办？
+
+279
+00:11:22.129 --> 00:11:24.953
+What if your country had no free press?
+[AI] 如果你的国家没有新闻自由怎么办？
+
+280
+00:11:24.953 --> 00:11:28.693
+What would these products start to mean to you?
+[AI] 这些产品对你来说意味着什么？
+
+281
+00:11:28.693 --> 00:11:31.437
+This is what Google. YouTube and Facebook
+[AI] 这就是谷歌所做的。YouTube和Facebook
+
+282
+00:11:31.437 --> 00:11:33.156
+look like to most of the world.
+[AI] 对世界上大多数人来说都是这样。
+
+283
+00:11:33.156 --> 00:11:34.214
+and it's what they'll look like
+[AI] 这就是他们的样子
+
+284
+00:11:34.214 --> 00:11:36.316
+to most of the next five billion people
+[AI] 未来50亿人中的大多数
+
+285
+00:11:36.316 --> 00:11:37.876
+to come online.
+[AI] 来上网。
+
+286
+00:11:37.876 --> 00:11:40.142
+Designing for low-end cell phones
+[AI] 为低端手机设计
+
+287
+00:11:40.142 --> 00:11:42.509
+is not glamorous design work.
+[AI] 这不是迷人的设计作品。
+
+288
+00:11:42.509 --> 00:11:44.421
+but if you want to design for the whole world.
+[AI] 但是如果你想为全世界设计。
+
+289
+00:11:44.421 --> 00:11:46.532
+you have to design for where people are.
+[AI] 你必须为人们所在的地方设计。
+
+290
+00:11:46.532 --> 00:11:48.285
+and not where you are.
+[AI] 而不是你现在的位置。
+
+291
+00:11:48.285 --> 00:11:51.452
+So how do we keep this big. big picture in mind?
+[AI] 那么，我们如何保持这样的规模呢。大局在心中？
+
+292
+00:11:51.452 --> 00:11:54.536
+We try to travel outside of our bubble to see. hear
+[AI] 我们试图走出我们的泡沫去看。听见
+
+293
+00:11:54.536 --> 00:11:57.111
+and understand the people we're designing for.
+[AI] 了解我们为之设计的人。
+
+294
+00:11:57.111 --> 00:11:59.487
+We use our products in non-English languages
+[AI] 我们使用非英语语言的产品
+
+295
+00:11:59.487 --> 00:12:01.640
+to make sure that they work just as well.
+[AI] 确保它们也能正常工作。
+
+296
+00:12:01.640 --> 00:12:04.775
+And we try to use one of these phones from time to time
+[AI] 我们会不时尝试使用这些手机中的一款
+
+297
+00:12:04.775 --> 00:12:07.711
+to keep in touch with their reality.
+[AI] 与他们的现实保持联系。
+
+298
+00:12:07.711 --> 00:12:11.988
+So what does it mean to design at a global scale?
+[AI] 那么，在全球范围内进行设计意味着什么呢？
+
+299
+00:12:11.988 --> 00:12:15.402
+It means difficult and sometimes exasperating work
+[AI] 这意味着困难的，有时是令人恼火的工作
+
+300
+00:12:15.402 --> 00:12:19.374
+to try to improve and evolve products.
+[AI] 努力改进和改进产品。
+
+301
+00:12:19.374 --> 00:12:22.567
+Finding the audacity and the humility to do right by them
+[AI] 找到勇气和谦逊，让他们做正确的事
+
+302
+00:12:22.567 --> 00:12:23.930
+can be pretty exhausting.
+[AI] 可能会很累。
+
+303
+00:12:23.930 --> 00:12:25.442
+and the humility part.
+[AI] 还有谦逊的部分。
+
+304
+00:12:25.442 --> 00:12:27.646
+it's a little tough on the design ego.
+[AI] 这对设计自我来说有点难。
+
+305
+00:12:27.646 --> 00:12:30.118
+Because these products are always changing.
+[AI] 因为这些产品总是在变化。
+
+306
+00:12:30.118 --> 00:12:32.630
+everything that I've designed in my career
+[AI] 我在职业生涯中设计的一切
+
+307
+00:12:32.630 --> 00:12:33.926
+is pretty much gone.
+[AI] 已经差不多消失了。
+
+308
+00:12:33.926 --> 00:12:37.206
+and everything that I will design will fade away.
+[AI] 我要设计的一切都会消失。
+
+309
+00:12:37.206 --> 00:12:38.982
+But here's what remains:
+[AI] 但剩下的是：
+
+310
+00:12:38.982 --> 00:12:40.934
+the never-ending thrill
+[AI] 永无止境的激动
+
+311
+00:12:40.934 --> 00:12:43.782
+of being a part of something that is so big.
+[AI] 成为如此巨大事物的一部分。
+
+312
+00:12:43.782 --> 00:12:46.515
+you can hardly get your head around it.
+[AI] 你几乎无法控制它。
+
+313
+00:12:46.515 --> 00:12:49.412
+and the promise that it just might change the world.
+[AI] 以及它可能改变世界的承诺。
+
+314
+00:12:49.412 --> 00:12:51.810
+Thank you.
+[AI] 非常感谢。
+
+315
+00:12:51.810 --> 00:12:54.781
+(Applause)
+[AI] （掌声）

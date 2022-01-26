@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1'>
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="referrer" content="no-referrer">
+<script src="/yinghua/Ascii.js"></script>
+<script src="/dplayer/dplayer-fix-1.js"></script>
+<link rel="stylesheet" href="/css/appendix.css">
+<title>测试文件</title>
+</head>
+<body class='typora-export os-windows'><div class='typora-export-content'>
+<div id='write'  class=''>
+<!-- <h2 id='测试文件'><span>无字幕文件,可正常加载</span></h2><div id="play-01"></div>
+<script>
+const p01 = new DPlayer({
+    container: document.getElementById('play-01'),
+    theme:'#c61e07',
+    preload:'none',
+    video: {
+        pic:'https://s-bj-2220-zkeq.oss.dogecdn.com/head.jpg',
+        url: 'https://zkeq-onedrive.vercel.app/api?path=/video.mp4&raw=true'
+    },
+});
+</script>
+<h2>相关说明</h2>
+<p><img alt="1" src="https://pic.rmb.bdstatic.com/bjh/b030972bf1f5b2f1068d797332534919.png"/></p> -->
+    <h2 id='测试文件'><h2 id='测试文件'><span>删除播放器源码中的<code>crossorigin="anonymous"</code>后,视频可正常加载,但出现字幕文件无法获取的问题..</span></h2><div id="play-02"></div>
+    <script>
+const p02 = new DPlayer({
+    container: document.getElementById('play-02'),
+    theme:'#c61e07',
+    preload:'none',
+    video: {
+        pic:'https://s-bj-2220-zkeq.oss.dogecdn.com/head.jpg',
+        url: 'https://zkeq-onedrive.vercel.app/api?path=/video.mp4&raw=true'
+    },
+    subtitle: {
+        url:'/vtt/22.vtt',
+        fontSize: '25px',
+    },
+});
+</script>
+<h2>相关说明</h2>
+<p><img alt="2" src="https://img30.360buyimg.com/pop/jfs/t1/86583/5/22249/368004/61f12bf9E98c8b3bc/44a4b17693c548be.png"/></p>
+<p>&nbsp;
+</script><p>&nbsp;</p><center><a style="color: rgb(254,17,130)" href="https://icp.gov.moe/?keyword=20223985" target="_blank">萌ICP备20223985号</a></center></div></div>
+</body>
+</html>

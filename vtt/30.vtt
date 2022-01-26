@@ -1,0 +1,1976 @@
+﻿WEBVTT
+
+1
+00:00:12.315 --> 00:00:13.761
+Chris Anderson: Mike. welcome.
+[AI] 克里斯·安德森：迈克。欢迎
+
+2
+00:00:13.784 --> 00:00:16.425
+It's good to see you. I'm excited for this conversation.
+[AI] 很高兴见到你。我为这次谈话感到兴奋。
+
+3
+00:00:16.449 --> 00:00:19.219
+Michael Levin: Thank you so much. I'm so happy to be here.
+[AI] 迈克尔·莱文：非常感谢。我很高兴来到这里。
+
+4
+00:00:19.243 --> 00:00:22.303
+CA: So. most of us have this mental model in biology
+[AI] CA:那么。我们大多数人在生物学上都有这种思维模式
+
+5
+00:00:22.326 --> 00:00:26.586
+that DNA is a property of every living thing.
+[AI] DNA是所有生物的属性。
+
+6
+00:00:26.611 --> 00:00:32.021
+that it is kind of the software that builds the hardware of our body.
+[AI] 这是一种构建我们身体硬件的软件。
+
+7
+00:00:32.045 --> 00:00:34.132
+That's how a lot of us think about this.
+[AI] 这就是我们很多人的想法。
+
+8
+00:00:34.156 --> 00:00:37.399
+That model leaves too many deep mysteries.
+[AI] 这种模式留下了太多的神秘。
+
+9
+00:00:37.423 --> 00:00:40.371
+Can you share with us some of those mysteries
+[AI] 你能和我们分享一些神秘的事情吗
+
+10
+00:00:40.395 --> 00:00:42.988
+and also what tadpoles have to do with it?
+[AI] 还有蝌蚪和它有什么关系？
+
+11
+00:00:43.786 --> 00:00:45.109
+ML: Sure. Yeah.
+[AI] 当然。是 啊
+
+12
+00:00:45.133 --> 00:00:47.838
+I'd like to give you another perspective on this problem.
+[AI] 我想就这个问题给你们另一个观点。
+
+13
+00:00:47.862 --> 00:00:52.350
+One of the things that DNA does is specify the hardware of each cell.
+[AI] DNA所做的事情之一就是指定每个细胞的硬件。
+
+14
+00:00:52.374 --> 00:00:56.694
+So the DNA tells every cell what proteins it's supposed to have.
+[AI] 所以DNA告诉每个细胞它应该有什么蛋白质。
+
+15
+00:00:56.719 --> 00:00:59.542
+And so when you have tadpoles. for example.
+[AI] 所以当你有蝌蚪的时候。例如
+
+16
+00:00:59.566 --> 00:01:01.880
+you see the kind of thing
+[AI] 你看到了吗
+
+17
+00:01:01.905 --> 00:01:06.596
+that most people think is sort of a progressive unrolling of the genome.
+[AI] 大多数人认为这是一种基因组的逐步展开。
+
+18
+00:01:06.619 --> 00:01:08.592
+Specific genes turn on and off.
+[AI] 特定的基因开启和关闭。
+
+19
+00:01:08.616 --> 00:01:10.865
+and a tadpole. as it becomes a frog.
+[AI] 还有一只蝌蚪。当它变成一只青蛙。
+
+20
+00:01:10.889 --> 00:01:12.377
+has to rearrange its face.
+[AI] 必须重新排列它的脸。
+
+21
+00:01:12.401 --> 00:01:15.369
+So the eyes. the nostrils. the jaws -- everything has to move.
+[AI] 所以眼睛。鼻孔。下巴——一切都得动。
+
+22
+00:01:15.393 --> 00:01:17.841
+And one way to think about it used to be that. well.
+[AI] 过去有一种想法是这样的。好
+
+23
+00:01:17.865 --> 00:01:20.211
+you have a sort of hardwired set of movements
+[AI] 你有一套固定的动作
+
+24
+00:01:20.235 --> 00:01:23.464
+where all of these things move around and then you get your frog.
+[AI] 所有这些东西移动，然后你得到你的青蛙。
+
+25
+00:01:23.488 --> 00:01:26.740
+But actually. a few years ago. we found a pretty amazing phenomenon.
+[AI] 但事实上。几年前。我们发现了一个非常惊人的现象。
+
+26
+00:01:26.764 --> 00:01:29.726
+which is that if you make so-called "Picasso frogs" --
+[AI] 如果你制作所谓的“毕加索青蛙”--
+
+27
+00:01:29.750 --> 00:01:33.066
+these are tadpoles where the jaws might be off to the side.
+[AI] 这些是蝌蚪，它们的下颚可能偏侧。
+
+28
+00:01:33.089 --> 00:01:35.208
+the eyes are up here. the nostrils are moved.
+[AI] 眼睛在上面。鼻孔被移动。
+
+29
+00:01:35.232 --> 00:01:36.707
+so everything is shifted --
+[AI] 所以一切都改变了--
+
+30
+00:01:36.731 --> 00:01:40.252
+these tadpoles make largely normal frog faces.
+[AI] 这些蝌蚪在很大程度上是正常的青蛙脸。
+
+31
+00:01:40.276 --> 00:01:41.426
+Now. this is amazing.
+[AI] 现在这太神奇了。
+
+32
+00:01:41.451 --> 00:01:45.348
+because all of the organs start off in abnormal positions.
+[AI] 因为所有的器官都是以不正常的姿势开始的。
+
+33
+00:01:45.372 --> 00:01:48.101
+and yet they still end up making a pretty good frog face.
+[AI] 但他们最终还是做出了一张很好的青蛙脸。
+
+34
+00:01:48.125 --> 00:01:50.411
+And so what it turns out is that this system.
+[AI] 结果是这个系统。
+
+35
+00:01:50.435 --> 00:01:52.247
+like many living systems.
+[AI] 就像许多生命系统一样。
+
+36
+00:01:52.271 --> 00:01:54.404
+is not a hardwired set of movements.
+[AI] 不是一套固定的动作。
+
+37
+00:01:54.428 --> 00:01:58.166
+but actually works to reduce the error between what's going on now
+[AI] 但实际上可以减少现在发生的事情之间的误差
+
+38
+00:01:58.190 --> 00:02:01.691
+and what it knows is a correct frog face configuration.
+[AI] 它知道的是正确的青蛙脸结构。
+
+39
+00:02:01.716 --> 00:02:03.166
+This kind of decision-making
+[AI] 这种决策
+
+40
+00:02:03.190 --> 00:02:07.331
+that involves flexible responses to new circumstances.
+[AI] 这涉及对新情况的灵活反应。
+
+41
+00:02:07.354 --> 00:02:09.770
+in other contexts. we would call this intelligence.
+[AI] 在其他情况下。我们称之为情报。
+
+42
+00:02:09.794 --> 00:02:14.030
+And so what we need to understand now is not only the mechanisms
+[AI] 因此，我们现在需要了解的不仅仅是机制
+
+43
+00:02:14.054 --> 00:02:16.175
+by which these cells execute their movements
+[AI] 这些细胞通过它来执行它们的运动
+
+44
+00:02:16.199 --> 00:02:17.687
+and gene expression and so on.
+[AI] 基因表达等。
+
+45
+00:02:17.711 --> 00:02:20.497
+but we really have to understand the information flow:
+[AI] 但我们确实必须了解信息流：
+
+46
+00:02:20.521 --> 00:02:22.627
+How do these cells cooperate with each other
+[AI] 这些细胞如何相互合作
+
+47
+00:02:22.651 --> 00:02:26.208
+to build something large and to stop building
+[AI] 建造大型建筑并停止建造
+
+48
+00:02:26.233 --> 00:02:29.257
+when that specific structure is created?
+[AI] 该特定结构何时创建？
+
+49
+00:02:29.281 --> 00:02:31.987
+And these kinds of computations. not just the mechanisms.
+[AI] 还有这些计算。不仅仅是机制。
+
+50
+00:02:32.011 --> 00:02:34.979
+but the computations of anatomical control.
+[AI] 但是解剖控制的计算。
+
+51
+00:02:35.003 --> 00:02:36.472
+are the future of biology.
+[AI] 是生物学的未来。
+
+52
+00:02:36.496 --> 00:02:38.714
+CA: And so I guess the traditional model
+[AI] CA:所以我猜是传统模式
+
+53
+00:02:38.739 --> 00:02:43.404
+is that somehow cells are sending biochemical signals to each other
+[AI] 就是细胞之间互相传递生化信号
+
+54
+00:02:43.428 --> 00:02:47.722
+that allow that development to happen the smart way.
+[AI] 这使得这种发展能够以明智的方式发生。
+
+55
+00:02:47.745 --> 00:02:50.176
+But you think there is something else at work.
+[AI] 但你认为还有其他原因在起作用。
+
+56
+00:02:50.201 --> 00:02:51.363
+What is that?
+[AI] 那是什么？
+
+57
+00:02:51.387 --> 00:02:55.152
+ML: Well. cells certainly do communicate biochemically and via physical forces.
+[AI] 迈克尔：嗯。细胞确实通过生物化学和物理力进行交流。
+
+58
+00:02:55.176 --> 00:02:58.259
+but there's something else going on that's extremely interesting.
+[AI] 但还有一些事情非常有趣。
+
+59
+00:02:58.283 --> 00:03:01.638
+and it's basically called bioelectricity.
+[AI] 它基本上被称为生物电。
+
+60
+00:03:01.662 --> 00:03:03.542
+non-neural bioelectricity.
+[AI] 非神经生物电。
+
+61
+00:03:03.566 --> 00:03:05.161
+So it turns out that all cells --
+[AI] 所以所有的细胞--
+
+62
+00:03:05.185 --> 00:03:07.360
+not just nerves. but all cells in your body --
+[AI] 不仅仅是紧张。但是你体内的所有细胞--
+
+63
+00:03:07.383 --> 00:03:09.872
+communicate with each other using electrical signals.
+[AI] 使用电信号相互通信。
+
+64
+00:03:09.896 --> 00:03:12.317
+And what you're seeing here is a time-lapse video.
+[AI] 你在这里看到的是一段延时视频。
+
+65
+00:03:12.341 --> 00:03:13.545
+For the first time.
+[AI] 这是第一次。
+
+66
+00:03:13.569 --> 00:03:16.982
+we are now able to eavesdrop on all of the electrical conversations
+[AI] 我们现在可以窃听所有的电子对话
+
+67
+00:03:17.006 --> 00:03:19.086
+that the cells are having with each other.
+[AI] 细胞之间相互拥有的。
+
+68
+00:03:19.110 --> 00:03:20.289
+So think about this.
+[AI] 所以想想这个。
+
+69
+00:03:20.313 --> 00:03:21.472
+We're now watching --
+[AI] 我们现在在看--
+
+70
+00:03:21.496 --> 00:03:22.928
+This is an early frog embryo.
+[AI] 这是一个早期的青蛙胚胎。
+
+71
+00:03:22.952 --> 00:03:25.466
+This is about eight hours to 10 hours of development.
+[AI] 这大约需要8到10个小时的开发时间。
+
+72
+00:03:25.490 --> 00:03:29.489
+And the colors are showing you actual electrical states
+[AI] 颜色显示的是实际的电气状态
+
+73
+00:03:29.513 --> 00:03:32.543
+that allow you to see all of the electrical software
+[AI] 这样您就可以看到所有的电气软件
+
+74
+00:03:32.567 --> 00:03:36.140
+that's running on the genome-defined cellular hardware.
+[AI] 在基因组定义的细胞硬件上运行。
+
+75
+00:03:36.164 --> 00:03:40.140
+And so these cells are basically communicating with each other
+[AI] 所以这些细胞基本上是相互交流的
+
+76
+00:03:40.164 --> 00:03:42.530
+who is going to be head. who is going to be tail.
+[AI] 谁来当校长。谁来当尾巴。
+
+77
+00:03:42.554 --> 00:03:45.791
+who is going to be left and right and make eyes and brain and so on.
+[AI] 谁将是左右的，制造眼睛和大脑等等。
+
+78
+00:03:45.815 --> 00:03:47.317
+And so it is this software
+[AI] 这就是这个软件
+
+79
+00:03:47.341 --> 00:03:51.151
+that allows these living systems to achieve specific goals.
+[AI] 这使得这些生命系统能够实现特定的目标。
+
+80
+00:03:51.175 --> 00:03:52.722
+goals such as building an embryo
+[AI] 建立胚胎等目标
+
+81
+00:03:52.746 --> 00:03:56.055
+or regenerating a limb for animals that do this.
+[AI] 或者为这样做的动物再生肢体。
+
+82
+00:03:56.079 --> 00:04:01.624
+and the ability to see these electrical conversations
+[AI] 以及看到这些电子对话的能力
+
+83
+00:04:01.649 --> 00:04:04.509
+gives us some really remarkable opportunities
+[AI] 给我们提供了一些非常好的机会
+
+84
+00:04:04.532 --> 00:04:07.720
+to target or to rewrite the goals towards which
+[AI] 确定目标或重写目标
+
+85
+00:04:07.744 --> 00:04:09.734
+these living systems are operating.
+[AI] 这些生命系统正在运行。
+
+86
+00:04:09.757 --> 00:04:11.463
+CA: OK. so this is pretty radical.
+[AI] CA:好的。所以这是相当激进的。
+
+87
+00:04:11.488 --> 00:04:13.499
+Let me see if I understand this.
+[AI] 让我看看我是否理解这一点。
+
+88
+00:04:13.523 --> 00:04:17.765
+What you're saying is that when an organism starts to develop.
+[AI] 你的意思是当一个有机体开始发育时。
+
+89
+00:04:17.789 --> 00:04:19.235
+as soon as a cell divides.
+[AI] 一旦细胞分裂。
+
+90
+00:04:19.259 --> 00:04:22.547
+electrical signals are shared between them.
+[AI] 它们之间共享电信号。
+
+91
+00:04:22.571 --> 00:04:27.128
+But as you get to. what. a hundred. a few hundred cells.
+[AI] 但当你到达目的地时。什么一百。几百个细胞。
+
+92
+00:04:27.152 --> 00:04:33.431
+that somehow these signals end up forming essentially like a computer program.
+[AI] 不知何故，这些信号最终形成了一个计算机程序。
+
+93
+00:04:33.455 --> 00:04:38.830
+a program that somehow includes all the information needed
+[AI] 以某种方式包含所有所需信息的程序
+
+94
+00:04:38.854 --> 00:04:40.521
+to tell that organism
+[AI] 告诉那个有机体
+
+95
+00:04:40.546 --> 00:04:42.447
+what its destiny is?
+[AI] 它的命运是什么？
+
+96
+00:04:42.470 --> 00:04:44.467
+Is that the right way to think about it?
+[AI] 这样想对吗？
+
+97
+00:04:44.491 --> 00:04:45.725
+ML: Yes. quite.
+[AI] ML:是的。相当地
+
+98
+00:04:45.749 --> 00:04:47.873
+Basically. what happens is that these cells.
+[AI] 大体上发生的是这些细胞。
+
+99
+00:04:47.897 --> 00:04:51.848
+by forming electrical networks much like networks in the brain.
+[AI] 通过形成类似于大脑网络的电子网络。
+
+100
+00:04:51.871 --> 00:04:54.071
+they form electrical networks.
+[AI] 它们形成电气网络。
+
+101
+00:04:54.095 --> 00:04:58.176
+and these networks process information including pattern memories.
+[AI] 这些网络处理包括模式记忆在内的信息。
+
+102
+00:04:58.201 --> 00:05:03.037
+They include representation of large-scale anatomical structures
+[AI] 它们包括大型解剖结构的表示
+
+103
+00:05:03.061 --> 00:05:04.674
+where various organs will go.
+[AI] 各种器官的去向。
+
+104
+00:05:04.698 --> 00:05:08.371
+what the different axes of the animal -- front and back. head and tail --
+[AI] 什么是动物的不同轴线——正面和背面。从头到尾--
+
+105
+00:05:08.395 --> 00:05:09.553
+are going to be.
+[AI] 我们会很高兴的。
+
+106
+00:05:09.576 --> 00:05:12.190
+and these are literally held in the electrical circuits
+[AI] 这些都被保存在电路中
+
+107
+00:05:12.215 --> 00:05:13.876
+across large tissues
+[AI] 穿过大组织
+
+108
+00:05:13.900 --> 00:05:19.871
+in the same way that brains hold other kinds of memories and learning.
+[AI] 就像大脑拥有其他种类的记忆和学习一样。
+
+109
+00:05:19.895 --> 00:05:22.120
+CA: So is this the right way to think about it?
+[AI] CA：那么这是正确的思考方式吗？
+
+110
+00:05:22.143 --> 00:05:24.246
+Because this seems to be such a big shift.
+[AI] 因为这似乎是一个很大的转变。
+
+111
+00:05:24.270 --> 00:05:27.119
+I mean. when I first got a computer.
+[AI] 我是说。当我第一次得到一台电脑的时候。
+
+112
+00:05:27.143 --> 00:05:31.763
+I was in awe of the people who could do so-called "machine code."
+[AI] 我对那些能做所谓“机器代码”的人感到敬畏
+
+113
+00:05:31.787 --> 00:05:35.813
+like the direct programming of individual bits in the computer.
+[AI] 就像计算机中单个位的直接编程一样。
+
+114
+00:05:35.838 --> 00:05:37.652
+That was impossible for most mortals.
+[AI] 这对大多数凡人来说是不可能的。
+
+115
+00:05:37.676 --> 00:05:39.847
+To have a chance of controlling that computer.
+[AI] 有机会控制那台电脑。
+
+116
+00:05:39.871 --> 00:05:42.296
+you'd have to program in a language.
+[AI] 你必须用一种语言编程。
+
+117
+00:05:42.320 --> 00:05:49.299
+which was a vastly simpler way of making big-picture things happen.
+[AI] 这是一个非常简单的方法，使大画面的事情发生。
+
+118
+00:05:49.323 --> 00:05:50.763
+And if I understand you right.
+[AI] 如果我没弄错的话。
+
+119
+00:05:50.787 --> 00:05:54.186
+what you're saying is that most of biology today has sort of taken place
+[AI] 你的意思是今天大部分的生物学都发生过
+
+120
+00:05:54.210 --> 00:05:56.852
+trying to do the equivalent of machine code programming.
+[AI] 尝试做与机器代码编程等效的工作。
+
+121
+00:05:56.876 --> 00:06:00.065
+of understanding the biochemical signals between individual cells.
+[AI] 理解单个细胞之间的生化信号的过程。
+
+122
+00:06:00.088 --> 00:06:03.406
+when. wait a sec. holy crap. there's this language going on.
+[AI] 什么时候等一下。天哪。这是一种语言。
+
+123
+00:06:03.431 --> 00:06:07.965
+this electrical language. which. if you could understand that.
+[AI] 这是电子语言。哪一个如果你能理解的话。
+
+124
+00:06:07.989 --> 00:06:11.017
+that would give us a completely different set of insights
+[AI] 这将给我们一套完全不同的见解
+
+125
+00:06:11.040 --> 00:06:13.350
+into how organisms are developing.
+[AI] 生物是如何发展的。
+
+126
+00:06:13.374 --> 00:06:15.241
+Is that metaphor basically right?
+[AI] 这个比喻基本上正确吗？
+
+127
+00:06:15.265 --> 00:06:16.834
+ML: Yeah. this is exactly right.
+[AI] 是的。这是完全正确的。
+
+128
+00:06:16.857 --> 00:06:19.869
+So if you think about the way programming was done in the '40s.
+[AI] 如果你想想40年代的编程方式。
+
+129
+00:06:19.893 --> 00:06:22.542
+in order to get your computer to do something different.
+[AI] 为了让你的电脑做一些不同的事情。
+
+130
+00:06:22.566 --> 00:06:25.018
+you would physically have to shift the wires around.
+[AI] 你必须在身体上移动电线。
+
+131
+00:06:25.042 --> 00:06:27.539
+So you'd have to go in there and rewire the hardware.
+[AI] 所以你必须进去重新连接硬件。
+
+132
+00:06:27.563 --> 00:06:29.900
+You'd have to interact with the hardware directly.
+[AI] 您必须直接与硬件交互。
+
+133
+00:06:29.924 --> 00:06:32.645
+and all of your strategies for manipulating that machine
+[AI] 还有你操纵那台机器的所有策略
+
+134
+00:06:32.669 --> 00:06:34.513
+would be at the level of the hardware.
+[AI] 将处于硬件级别。
+
+135
+00:06:34.537 --> 00:06:37.632
+And the reason we have this now amazing technology revolution.
+[AI] 这就是为什么我们现在有了这场惊人的技术革命。
+
+136
+00:06:37.655 --> 00:06:39.520
+information sciences and so on.
+[AI] 信息科学等等。
+
+137
+00:06:39.544 --> 00:06:43.371
+is because computer science moved from a focus on the hardware
+[AI] 这是因为计算机科学不再关注硬件
+
+138
+00:06:43.395 --> 00:06:46.238
+on to understanding that if your hardware is good enough --
+[AI] 了解到如果你的硬件足够好--
+
+139
+00:06:46.261 --> 00:06:50.050
+and I'm going to tell you that biological hardware is absolutely good enough --
+[AI] 我要告诉你们，生物硬件绝对足够好--
+
+140
+00:06:50.075 --> 00:06:55.499
+then you can interact with your system not by tweaking or rewiring the hardware.
+[AI] 然后，您可以与您的系统交互，而不是通过调整或重新布线硬件。
+
+141
+00:06:55.523 --> 00:06:59.292
+but actually. you can take a step back and give it stimuli or inputs
+[AI] 但事实上。你可以后退一步，给它刺激或输入
+
+142
+00:06:59.316 --> 00:07:02.324
+the way that you would give to a reprogrammable computer
+[AI] 就像你给一台可重新编程的计算机一样
+
+143
+00:07:02.349 --> 00:07:07.134
+and cause the cellular network to do something completely different
+[AI] 让蜂窝网络做一些完全不同的事情
+
+144
+00:07:07.157 --> 00:07:08.814
+than it would otherwise have done.
+[AI] 而不是它本来会做的。
+
+145
+00:07:08.838 --> 00:07:12.386
+So the ability to see these bioelectrical signals
+[AI] 所以能够看到这些生物电信号
+
+146
+00:07:12.410 --> 00:07:15.273
+is giving us an entry point directly into the software
+[AI] 给了我们一个直接进入软件的入口
+
+147
+00:07:15.297 --> 00:07:17.318
+that guides large-scale anatomy.
+[AI] 这指导了大规模的解剖学研究。
+
+148
+00:07:17.342 --> 00:07:20.523
+which is a very different approach to medicine
+[AI] 这是一种非常不同的医学方法
+
+149
+00:07:20.547 --> 00:07:23.926
+than to rewiring specific pathways inside of every cell.
+[AI] 而不是重新连接每个细胞内的特定通路。
+
+150
+00:07:24.537 --> 00:07:27.425
+CA: And so in many ways. this is the amazingness of your work
+[AI] CA:在很多方面也是如此。这就是你工作的惊人之处
+
+151
+00:07:27.450 --> 00:07:30.761
+is that you're starting to crack the code of these electrical signals.
+[AI] 就是你开始破解这些电信号的密码。
+
+152
+00:07:30.785 --> 00:07:33.131
+and you've got an amazing demonstration of this
+[AI] 你有一个惊人的演示
+
+153
+00:07:33.155 --> 00:07:34.464
+in these flatworms.
+[AI] 在这些扁形虫身上。
+
+154
+00:07:34.487 --> 00:07:37.043
+Tell us what's going on here.
+[AI] 告诉我们这里发生了什么。
+
+155
+00:07:37.068 --> 00:07:39.696
+ML: So this is a creature known as a planarian.
+[AI] 这是一种被称为涡虫的生物。
+
+156
+00:07:39.720 --> 00:07:41.210
+They're flatworms.
+[AI] 他们是扁虫。
+
+157
+00:07:41.234 --> 00:07:43.272
+They're actually quite a complex creature.
+[AI] 它们实际上是一种非常复杂的生物。
+
+158
+00:07:43.296 --> 00:07:46.118
+They have a true brain. lots of different organs and so on.
+[AI] 他们有真正的大脑。很多不同的器官等等。
+
+159
+00:07:46.141 --> 00:07:48.142
+And the amazing thing about these planaria
+[AI] 还有这些涡虫的神奇之处
+
+160
+00:07:48.167 --> 00:07:50.274
+is that they are highly. highly regenerative.
+[AI] 这是因为他们高度重视。高度再生。
+
+161
+00:07:50.297 --> 00:07:54.406
+So if you cut it into pieces -- in fact. over 200 pieces --
+[AI] 所以如果你把它切成碎片——事实上。200多件--
+
+162
+00:07:54.431 --> 00:07:57.971
+every piece will rebuild exactly what's needed
+[AI] 每一件作品都将完全按照需要进行重建
+
+163
+00:07:57.994 --> 00:07:59.454
+to make a perfect little worm.
+[AI] 做一个完美的小虫子。
+
+164
+00:07:59.479 --> 00:08:00.650
+So think about that.
+[AI] 想想看。
+
+165
+00:08:00.674 --> 00:08:02.691
+This is a system where every single piece
+[AI] 这是一个系统，每一块
+
+166
+00:08:02.715 --> 00:08:05.705
+knows exactly what a correct planarian looks like
+[AI] 确切地知道正确的涡虫是什么样子的
+
+167
+00:08:05.729 --> 00:08:09.234
+and builds the right organs in the right places and then stops.
+[AI] 在正确的地方建立正确的器官，然后停止。
+
+168
+00:08:09.258 --> 00:08:12.190
+And that's one of the most amazing things about regeneration.
+[AI] 这是关于再生最令人惊奇的事情之一。
+
+169
+00:08:12.213 --> 00:08:15.326
+So what we discovered is that if you cut it into three pieces
+[AI] 我们发现如果你把它切成三块
+
+170
+00:08:15.350 --> 00:08:18.867
+and amputate the head and the tail and you just take this middle fragment.
+[AI] 然后切除头部和尾部，你只需要取中间的碎片。
+
+171
+00:08:18.891 --> 00:08:20.253
+which is what you see here.
+[AI] 这就是你在这里看到的。
+
+172
+00:08:20.277 --> 00:08:23.992
+amazingly. there is an electrical gradient. head to tail. that's generated
+[AI] 令人惊讶。有一个电梯度。从头到尾。这就产生了
+
+173
+00:08:24.016 --> 00:08:27.018
+that tells the piece where the heads and the tails go
+[AI] 这就告诉了这首曲子的开头和结尾
+
+174
+00:08:27.042 --> 00:08:29.954
+and in fact. how many heads or tails you're supposed to have.
+[AI] 事实上。你应该有多少个正面或反面。
+
+175
+00:08:29.979 --> 00:08:34.306
+So what we learned to do is to manipulate this electrical gradient.
+[AI] 所以我们学会的是操纵这个电梯度。
+
+176
+00:08:34.330 --> 00:08:37.196
+and the important thing is that we don't apply electricity.
+[AI] 重要的是我们不用电。
+
+177
+00:08:37.220 --> 00:08:41.411
+What we do instead was we turned on and off the little transistors --
+[AI] 我们所做的是打开和关闭小晶体管--
+
+178
+00:08:41.434 --> 00:08:43.479
+they're actual ion channel proteins --
+[AI] 它们是真正的离子通道蛋白质--
+
+179
+00:08:43.503 --> 00:08:46.883
+that every cell natively uses to set up this electrical state.
+[AI] 每个细胞本机使用它来建立这种电状态。
+
+180
+00:08:46.907 --> 00:08:49.253
+So now we have ways to turn them on and off.
+[AI] 现在我们有办法打开和关闭它们。
+
+181
+00:08:49.277 --> 00:08:51.672
+and when you do this. one of the things you can do
+[AI] 当你这么做的时候。你能做的事情之一
+
+182
+00:08:51.696 --> 00:08:55.816
+is you can shift that circuit to a state that says no. build two heads.
+[AI] 你可以把电路换成一个说不的状态，造两个脑袋。
+
+183
+00:08:55.840 --> 00:08:57.433
+or in fact. build no heads.
+[AI] 或者事实上。不要造脑袋。
+
+184
+00:08:57.457 --> 00:09:01.520
+And what you're seeing here are real worms that have either two or no heads
+[AI] 你在这里看到的是真正的蠕虫，它们要么有两个头，要么没有头
+
+185
+00:09:01.545 --> 00:09:02.712
+that result from this.
+[AI] 这就是结果。
+
+186
+00:09:02.735 --> 00:09:05.725
+because that electrical map is what the cells are using
+[AI] 因为电子地图是细胞使用的
+
+187
+00:09:05.749 --> 00:09:07.469
+to decide what to do.
+[AI] 决定做什么。
+
+188
+00:09:07.493 --> 00:09:10.811
+And so what you're seeing here are live two-headed worms.
+[AI] 所以你在这里看到的是活的双头蠕虫。
+
+189
+00:09:10.835 --> 00:09:14.926
+And. having generated these. we did a completely crazy experiment.
+[AI] 和产生了这些。我们做了一个完全疯狂的实验。
+
+190
+00:09:14.950 --> 00:09:18.864
+You take one of these two-headed worms. and you chop off both heads.
+[AI] 你拿一条双头蠕虫。然后你砍掉两个头。
+
+191
+00:09:18.888 --> 00:09:21.092
+and you leave just the normal middle fragment.
+[AI] 只留下正常的中间碎片。
+
+192
+00:09:21.117 --> 00:09:24.402
+Now keep in mind. these animals have not been genomically edited.
+[AI] 现在记住。这些动物尚未进行基因组编辑。
+
+193
+00:09:24.426 --> 00:09:27.137
+There's absolutely nothing different about their genomes.
+[AI] 他们的基因组完全没有什么不同。
+
+194
+00:09:27.161 --> 00:09:29.477
+Their genome sequence is completely wild type.
+[AI] 他们的基因组序列完全是野生型的。
+
+195
+00:09:29.500 --> 00:09:34.035
+So you amputate the heads. you've got a nice normal fragment.
+[AI] 所以你把脑袋截去了。你有一个很好的普通碎片。
+
+196
+00:09:34.060 --> 00:09:36.868
+and then you ask: In plain water. what is it going to do?
+[AI] 然后你问：在清水中。它将做什么？
+
+197
+00:09:36.892 --> 00:09:39.177
+And. of course. the standard paradigm would say.
+[AI] 和当然标准范式会说。
+
+198
+00:09:39.201 --> 00:09:41.892
+well. if you've gotten rid of this ectopic extra tissue.
+[AI] 好如果你已经去除了异位的多余组织。
+
+199
+00:09:41.916 --> 00:09:45.776
+the genome is not edited so it should make a perfectly normal worm.
+[AI] 基因组没有经过编辑，所以它应该是一种完全正常的蠕虫。
+
+200
+00:09:45.800 --> 00:09:48.679
+And the amazing thing is that it is not what happens.
+[AI] 令人惊奇的是，事情并不是这样发生的。
+
+201
+00:09:48.702 --> 00:09:54.614
+These worms. when cut again and again. in the future. in plain water.
+[AI] 这些虫子。当一次又一次的切割。未来在清水中。
+
+202
+00:09:54.638 --> 00:09:57.238
+they continue to regenerate as two-headed.
+[AI] 它们继续以双头的形式再生。
+
+203
+00:09:57.262 --> 00:09:58.425
+Think about this.
+[AI] 想想这个。
+
+204
+00:09:58.449 --> 00:10:03.657
+The pattern memory to which these animals will regenerate after damage
+[AI] 这些动物在受到伤害后将恢复的记忆模式
+
+205
+00:10:03.681 --> 00:10:05.633
+has been permanently rewritten.
+[AI] 已被永久重写。
+
+206
+00:10:05.657 --> 00:10:09.359
+And in fact. we can now write it back and send them back to being one-headed
+[AI] 事实上。我们现在可以把它写回去，让他们回到一头人的状态
+
+207
+00:10:09.383 --> 00:10:11.195
+without any genomic editing.
+[AI] 没有任何基因组编辑。
+
+208
+00:10:11.219 --> 00:10:14.323
+So this right here is telling you that the information structure
+[AI] 这就告诉你，信息结构
+
+209
+00:10:14.346 --> 00:10:17.263
+that tells these worms how many heads they're supposed to have
+[AI] 告诉这些虫子他们应该有多少头
+
+210
+00:10:17.287 --> 00:10:18.818
+is not directly in the genome.
+[AI] 不是直接在基因组中。
+
+211
+00:10:18.843 --> 00:10:20.974
+It is in this additional bioelectric layer.
+[AI] 它就在这个额外的生物电层中。
+
+212
+00:10:20.998 --> 00:10:22.890
+Probably many other things are as well.
+[AI] 可能还有很多其他的事情。
+
+213
+00:10:22.913 --> 00:10:25.202
+And we now have the ability to rewrite it.
+[AI] 我们现在有能力重写它。
+
+214
+00:10:25.226 --> 00:10:28.905
+And that. of course. is the key definition of memory.
+[AI] 还有那个。当然是记忆的关键定义。
+
+215
+00:10:28.930 --> 00:10:32.598
+It has to be stable. long-term stable. and it has to be rewritable.
+[AI] 它必须是稳定的。长期稳定。而且它必须是可重写的。
+
+216
+00:10:32.622 --> 00:10:36.330
+And we are now beginning to crack this morphogenetic code
+[AI] 我们现在开始破解这个形态发生密码
+
+217
+00:10:36.354 --> 00:10:41.235
+to ask how is it that these tissues store a map of what to do
+[AI] 问这些组织是如何储存一张做什么的地图的
+
+218
+00:10:41.259 --> 00:10:44.976
+and how we can go in and rewrite that map to new outcomes.
+[AI] 以及我们如何进入并改写这张地图，以取得新的成果。
+
+219
+00:10:46.124 --> 00:10:49.945
+CA: I mean. that seems incredibly compelling evidence
+[AI] CA:我是说。这似乎是令人难以置信的令人信服的证据
+
+220
+00:10:49.969 --> 00:10:56.960
+that DNA is just not controlling the actual final shape
+[AI] DNA并不能控制实际的最终形状
+
+221
+00:10:56.984 --> 00:10:58.612
+of these organisms.
+[AI] 这些有机体的一部分。
+
+222
+00:10:58.635 --> 00:11:01.860
+that there's this whole other thing going on.
+[AI] 还有另外一件事。
+
+223
+00:11:01.884 --> 00:11:03.765
+and. boy. if you could crack that code.
+[AI] 和男孩如果你能破解密码。
+
+224
+00:11:03.790 --> 00:11:05.858
+what else could that lead to.
+[AI] 这还能导致什么呢。
+
+225
+00:11:05.882 --> 00:11:07.901
+By the way. just looking at these ones.
+[AI] 顺便说一句看看这些。
+
+226
+00:11:07.925 --> 00:11:10.878
+What is life like for a two-headed flatworm?
+[AI] 双头扁形虫的生活是什么样的？
+
+227
+00:11:10.902 --> 00:11:13.146
+I mean. it seems like it's kind of a trade-off.
+[AI] 我是说。这似乎是一种权衡。
+
+228
+00:11:13.170 --> 00:11:17.115
+The good news is you have this amazing three-dimensional view of the world.
+[AI] 好消息是你有一个惊人的三维世界观。
+
+229
+00:11:17.138 --> 00:11:21.475
+but the bad news is you have to poop through both of your mouths?
+[AI] 但坏消息是你必须用两个嘴巴大便？
+
+230
+00:11:22.351 --> 00:11:26.366
+ML: So. the worms have these little tubes called pharynxes.
+[AI] ML:那么。蠕虫有这些叫做咽的小管。
+
+231
+00:11:26.391 --> 00:11:28.848
+and the tubes are sort of in the middle of the body.
+[AI] 管子在身体的中部。
+
+232
+00:11:28.872 --> 00:11:30.342
+and they excrete through that.
+[AI] 它们就这样排泄。
+
+233
+00:11:30.365 --> 00:11:32.043
+These animals are perfectly viable.
+[AI] 这些动物完全可以生存。
+
+234
+00:11:32.067 --> 00:11:34.999
+They're completely happy. I think.
+[AI] 他们非常高兴。我想。
+
+235
+00:11:35.023 --> 00:11:36.205
+The problem. however.
+[AI] 这个问题。然而
+
+236
+00:11:36.229 --> 00:11:38.701
+is that the two heads don't cooperate all that well.
+[AI] 就是两个头头合作得不太好。
+
+237
+00:11:38.725 --> 00:11:40.666
+and so they don't really eat very well.
+[AI] 所以他们吃得不太好。
+
+238
+00:11:40.690 --> 00:11:42.565
+But if you manage to feed them by hand.
+[AI] 但是如果你设法用手喂它们。
+
+239
+00:11:42.589 --> 00:11:43.739
+they will go on forever.
+[AI] 他们将永远继续下去。
+
+240
+00:11:43.763 --> 00:11:46.827
+and in fact. you should know these worms are basically immortal.
+[AI] 事实上。你应该知道这些蠕虫基本上是不朽的。
+
+241
+00:11:46.851 --> 00:11:50.174
+So these worms. because they are so highly regenerative.
+[AI] 所以这些虫子。因为它们的再生能力非常强。
+
+242
+00:11:50.199 --> 00:11:51.640
+they have no age limit.
+[AI] 他们没有年龄限制。
+
+243
+00:11:51.663 --> 00:11:55.013
+and they're telling us that if we crack this secret of regeneration.
+[AI] 他们告诉我们，如果我们破解了再生的秘密。
+
+244
+00:11:55.037 --> 00:11:58.117
+which is not only growing new cells but knowing when to stop --
+[AI] 这不仅是生长新细胞，而且知道何时停止--
+
+245
+00:11:58.141 --> 00:12:00.036
+you see. this is absolutely crucial --
+[AI] 你看。这是绝对关键的--
+
+246
+00:12:00.060 --> 00:12:04.234
+if you can continue to exert this really profound control
+[AI] 如果你能继续施加这种真正深刻的控制
+
+247
+00:12:04.258 --> 00:12:07.734
+over the three-dimensional structures that the cells are working towards.
+[AI] 在细胞工作的三维结构上。
+
+248
+00:12:07.758 --> 00:12:10.643
+you could defeat aging as well as traumatic injury
+[AI] 你可以战胜衰老和创伤
+
+249
+00:12:10.667 --> 00:12:11.830
+and things like this.
+[AI] 诸如此类的事情。
+
+250
+00:12:11.854 --> 00:12:15.255
+So one thing to keep in mind is that this ability to rewrite
+[AI] 所以要记住的一件事是，这种重写的能力
+
+251
+00:12:15.279 --> 00:12:17.701
+the large-scale anatomical structure of the body
+[AI] 身体的大规模解剖结构
+
+252
+00:12:17.725 --> 00:12:19.867
+is not just a weird planarian trick.
+[AI] 这不仅仅是一个奇怪的滑行技巧。
+
+253
+00:12:19.891 --> 00:12:23.169
+It's not just something that works in flatworms.
+[AI] 这不仅仅是扁虫身上起作用的东西。
+
+254
+00:12:23.192 --> 00:12:26.138
+What you're seeing here is a tadpole with an eye and a gut.
+[AI] 你在这里看到的是一只有眼睛和内脏的蝌蚪。
+
+255
+00:12:26.162 --> 00:12:30.659
+and what we've done is turned on a very specific ion channel.
+[AI] 我们所做的是打开一个非常特殊的离子通道。
+
+256
+00:12:30.683 --> 00:12:34.068
+So we basically just manipulated these little electrical transistors
+[AI] 所以我们基本上只是操纵这些小电晶体
+
+257
+00:12:34.093 --> 00:12:35.599
+that are inside of cells.
+[AI] 在细胞内。
+
+258
+00:12:35.623 --> 00:12:39.376
+and we've imposed a state on some of these gut cells
+[AI] 我们已经在一些肠道细胞上施加了一种状态
+
+259
+00:12:39.399 --> 00:12:41.935
+that's normally associated with building an eye.
+[AI] 这通常与造眼睛有关。
+
+260
+00:12:41.960 --> 00:12:44.821
+And as a result. what the cells do is they build an eye.
+[AI] 结果呢。这些细胞做的是造一只眼睛。
+
+261
+00:12:44.845 --> 00:12:46.167
+These eyes are complete.
+[AI] 这些眼睛是完整的。
+
+262
+00:12:46.191 --> 00:12:49.457
+They have optic nerve. lens. retina.
+[AI] 他们有视神经。透镜视网膜。
+
+263
+00:12:49.481 --> 00:12:51.912
+all the same stuff that an eye is supposed to have.
+[AI] 都是眼睛应该有的东西。
+
+264
+00:12:51.936 --> 00:12:54.017
+They can see. by the way. out of these eyes.
+[AI] 他们能看见。顺便说一句从这些眼睛里。
+
+265
+00:12:54.041 --> 00:12:55.404
+And what you're seeing here
+[AI] 你在这里看到了什么
+
+266
+00:12:55.427 --> 00:12:57.955
+is that by triggering eye-building subroutines
+[AI] 这是通过触发造眼子程序实现的吗
+
+267
+00:12:57.979 --> 00:13:00.679
+in the physiological software of the body.
+[AI] 在身体的生理学软件中。
+
+268
+00:13:00.702 --> 00:13:04.227
+you can very easily tell it to build a complex organ.
+[AI] 你可以很容易地告诉它建立一个复杂的器官。
+
+269
+00:13:04.252 --> 00:13:06.402
+And this is important for our biomedicine.
+[AI] 这对我们的生物医学很重要。
+
+270
+00:13:06.426 --> 00:13:09.652
+because we don't know how to micromanage the construction of an eye.
+[AI] 因为我们不知道如何微观管理眼睛的构造。
+
+271
+00:13:09.676 --> 00:13:11.723
+I think it's going to be a really long time
+[AI] 我认为这将是一个非常长的时间
+
+272
+00:13:11.747 --> 00:13:16.694
+before we can really bottom-up build things like eyes or hands and so on.
+[AI] 然后我们才能真正地自下而上建立像眼睛或手之类的东西。
+
+273
+00:13:16.718 --> 00:13:19.845
+But we don't need to. because the body already knows how to do it.
+[AI] 但我们不需要。因为身体已经知道怎么做了。
+
+274
+00:13:19.869 --> 00:13:22.643
+and there are these subroutines that can be triggered
+[AI] 这些子程序可以被触发
+
+275
+00:13:22.667 --> 00:13:25.590
+by specific electrical patterns that we can find.
+[AI] 通过我们能找到的特定的电模式。
+
+276
+00:13:25.614 --> 00:13:28.894
+And this is what we call "cracking the bioelectric code."
+[AI] 这就是我们所说的“破解生物电码”
+
+277
+00:13:28.918 --> 00:13:30.919
+We can make eyes. We can make extra limbs.
+[AI] 我们可以做眼睛。我们可以做额外的肢体。
+
+278
+00:13:30.944 --> 00:13:33.013
+Here's one of our five-legged tadpoles.
+[AI] 这是我们的一只五条腿蝌蚪。
+
+279
+00:13:33.037 --> 00:13:34.826
+We can make extra hearts.
+[AI] 我们可以做更多的心。
+
+280
+00:13:34.850 --> 00:13:38.571
+We're starting to crack the code to understand where are the subroutines
+[AI] 我们开始破解代码以了解子程序在哪里
+
+281
+00:13:38.595 --> 00:13:39.773
+in this software
+[AI] 在这个软件中
+
+282
+00:13:39.797 --> 00:13:42.787
+that we can trigger and build these complex organs
+[AI] 我们可以触发并建立这些复杂的器官
+
+283
+00:13:42.811 --> 00:13:45.885
+long before we actually know how to micromanage the process
+[AI] 早在我们真正知道如何微观管理流程之前
+
+284
+00:13:45.909 --> 00:13:47.327
+at the cellular level.
+[AI] 在细胞水平。
+
+285
+00:13:47.351 --> 00:13:52.193
+CA: So as you've started to get to learn this electrical layer
+[AI] CA：所以当你开始学习这个电层的时候
+
+286
+00:13:52.218 --> 00:13:53.399
+and what it can do.
+[AI] 以及它能做什么。
+
+287
+00:13:53.422 --> 00:13:55.950
+you've been able to create --
+[AI] 您已经能够创建--
+
+288
+00:13:55.974 --> 00:13:59.513
+is it fair to say it's almost like a new. a novel life-form.
+[AI] 公平地说，它几乎像一个新的。一种新颖的生命形式。
+
+289
+00:13:59.537 --> 00:14:00.706
+called a xenobot?
+[AI] 叫氙机器人？
+
+290
+00:14:00.730 --> 00:14:02.491
+Talk to me about xenobots.
+[AI] 跟我谈谈氙气机器人。
+
+291
+00:14:02.516 --> 00:14:03.667
+ML: Right.
+[AI] ML:对。
+
+292
+00:14:03.691 --> 00:14:07.980
+So if you think about this. this leads to a really strange prediction.
+[AI] 所以如果你仔细想想。这导致了一个非常奇怪的预测。
+
+293
+00:14:08.004 --> 00:14:11.960
+If the cells are really willing to build towards a specific map.
+[AI] 如果细胞真的愿意朝着一个特定的方向构建。
+
+294
+00:14:11.984 --> 00:14:15.675
+we could take genetically unaltered cells.
+[AI] 我们可以利用基因上没有改变的细胞。
+
+295
+00:14:15.699 --> 00:14:19.167
+and what you're seeing here is cells taken out of a frog body.
+[AI] 你在这里看到的是从青蛙身上取下的细胞。
+
+296
+00:14:19.191 --> 00:14:24.069
+They've coalesced in a way that asks them to re-envision their multicellularity.
+[AI] 它们以某种方式结合在一起，要求它们重新设想它们的多细胞性。
+
+297
+00:14:24.093 --> 00:14:25.258
+And what you see here
+[AI] 你在这里看到了什么
+
+298
+00:14:25.282 --> 00:14:28.277
+is that when liberated from the rest of the body of the animal.
+[AI] 就是从动物身体的其他部分解放出来的时候。
+
+299
+00:14:28.301 --> 00:14:32.225
+they make these tiny little novel bodies that are. in terms of behavior.
+[AI] 他们制造了这些微小的、新奇的身体。在行为方面。
+
+300
+00:14:32.249 --> 00:14:34.676
+you can see they can move. they can run a maze.
+[AI] 你可以看到他们可以移动。他们能跑迷宫。
+
+301
+00:14:34.700 --> 00:14:38.204
+They are completely different from frogs or tadpoles.
+[AI] 它们与青蛙或蝌蚪完全不同。
+
+302
+00:14:38.228 --> 00:14:44.359
+Frog cells. when asked to re-envision what kind of body they want to make.
+[AI] 青蛙细胞。当被要求重新设想他们想要做什么样的身体时。
+
+303
+00:14:44.383 --> 00:14:46.377
+do something incredibly interesting.
+[AI] 做一些非常有趣的事情。
+
+304
+00:14:46.401 --> 00:14:51.425
+They use the hardware that their genetics gives them.
+[AI] 他们使用基因赋予他们的硬件。
+
+305
+00:14:51.449 --> 00:14:53.853
+for example. these little hairs. these little cilia
+[AI] 例如这些小头发。这些小纤毛
+
+306
+00:14:53.877 --> 00:14:57.482
+that are normally used to redistribute mucus on the outside of a frog.
+[AI] 通常用于在青蛙的外部重新分配粘液。
+
+307
+00:14:57.505 --> 00:14:59.167
+those are genetically specified.
+[AI] 这些都是基因指定的。
+
+308
+00:14:59.191 --> 00:15:01.546
+But what these creatures did.
+[AI] 但是这些生物做了什么。
+
+309
+00:15:01.570 --> 00:15:06.219
+because the cells are able to form novel kinds of bodies.
+[AI] 因为这些细胞能够形成新的身体。
+
+310
+00:15:06.243 --> 00:15:08.914
+they have figured out how to use these little cilia
+[AI] 他们已经想出了如何使用这些小纤毛
+
+311
+00:15:08.937 --> 00:15:13.043
+to instead row against the water. and now have locomotion.
+[AI] 而是靠着水划船。现在有了运动。
+
+312
+00:15:13.067 --> 00:15:17.826
+So not only can they move around. but they can. and here what you're seeing.
+[AI] 所以他们不仅可以四处走动。但他们可以。这是你看到的。
+
+313
+00:15:17.850 --> 00:15:20.668
+is that these cells are coalescing together.
+[AI] 这些细胞正在结合在一起。
+
+314
+00:15:20.692 --> 00:15:24.279
+Now they're starting to have conversations about what they are going to do.
+[AI] 现在他们开始谈论他们将要做什么。
+
+315
+00:15:24.303 --> 00:15:28.080
+You can see here the flashes are these exchanges of information.
+[AI] 你可以看到这里的闪光是这些信息的交流。
+
+316
+00:15:28.104 --> 00:15:30.372
+Keep in mind. this is just skin.
+[AI] 牢记这只是皮肤。
+
+317
+00:15:30.396 --> 00:15:34.356
+There is no nervous system. There is no brain. This is just skin.
+[AI] 没有神经系统。没有大脑。这只是皮肤。
+
+318
+00:15:34.379 --> 00:15:36.855
+This is skin that has learned to make a new body
+[AI] 这是一种皮肤，它学会了塑造一个新的身体
+
+319
+00:15:36.879 --> 00:15:39.616
+and to explore its environment and move around.
+[AI] 探索它的环境，四处走动。
+
+320
+00:15:39.641 --> 00:15:42.172
+And they have spontaneous behaviors.
+[AI] 他们有自发的行为。
+
+321
+00:15:42.196 --> 00:15:44.675
+You can see here where it's swimming down this maze.
+[AI] 你可以在这里看到它在迷宫里游动。
+
+322
+00:15:44.699 --> 00:15:48.144
+At this point. it decides to turn around and go back where it came from.
+[AI] 在这一点上。它决定掉头回去。
+
+323
+00:15:48.167 --> 00:15:51.696
+So it has its own behavior. and this is a remarkable model system
+[AI] 所以它有自己的行为。这是一个了不起的模型系统
+
+324
+00:15:51.720 --> 00:15:52.921
+for several reasons.
+[AI] 有几个原因。
+
+325
+00:15:52.945 --> 00:15:56.693
+First of all. it shows us the amazing plasticity of cells
+[AI] 首先它向我们展示了细胞惊人的可塑性
+
+326
+00:15:56.716 --> 00:15:58.309
+that are genetically wild type.
+[AI] 基因上属于野生型。
+
+327
+00:15:58.334 --> 00:16:00.036
+There is no genetic editing here.
+[AI] 这里没有基因编辑。
+
+328
+00:16:00.060 --> 00:16:05.189
+These are cells that are really prone to making some sort of functional body.
+[AI] 这些细胞很容易形成某种功能性的身体。
+
+329
+00:16:05.212 --> 00:16:06.363
+The second thing.
+[AI] 第二件事。
+
+330
+00:16:06.388 --> 00:16:09.701
+and this was done in collaboration with Josh Bongard's lab at UVM.
+[AI] 这是与Josh Bongard在UVM的实验室合作完成的。
+
+331
+00:16:09.725 --> 00:16:16.010
+they modeled the structure of these things and evolved it in a virtual world.
+[AI] 他们对这些东西的结构进行建模，并在虚拟世界中进行演化。
+
+332
+00:16:16.034 --> 00:16:19.313
+So this is literally -- on a computer. they modeled it on a computer.
+[AI] 这实际上是在计算机上。他们在计算机上模拟了它。
+
+333
+00:16:19.337 --> 00:16:23.389
+So this is literally the only organism that I know of on the face of this planet
+[AI] 这是我所知道的唯一一种在这个星球上的生物
+
+334
+00:16:23.413 --> 00:16:26.572
+whose evolution took place not in the biosphere of the earth
+[AI] 他们的进化不是在地球的生物圈中发生的
+
+335
+00:16:26.596 --> 00:16:28.506
+but inside a computer.
+[AI] 但是在电脑里面。
+
+336
+00:16:28.531 --> 00:16:31.219
+So the individual cells have an evolutionary history.
+[AI] 所以单个细胞有进化史。
+
+337
+00:16:31.243 --> 00:16:33.686
+but this organism has never existed before.
+[AI] 但这种生物以前从未存在过。
+
+338
+00:16:33.710 --> 00:16:36.119
+It was evolved in this virtual world.
+[AI] 它是在这个虚拟世界中进化出来的。
+
+339
+00:16:36.143 --> 00:16:38.779
+and then we went ahead and made it in the lab.
+[AI] 然后我们继续在实验室里做了。
+
+340
+00:16:38.803 --> 00:16:41.307
+and you can see this amazing plasticity.
+[AI] 你可以看到这种惊人的可塑性。
+
+341
+00:16:41.331 --> 00:16:44.542
+This is not only for making useful machines.
+[AI] 这不仅仅是为了制造有用的机器。
+
+342
+00:16:44.566 --> 00:16:48.556
+You can imagine now programming these to go out into the environment
+[AI] 您可以想象，现在对这些进行编程以进入环境
+
+343
+00:16:48.580 --> 00:16:50.235
+and collect toxins and cleanup.
+[AI] 收集毒素并进行清理。
+
+344
+00:16:50.259 --> 00:16:52.753
+or you could imagine ones made out of human cells
+[AI] 或者你可以想象由人类细胞构成的细胞
+
+345
+00:16:52.777 --> 00:16:55.772
+that would go through your body and collect cancer cells
+[AI] 那会通过你的身体收集癌细胞
+
+346
+00:16:55.796 --> 00:16:58.220
+or reshape arthritic joints.
+[AI] 或者重塑关节炎的关节。
+
+347
+00:16:58.244 --> 00:17:00.614
+deliver pro-regenerative compounds.
+[AI] 提供促进再生的化合物。
+
+348
+00:17:00.638 --> 00:17:01.788
+all kinds of things.
+[AI] 各种各样的东西。
+
+349
+00:17:01.812 --> 00:17:05.287
+But not only these useful applications -- this is an amazing sandbox
+[AI] 但不仅仅是这些有用的应用程序--这是一个惊人的沙箱
+
+350
+00:17:05.311 --> 00:17:09.913
+for learning to communicate morphogenetic signals to cell collectives.
+[AI] 用于学习向细胞群体传达形态发生信号。
+
+351
+00:17:09.938 --> 00:17:14.844
+So once we crack this. once we understand how these cells decide what to do.
+[AI] 所以一旦我们破解了这个。一旦我们了解了这些细胞是如何决定做什么的。
+
+352
+00:17:14.867 --> 00:17:18.217
+and then we're going to. of course. learn to rewrite that information.
+[AI] 然后我们要去。当然学会重写这些信息。
+
+353
+00:17:18.240 --> 00:17:23.071
+the next steps are great improvements in regenerative medicine.
+[AI] 下一步是再生医学的重大改进。
+
+354
+00:17:23.095 --> 00:17:26.833
+because we will then be able to tell cells to build healthy organs.
+[AI] 因为我们将能够告诉细胞建立健康的器官。
+
+355
+00:17:26.856 --> 00:17:30.117
+And so this is now a really critical opportunity
+[AI] 因此，这是一个非常关键的机会
+
+356
+00:17:30.142 --> 00:17:32.239
+to learn to communicate with cell groups.
+[AI] 学会与细胞群沟通。
+
+357
+00:17:32.262 --> 00:17:34.801
+not to micromanage them. not to force the hardware.
+[AI] 而不是对他们进行微观管理。不要强迫硬件。
+
+358
+00:17:34.826 --> 00:17:38.976
+to communicate and rewrite the goals that these cells are trying to accomplish.
+[AI] 沟通和重写这些细胞试图实现的目标。
+
+359
+00:17:39.477 --> 00:17:41.459
+CA: Well. it's mind-boggling stuff.
+[AI] CA:嗯。这是令人难以置信的东西。
+
+360
+00:17:41.482 --> 00:17:44.640
+Finally. Mike. give us just one other story
+[AI] 最后迈克。再给我们讲一个故事
+
+361
+00:17:44.664 --> 00:17:47.776
+about medicine that might be to come
+[AI] 关于可能会出现的药物
+
+362
+00:17:47.799 --> 00:17:50.895
+as you develop this understanding
+[AI] 当你发展这种理解时
+
+363
+00:17:50.920 --> 00:17:53.683
+of how this bioelectric layer works.
+[AI] 这个生物电层是如何工作的。
+
+364
+00:17:54.268 --> 00:17:57.662
+ML: Yeah. this is incredibly exciting because. if you think about it.
+[AI] 是的。这是令人难以置信的兴奋，因为。如果你仔细想想。
+
+365
+00:17:57.687 --> 00:17:59.576
+most of the problems of biomedicine --
+[AI] 生物医学的大部分问题--
+
+366
+00:17:59.599 --> 00:18:05.665
+birth defects. degenerative disease. aging. traumatic injury. even cancer --
+[AI] 出生缺陷。退化性疾病。变老外伤。甚至癌症--
+
+367
+00:18:05.690 --> 00:18:07.403
+all boil down to one thing:
+[AI] 所有这些归结为一件事：
+
+368
+00:18:07.428 --> 00:18:10.338
+cells are not building what you would like them to build.
+[AI] 细胞并没有建立你想要他们建立的东西。
+
+369
+00:18:10.362 --> 00:18:13.817
+And so if we understood how to communicate with these collectives
+[AI] 如果我们了解如何与这些集体沟通
+
+370
+00:18:13.842 --> 00:18:18.409
+and really rewrite their target morphologies.
+[AI] 并真正改写他们的目标形态。
+
+371
+00:18:18.432 --> 00:18:20.624
+we would be able to normalize tumors.
+[AI] 我们可以使肿瘤正常化。
+
+372
+00:18:20.649 --> 00:18:22.618
+we would be able to repair birth defects.
+[AI] 我们将能够修复出生缺陷。
+
+373
+00:18:22.642 --> 00:18:25.226
+induce regeneration of limbs and other organs.
+[AI] 诱导肢体和其他器官再生。
+
+374
+00:18:25.249 --> 00:18:28.642
+and these are things we have already done in frog models.
+[AI] 这些都是我们在青蛙模型中已经做过的。
+
+375
+00:18:28.665 --> 00:18:31.327
+And so now the next really exciting step
+[AI] 现在是下一个非常激动人心的步骤
+
+376
+00:18:31.352 --> 00:18:35.081
+is to take this into mammalian cells
+[AI] 就是把它带进哺乳动物细胞
+
+377
+00:18:35.104 --> 00:18:38.591
+and to really turn this into the next generation of regenerative medicine
+[AI] 真正把它变成下一代再生医学
+
+378
+00:18:38.614 --> 00:18:43.135
+where we learn to address all of these biomedical needs
+[AI] 我们在那里学习如何满足所有这些生物医学需求
+
+379
+00:18:43.160 --> 00:18:45.239
+by communicating with the cell collectives
+[AI] 通过与细胞集体的沟通
+
+380
+00:18:45.264 --> 00:18:48.702
+and rewriting their bioelectric pattern memories.
+[AI] 重写他们的生物电模式记忆。
+
+381
+00:18:48.726 --> 00:18:52.287
+And the final thing I'd like to say is that the importance of this field
+[AI] 最后我想说的是，这个领域的重要性
+
+382
+00:18:52.312 --> 00:18:53.970
+is not only for biomedicine.
+[AI] 不仅仅是为了生物医学。
+
+383
+00:18:53.993 --> 00:18:56.156
+You see. this. as I started out by saying.
+[AI] 你看。这正如我一开始所说。
+
+384
+00:18:56.181 --> 00:18:58.793
+this ability of cells in novel environments
+[AI] 细胞在新环境中的这种能力
+
+385
+00:18:58.816 --> 00:19:02.760
+to build all kinds of things besides what their genome tells them
+[AI] 除了他们的基因组告诉他们的以外，还要建造各种各样的东西
+
+386
+00:19:02.785 --> 00:19:04.642
+is an example of intelligence.
+[AI] 是智力的一个例子。
+
+387
+00:19:04.665 --> 00:19:07.322
+and biology has been intelligently solving problems
+[AI] 生物学一直在智能地解决问题
+
+388
+00:19:07.346 --> 00:19:09.275
+long before brains came on the scene.
+[AI] 早在大脑出现之前。
+
+389
+00:19:09.298 --> 00:19:14.147
+And so this is also the beginnings of a new inspiration for machine learning
+[AI] 这也是机器学习新灵感的开始
+
+390
+00:19:14.172 --> 00:19:18.510
+that mimics the artificial intelligence of body cells. not just brains.
+[AI] 它模仿人体细胞的人工智能。不仅仅是大脑。
+
+391
+00:19:18.535 --> 00:19:21.755
+for applications in computer intelligence.
+[AI] 用于计算机智能应用。
+
+392
+00:19:24.017 --> 00:19:27.155
+CA: Mike Levin. thank you for your extraordinary work
+[AI] CA:迈克·莱文。谢谢你出色的工作
+
+393
+00:19:27.180 --> 00:19:29.483
+and for sharing it so compellingly with us.
+[AI] 和我们一起分享它。
+
+394
+00:19:29.507 --> 00:19:30.658
+Thank you.
+[AI] 非常感谢。
+
+395
+00:19:30.681 --> 00:19:32.681
+ML: Thank you so much. Thank you. Chris.
+[AI] 非常感谢你。非常感谢。克里斯。

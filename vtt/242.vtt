@@ -1,0 +1,796 @@
+WEBVTT
+
+1
+00:00:12.580 --> 00:00:14.555
+What if our plants
+如果我们的植物
+
+2
+00:00:14.580 --> 00:00:17.276
+could sense the toxicity levels in the soil
+能够感觉到土壤中的毒性强弱，
+
+3
+00:00:17.300 --> 00:00:20.340
+and express that toxicity through the color of its leaves?
+并通过叶子的颜色来表示毒性强弱。
+
+4
+00:00:21.500 --> 00:00:24.820
+What if those plants could also remove those toxins from the soil?
+如果这些植物还能够把毒素从土壤中移除？
+
+5
+00:00:26.380 --> 00:00:28.476
+Instead, what if those plants
+或者，如果那些植物
+
+6
+00:00:28.500 --> 00:00:30.356
+grew their own packaging,
+生长自己的包装，
+
+7
+00:00:30.380 --> 00:00:35.236
+or were designed to only be harvested by their owners' own patented machines?
+或者只能被所有者的专利机器收割。
+
+8
+00:00:35.260 --> 00:00:37.156
+What happens when biological design
+当生物设计是被大批量产品所驱使
+
+9
+00:00:37.180 --> 00:00:40.716
+is driven by the motivations of mass-produced commodities?
+事情会是怎样？
+
+10
+00:00:40.740 --> 00:00:42.340
+What kind of world would that be?
+那样的世界会是怎么样？
+
+11
+00:00:43.060 --> 00:00:47.076
+My name is Ani, and I'm a designer and researcher at MIT Media Lab,
+我的名字是安妮，我是MIT媒体实验室的一个设计师和研究人员，
+
+12
+00:00:47.100 --> 00:00:51.236
+where I'm part of a relatively new and unique group called Design Fiction,
+我是新成立的组织“虚构设计”的一员，
+
+13
+00:00:51.260 --> 00:00:55.356
+where we're wedged somewhere between science fiction and science fact.
+我们挤在科幻和科学之间。
+
+14
+00:00:55.380 --> 00:00:59.516
+And at MIT, I am lucky enough to rub shoulders with scientists
+在MIT，我很幸运能够和在最先进领域
+
+15
+00:00:59.540 --> 00:01:05.956
+studying all kinds of cutting edge fields like synthetic neurobiology, artificial intelligence, artificial life
+像人工神经学、人工智能、人工生活
+
+16
+00:01:04.516 --> 00:01:07.586
+and everything in between.
+等领域研究的科学家比肩。
+
+17
+00:01:07.740 --> 00:01:11.556
+And across campus, there's truly brilliant scientists
+校园里，有很多聪明的科学家
+
+18
+00:01:11.580 --> 00:01:15.076
+asking questions like, "How can I make the world a better place?"
+问像“我们如何让世界变的更好？”这样的问题。
+
+19
+00:01:15.100 --> 00:01:17.996
+And part of what my group likes to ask is, "What is better?"
+我的团队喜欢问的，是“什么是更好？”
+
+20
+00:01:18.020 --> 00:01:20.116
+What is better for you, for me,
+“更好”对于你，对于我，
+
+21
+00:01:20.140 --> 00:01:22.276
+for a white woman, a gay man,
+对于一个白人女士，一个同性恋男人，
+
+22
+00:01:22.300 --> 00:01:24.796
+a veteran, a child with a prosthetic?
+一个退役军人，一个有假体的孩子是什么？
+
+23
+00:01:24.820 --> 00:01:26.876
+Technology is never neutral.
+科技永远都不是中性的。
+
+24
+00:01:26.900 --> 00:01:28.556
+It frames a reality
+它搭建现实的框架，
+
+25
+00:01:28.580 --> 00:01:30.356
+and reflects a context.
+反射社会背景。
+
+26
+00:01:30.380 --> 00:01:34.116
+Can you imagine what it would say about the work-life balance at your office
+你能够想象如果这是你工作第一天的常见问题，
+
+27
+00:01:34.140 --> 00:01:36.316
+if these were standard issue on the first day?
+你在办公室的生活和工作的平衡会是怎样的吗？
+
+28
+00:01:36.340 --> 00:01:37.756
+(Laughter)
+（笑声）
+
+29
+00:01:37.780 --> 00:01:40.036
+I believe it's the role of artists and designers
+我相信是艺术家和设计师的责任，
+
+30
+00:01:40.060 --> 00:01:42.196
+to raise critical questions.
+来提出批判性问题。
+
+31
+00:01:42.220 --> 00:01:44.636
+Art is how you can see and feel the future,
+艺术是你能够看见和感受未来的方式，
+
+32
+00:01:44.660 --> 00:01:47.116
+and today is an exciting time to be a designer,
+现在成为一个设计师是很激动人心的，
+
+33
+00:01:47.140 --> 00:01:49.276
+for all the new tools becoming accessible.
+因为新的工具变的容易获取。
+
+34
+00:01:49.300 --> 00:01:50.876
+For instance, synthetic biology
+比如，人工生物学
+
+35
+00:01:50.900 --> 00:01:53.796
+seeks to write biology as a design problem.
+把生物学变成一个设计学。
+
+36
+00:01:53.820 --> 00:01:55.356
+And through these developments,
+通过这些发展，
+
+37
+00:01:55.380 --> 00:01:58.316
+my lab asks, what are the roles and responsibilities
+我的实验室问：作为一个艺术家、 设计师、科学家或者商人
+
+38
+00:02:01.426 --> 00:02:02.676
+of an artist, designer, scientist or businessman?
+的角色和责任？
+
+39
+00:02:02.700 --> 00:02:04.236
+What are the implications
+人工生物学、基因工程的含义是什么？
+
+40
+00:02:04.260 --> 00:02:06.996
+of synthetic biology, genetic engineering,
+以及它们是如何改变我们作为人类的概念？
+
+41
+00:02:07.020 --> 00:02:11.636
+and how are they shaping our notions of what it means to be a human?
+这对我们的社会、进化论的影响是什么？
+
+42
+00:02:11.660 --> 00:02:14.956
+What are the implications of this on society, on evolution
+这其中有哪些利害关系
+
+43
+00:02:14.980 --> 00:02:17.556
+and what are the stakes in this game?
+我的现在的臆想设计实验
+
+44
+00:02:17.580 --> 00:02:22.236
+My own speculative design research at the current moment plays with synthetic biology,
+和人工生物学有关，
+
+45
+00:02:22.260 --> 00:02:25.276
+but for more emotionally driven output.
+但是更和情感的表达有关。
+
+46
+00:02:25.300 --> 00:02:28.076
+I'm obsessed with olfaction as a design space,
+我痴迷于对气味的设计，
+
+47
+00:02:28.100 --> 00:02:30.916
+and this project started with this idea
+这个项目开始于一个主意：
+
+48
+00:02:30.940 --> 00:02:34.716
+of what if you could take a smell selfie, a smelfie?
+如果你能够有一个气味自拍？
+
+49
+00:02:34.740 --> 00:02:36.196
+(Laughter)
+（笑声）
+
+50
+00:02:36.220 --> 00:02:38.956
+What if you could take your own natural body odor
+如果你能够提取你的自然体味
+
+51
+00:02:38.980 --> 00:02:41.036
+and send it to a lover?
+并发给一个爱人？
+
+52
+00:02:41.060 --> 00:02:44.836
+Funny enough, I found that this was a 19th century Austrian tradition,
+很好笑的是，我发现这是奥地利19世纪的一个传统，
+
+53
+00:02:44.860 --> 00:02:47.476
+where couples in courtship would keep a slice of apple
+情侣在求爱期会在跳舞时
+
+54
+00:02:47.500 --> 00:02:50.076
+crammed under their armpit during dances,
+把一片苹果放在他们的腋下，
+
+55
+00:02:50.100 --> 00:02:51.636
+and at the end of the evening,
+在晚上快结束时，
+
+56
+00:02:51.660 --> 00:02:55.036
+the girl would give the guy she most fancied her used fruit,
+女孩会把用过的水果送给她最喜欢的男孩
+
+57
+00:02:55.060 --> 00:02:57.236
+and if the feeling was mutual,
+如果感情是相互的，
+
+58
+00:02:57.260 --> 00:02:59.196
+he would wolf down that stinky apple.
+他会吃掉那个有气味的苹果。
+
+59
+00:02:59.220 --> 00:03:02.340
+(Laughter)
+（笑声）
+
+60
+00:03:03.500 --> 00:03:06.796
+Famously, Napoleon wrote many love letters to Josephine,
+拿破仑给约瑟芬写了一份情书，
+
+61
+00:03:06.820 --> 00:03:11.076
+but perhaps amongst the most memorable is this brief and urgent note:
+但是可能情书中最值得记住的是这个简短迫切的话：
+
+62
+00:03:11.100 --> 00:03:13.316
+"Home in three days. Don't bathe."
+“三天内到家。不要洗澡。”
+
+63
+00:03:13.340 --> 00:03:15.396
+(Laughter)
+（笑声）
+
+64
+00:03:15.420 --> 00:03:17.580
+Both Napoleon and Josephine adored violets.
+拿破仑和约瑟芬都喜欢紫罗兰。
+
+65
+00:03:19.140 --> 00:03:21.276
+Josephine wore violet-scented perfume,
+约瑟芬用紫罗兰味道的香水，
+
+66
+00:03:21.300 --> 00:03:23.116
+carried violets on their wedding day,
+在婚礼当天戴紫罗兰花，
+
+67
+00:03:23.140 --> 00:03:25.155
+and Napoleon sent her a bouquet of violets
+拿破仑每年在纪念日
+
+68
+00:03:25.179 --> 00:03:26.716
+every year on their anniversary.
+都会送她一束紫罗兰。
+
+69
+00:03:26.740 --> 00:03:28.316
+When Josephine passed away,
+当约瑟芬去世的时候，
+
+70
+00:03:28.340 --> 00:03:29.916
+he planted violets at her grave,
+他在她的坟墓上种了紫罗兰，
+
+71
+00:03:29.940 --> 00:03:31.756
+and just before his exile,
+在他被驱逐前，
+
+72
+00:03:31.780 --> 00:03:33.916
+he went back to that tomb site,
+他回到她的坟墓，
+
+73
+00:03:33.940 --> 00:03:36.596
+picked some of those flowers, entombed them in a locket
+捡起一些花朵，放在项链坠内
+
+74
+00:03:36.620 --> 00:03:38.356
+and wore them until the day he died.
+并戴到他去世的那一天。
+
+75
+00:03:38.380 --> 00:03:39.916
+And I found this so moving,
+我觉得这非常感人，
+
+76
+00:03:39.940 --> 00:03:43.836
+I thought, could I engineer that violet to smell just like Josephine?
+我想，我能够改变那朵紫罗兰， 让它闻起来像约瑟芬吗？
+
+77
+00:03:43.860 --> 00:03:45.516
+What if, for the rest of eternity,
+如果，在未来，
+
+78
+00:03:45.540 --> 00:03:47.116
+when you went to visit her site,
+你去拜访她的坟墓，
+
+79
+00:03:47.140 --> 00:03:50.396
+you could smell Josephine just as Napoleon loved her?
+你能够闻到约瑟芬， 就像拿破仑那样爱她吗？
+
+80
+00:03:50.420 --> 00:03:52.836
+Could we engineer new ways of mourning,
+我们能够创造吊唁的新方式，
+
+81
+00:03:52.860 --> 00:03:54.956
+new rituals for remembering?
+新的记忆的仪式吗？
+
+82
+00:03:54.980 --> 00:03:57.676
+After all, we've engineered transgenic crops
+毕竟我们已经创造了转基因庄稼，
+
+83
+00:03:57.700 --> 00:03:59.836
+to be maximized for profit,
+来最大化收益，
+
+84
+00:03:59.860 --> 00:04:01.996
+crops that stand up to transport,
+能够承受住运输的庄稼，
+
+85
+00:04:02.020 --> 00:04:03.956
+crops that have a long shelf life,
+有长保质期的庄稼，
+
+86
+00:04:03.980 --> 00:04:06.436
+crops that taste sugary sweet but resist pests,
+吃起来很甜但是抵抗害虫的庄稼，
+
+87
+00:04:06.460 --> 00:04:09.876
+sometimes at the expense of nutritional value.
+有的时候以营养价值为代价。
+
+88
+00:04:09.900 --> 00:04:14.476
+Can we harness these same technologies for an emotionally sensitive output?
+我们能够有同样的科技，为了情感的表达吗？
+
+89
+00:04:14.500 --> 00:04:15.796
+So currently in my lab,
+所以现在在我的实验室里，
+
+90
+00:04:15.820 --> 00:04:19.116
+I'm researching questions like, what makes a human smell like a human?
+我在研究像“什么让人类闻起来像人类？”这样的问题。
+
+91
+00:04:19.140 --> 00:04:21.756
+And it turns out it's fairly complicated.
+结果，这挺复杂的。
+
+92
+00:04:21.780 --> 00:04:24.996
+Factors such as your diet, your medications, your lifestyle
+你的饮食，你的药物和你的生活方式等等因素
+
+93
+00:04:25.020 --> 00:04:27.036
+all factor into the way you smell.
+都影响你的气味。
+
+94
+00:04:27.060 --> 00:04:29.596
+And I found that our sweat is mostly odorless,
+我发现我们的汗绝大多数是无味的，
+
+95
+00:04:29.620 --> 00:04:31.755
+but it's our bacteria and microbiome
+但是是我们的细菌和微生物
+
+96
+00:04:31.779 --> 00:04:35.516
+that's responsible for your smells, your mood, your identity
+产生了我们的气味、我们的心情、
+
+97
+00:04:35.540 --> 00:04:37.156
+and so much beyond.
+我们的身份等等。
+
+98
+00:04:37.180 --> 00:04:39.476
+And there's all kinds of molecules that you emit
+你释放出非常多种分子
+
+99
+00:04:39.500 --> 00:04:41.780
+but which we only perceive subconsciously.
+被我们无意间接收。
+
+100
+00:04:42.940 --> 00:04:45.276
+So I've been cataloging and collecting
+所以我一直在分类和收集
+
+101
+00:04:45.300 --> 00:04:47.476
+bacteria from different sites of my body.
+我身体不同部分的细菌。
+
+102
+00:04:47.500 --> 00:04:49.476
+After talking to a scientist, we thought,
+在与一个科学家的谈话后，我们想，
+
+103
+00:04:49.500 --> 00:04:51.196
+maybe the perfect concoction of Ani
+安妮最好的混合体可能是
+
+104
+00:04:51.220 --> 00:04:55.196
+is like 10 percent collarbone, 30 percent underarm,
+10%的锁骨，30%的腋下，
+
+105
+00:04:55.220 --> 00:04:57.516
+40 percent bikini line and so forth,
+40%比基尼线等等，
+
+106
+00:04:57.540 --> 00:05:00.596
+and occasionally I let researchers from other labs
+偶尔，我让其他实验室的研究人员
+
+107
+00:05:00.620 --> 00:05:02.276
+take a sniff of my samples.
+闻闻我的样本。
+
+108
+00:05:02.300 --> 00:05:05.476
+And it's been interesting to hear how smell of the body
+身体的气味是如何在身体外被接收的
+
+109
+00:05:05.500 --> 00:05:08.316
+is perceived outside of the context of the body.
+一直让我觉得有兴趣。
+
+110
+00:05:08.340 --> 00:05:09.916
+I've gotten feedback such as,
+我听过反馈，
+
+111
+00:05:09.940 --> 00:05:12.396
+smells like flowers, like chicken,
+像闻起来像花朵，像鸡，
+
+112
+00:05:12.420 --> 00:05:13.636
+like cornflakes,
+像脆玉米片，
+
+113
+00:05:13.660 --> 00:05:15.116
+like beef carnitas.
+像墨西哥玉米牛肉卷。
+
+114
+00:05:15.140 --> 00:05:17.036
+(Laughter)
+（笑声）
+
+115
+00:05:17.060 --> 00:05:20.676
+At the same time, I cultivate a set of carnivorous plants
+同时，我种植了一系列食肉植物，
+
+116
+00:05:20.700 --> 00:05:24.356
+for their ability to emit fleshlike odors to attract prey,
+因为他们能够释放像动物一样的气味来吸引猎物，
+
+117
+00:05:24.380 --> 00:05:27.196
+in an attempt to kind of create this symbiotic relationship
+创造这种共生的关系，
+
+118
+00:05:27.220 --> 00:05:30.140
+between my bacteria and this organism.
+在我的细菌和这个生物之间。
+
+119
+00:05:31.340 --> 00:05:33.996
+And as it so happens, I'm at MIT and I'm in a bar,
+当这发生的时候， 我在MIT，我在一个酒吧里，
+
+120
+00:05:34.020 --> 00:05:36.316
+and I was talking to a scientist
+我在和一个科学家说话，
+
+121
+00:05:36.340 --> 00:05:38.716
+who happens to be a chemist and a plant scientist,
+他正好是一个化学家和植物学家，
+
+122
+00:05:38.740 --> 00:05:40.636
+and I was telling him about my project,
+我在跟他说关于我的项目，
+
+123
+00:05:40.660 --> 00:05:43.796
+and he was like, "Well, this sounds like botany for lonely women."
+他回答：“好吧，这听起来像是一个孤独的女人的园艺。”
+
+124
+00:05:43.820 --> 00:05:46.836
+(Laughter)
+（笑声）
+
+125
+00:05:46.860 --> 00:05:49.756
+Unperturbed, I said, "OK."
+我镇定地说：“好吧。”
+
+126
+00:05:49.780 --> 00:05:50.996
+I challenged him.
+我挑战了他，
+
+127
+00:05:51.020 --> 00:05:54.316
+"Can we engineer a plant that can love me back?"
+“我们能改造一个植物， 让它回应我的爱吗？”
+
+128
+00:05:54.340 --> 00:05:57.796
+And for some reason, he was like, "Sure, why not?"
+他回答：“当然，为什么不呢？”
+
+129
+00:05:57.820 --> 00:06:00.756
+So we started with, can we get a plant to grow towards me
+所以我们以“能否让一个植物朝我生长”开始，
+
+130
+00:06:00.780 --> 00:06:02.236
+like I was the sun?
+就好像我是太阳一样。
+
+131
+00:06:02.260 --> 00:06:06.196
+And so we're looking at mechanisms in plants such as phototropism,
+所以我们查找植物的机制，比如趋光性，
+
+132
+00:06:06.220 --> 00:06:08.396
+which causes the plant to grow towards the sun
+它让植物向太阳生长，
+
+133
+00:06:08.420 --> 00:06:10.396
+by producing hormones like auxin,
+通过分泌像生长素一样的荷尔蒙，
+
+134
+00:06:10.420 --> 00:06:13.076
+which causes cell elongation on the shady side.
+这能够引起在阴暗处的细胞生长。
+
+135
+00:06:13.100 --> 00:06:15.236
+And right now I'm creating a set of lipsticks
+现在，我在创造一套唇膏，
+
+136
+00:06:15.260 --> 00:06:17.076
+that are infused with these chemicals
+能够和这些化学成分融合，
+
+137
+00:06:17.100 --> 00:06:20.756
+that allow me to interact with a plant on its own chemical signatures --
+使我和一株有自己独特化学标志——唇膏的植物互动，
+
+138
+00:06:20.780 --> 00:06:24.196
+lipsticks that cause plants to grow where I kiss it,
+能够使我亲吻的那部分植物生长，
+
+139
+00:06:24.220 --> 00:06:26.956
+plants that blossom where I kiss the bloom.
+在我亲吻处开花。
+
+140
+00:06:26.980 --> 00:06:29.756
+And through these projects,
+通过这些项目，
+
+141
+00:06:29.780 --> 00:06:31.196
+I'm asking questions like,
+我问问题，像
+
+142
+00:06:31.220 --> 00:06:32.916
+how do we define nature?
+“我们如何定义自然？”
+
+143
+00:06:32.940 --> 00:06:36.476
+How do we define nature when we can reengineer its properties,
+我们如何定义自然， 当我们可以重建它的特点？
+
+144
+00:06:36.500 --> 00:06:37.916
+and when should we do it?
+什么时候我们应该付诸行动？
+
+145
+00:06:37.940 --> 00:06:41.636
+Should we do it for profit, for utility?
+我们应该以盈利还是效用为目的？
+
+146
+00:06:41.660 --> 00:06:43.356
+Can we do it for emotional ends?
+我们能够为感情需求做什么吗？
+
+147
+00:06:43.380 --> 00:06:46.956
+Can biotechnology be used to create work as moving as music?
+生物科技能否被用来创造动作或者音乐作品？
+
+148
+00:06:46.980 --> 00:06:51.740
+What are the thresholds between science and its ability to shape our emotional landscape?
+科学和改变我们情绪的门槛在哪里？
+
+149
+00:06:52.460 --> 00:06:56.236
+It's a famous design mantra that form follows function.
+形态和功能是设计最出名的颂歌。
+
+150
+00:06:56.260 --> 00:07:00.316
+Well, now, wedged somewhere between science, design and art
+挤在科学、设计和艺术之间，
+
+151
+00:07:00.340 --> 00:07:01.556
+I get to ask,
+我不得不问，
+
+152
+00:07:01.580 --> 00:07:03.036
+what if fiction informs fact?
+如果虚幻启发现实，会怎样？
+
+153
+00:07:03.060 --> 00:07:05.116
+What kind of R&amp;D lab would that look like
+那样的研究与开发实验室会是什么样子？
+
+154
+00:07:05.140 --> 00:07:07.756
+and what kind of questions would we ask together?
+我们应该一起问怎样的问题？
+
+155
+00:07:07.780 --> 00:07:10.116
+We often look to technology as the answer,
+我们通常认为科技是答案，
+
+156
+00:07:10.140 --> 00:07:11.676
+but as an artist and designer,
+但是作为一个艺术家和设计师，
+
+157
+00:07:11.700 --> 00:07:14.196
+I like to ask, but what is the question?
+我喜欢问问题，但是问题是什么？
+
+158
+00:07:14.220 --> 00:07:15.436
+Thank you.
+谢谢。
+
+159
+00:07:15.460 --> 00:07:18.820
+(Applause)
+（鼓掌）

@@ -1,0 +1,901 @@
+WEBVTT
+
+1
+00:00:12.860 --> 00:00:16.611
+I'm here to offer you a new way to think about my field,
+今天来到这里，是想邀请大家 从一个新的角度来看待我熟悉的领域：
+
+2
+00:00:16.635 --> 00:00:18.403
+artificial intelligence.
+人工智能。
+
+3
+00:00:18.427 --> 00:00:20.441
+I think the purpose of AI
+我认为人工智能的目的，
+
+4
+00:00:20.465 --> 00:00:23.899
+is to empower humans with machine intelligence.
+是要用机器智能 来增强人类的能力。
+
+5
+00:00:25.106 --> 00:00:27.556
+And as machines get smarter,
+而随着机器变得更聪明，
+
+6
+00:00:27.580 --> 00:00:28.833
+we get smarter.
+我们也会更聪明。
+
+7
+00:00:29.727 --> 00:00:32.239
+I call this "humanistic AI" --
+我称这个为“人性化 AI”——
+
+8
+00:00:32.263 --> 00:00:35.934
+artificial intelligence designed to meet human needs
+通过与 AI 合作并 强化人类的设计方式
+
+9
+00:00:35.958 --> 00:00:38.889
+by collaborating and augmenting people.
+来满足人类的需求。
+
+10
+00:00:39.969 --> 00:00:41.879
+Now, today I'm happy to see
+如今，我很高兴能看到
+
+11
+00:00:41.903 --> 00:00:44.080
+that the idea of an intelligent assistant
+智能助理的这个想法
+
+12
+00:00:44.104 --> 00:00:45.573
+is mainstream.
+能成为主流。
+
+13
+00:00:45.597 --> 00:00:50.657
+It's the well-accepted metaphor for the interface between humans and AI.
+这象征了人类与 AI 之间的互动 已被广泛接受。
+
+14
+00:00:51.376 --> 00:00:54.073
+And the one I helped create is called Siri.
+而其中一个我协助 创造的产品就是 Siri。
+
+15
+00:00:54.777 --> 00:00:55.929
+You know Siri.
+各位都认识 Siri。
+
+16
+00:00:55.953 --> 00:00:58.598
+Siri is the thing that knows your intent
+Siri 会知道你的意图，
+
+17
+00:00:58.622 --> 00:01:00.664
+and helps you do it for you,
+并协助你
+
+18
+00:01:00.688 --> 00:01:02.189
+helps you get things done.
+把一切搞定。
+
+19
+00:01:02.213 --> 00:01:04.687
+But what you might not know is that we designed Siri
+但各位可能不知道， 当初我们在设计 Siri 时，
+
+20
+00:01:05.465 --> 00:01:07.431
+as humanistic AI,
+就把它定位在“人性化 AI ”，
+
+21
+00:01:07.455 --> 00:01:10.626
+to augment people with a conversational interface
+通过对话的方式来强化人类体验，
+
+22
+00:01:10.650 --> 00:01:14.103
+that made it possible for them to use mobile computing,
+让使用行动计算成为可能，
+
+23
+00:01:14.127 --> 00:01:17.411
+regardless of who they were and their abilities.
+不论他们是谁、 能力如何，都可以使用。
+
+24
+00:01:18.634 --> 00:01:20.211
+Now for most of us,
+对我们大多数人而言，
+
+25
+00:01:20.235 --> 00:01:23.016
+the impact of this technology
+这项技术带来的影响
+
+26
+00:01:23.040 --> 00:01:25.323
+is to make things a little bit easier to use.
+是让东西更便于我们使用。
+
+27
+00:01:25.736 --> 00:01:27.915
+But for my friend Daniel,
+但对我朋友Daniel而言，
+
+28
+00:01:29.172 --> 00:01:32.343
+the impact of the AI in these systems is a life changer.
+这些系统中的AI功能 却改变了他的一生。
+
+29
+00:01:33.037 --> 00:01:37.870
+You see, Daniel is a really social guy,
+Daniel是个很爱社交的人，
+
+30
+00:01:37.894 --> 00:01:39.653
+and he's blind and quadriplegic,
+也是个四肢瘫痪的盲人，
+
+31
+00:01:40.434 --> 00:01:44.293
+which makes it hard to use those devices that we all take for granted.
+我们认为理所当然的设备， 对他来说却很难用。
+
+32
+00:01:44.317 --> 00:01:46.759
+The last time I was at his house, his brother said,
+上次我去他家，他哥哥说：
+
+33
+00:01:46.783 --> 00:01:48.641
+"Hang on a second, Daniel's not ready.
+“等等，Daniel还没准备好。
+
+34
+00:01:47.837 --> 00:01:51.879
+He's on the phone with a woman he met online."
+他正在和网上认识的女生打电话。”
+
+35
+00:01:52.070 --> 00:01:54.080
+I'm like, "That's cool, how'd he do it?"
+我说：“不错啊，他怎么办到的？”
+
+36
+00:01:54.104 --> 00:01:57.598
+Well, Daniel uses Siri to manage his own social life --
+事实上，Daniel用 Siri 来管理 他自己的社交生活——
+
+37
+00:01:58.551 --> 00:02:00.491
+his email, text and phone --
+他的电子邮件、短信、电话——
+
+38
+00:02:00.515 --> 00:02:02.991
+without depending on his caregivers.
+不用依赖他的照料人。
+
+39
+00:02:04.321 --> 00:02:06.059
+This is kind of interesting, right?
+这挺有趣的，对吧？
+
+40
+00:02:05.863 --> 00:02:07.400
+The irony here is great.
+不过也相当讽刺。
+
+41
+00:02:07.424 --> 00:02:10.320
+Here's the man whose relationship with AI
+这个人与 AI 的关系
+
+42
+00:02:10.344 --> 00:02:13.521
+helps him have relationships with genuine human beings.
+协助他与真正的人类建立了关系。
+
+43
+00:02:14.625 --> 00:02:17.755
+And this is humanistic AI.
+这就是人性化的人工智能。
+
+44
+00:02:19.224 --> 00:02:21.622
+Another example with life-changing consequences
+还有一个可以改变人生的例子，
+
+45
+00:02:21.646 --> 00:02:22.903
+is diagnosing cancer.
+也就是癌症诊断。
+
+46
+00:02:24.615 --> 00:02:26.770
+When a doctor suspects cancer,
+当医生怀疑你有癌症时，
+
+47
+00:02:26.794 --> 00:02:29.497
+they take a sample and send it to a pathologist,
+他们会先取样交给病理学家，
+
+48
+00:02:29.521 --> 00:02:31.473
+who looks at it under a microscope.
+病理学家再利用显微镜来看样本。
+
+49
+00:02:31.965 --> 00:02:34.490
+Now, pathologists look at hundreds of slides
+病理学家每天要看 数百片的载玻片
+
+50
+00:02:34.514 --> 00:02:36.838
+and millions of cells every day.
+及数百万个细胞。
+
+51
+00:02:37.450 --> 00:02:38.837
+So to support this task,
+所以为了支援这项工作，
+
+52
+00:02:38.861 --> 00:02:42.303
+some researchers made an AI classifier.
+有几位研究人员做出了一种 人工智能分类器。
+
+53
+00:02:43.368 --> 00:02:47.921
+Now, the classifier says, "Is this cancer or is this not cancer?"
+现在，分类器已经会看着图片分辨：
+
+54
+00:02:47.945 --> 00:02:49.250
+looking at the pictures.
+“这是不是癌症？”
+
+55
+00:02:50.175 --> 00:02:51.739
+The classifier was pretty good,
+分类器挺厉害的，
+
+56
+00:02:52.787 --> 00:02:54.472
+but not as good as the person,
+但没有人类那么厉害，
+
+57
+00:02:55.765 --> 00:02:57.533
+who got it right most of the time.
+人类大部分都能判读正确。
+
+58
+00:02:58.247 --> 00:03:04.427
+But when they combine the ability of the machine and the human together,
+但，当机器与人类的能力 结合在一起时，
+
+59
+00:03:04.451 --> 00:03:07.446
+accuracy went to 99.5 percent.
+正确率可以达到 99.5%。
+
+60
+00:03:08.970 --> 00:03:13.971
+Adding that AI to a partnership eliminated 85 percent of the errors
+加上人工智能的协作， 人类病理学家
+
+61
+00:03:13.995 --> 00:03:17.681
+that the human pathologist would have made working alone.
+能减少个人判断时 85% 的错误。
+
+62
+00:03:18.640 --> 00:03:21.799
+That's a lot of cancer that would have otherwise gone untreated.
+这其中很多的癌症患者， 当初就是因误判而耽搁了治疗。
+
+63
+00:03:22.917 --> 00:03:24.847
+Now, for the curious, it turns out
+人类因为好奇的原因，
+
+64
+00:03:24.871 --> 00:03:28.345
+that the human was better at rejecting false positives,
+比较擅长判断假阳性案例，
+
+65
+00:03:28.369 --> 00:03:31.941
+and the machine was better at recognizing those hard-to-spot cases.
+而机器则比较擅长判断 难以辨别的案例。
+
+66
+00:03:31.965 --> 00:03:35.202
+But the lesson here isn't about which agent is better
+但我们学到的并不是
+
+67
+00:03:33.228 --> 00:03:37.296
+at this image-classification task.
+谁在图像分类上比较厉害。
+
+68
+00:03:37.708 --> 00:03:39.547
+Those things are changing every day.
+那些东西每天都会变。
+
+69
+00:03:39.571 --> 00:03:41.139
+The lesson here
+这里我们学到的是，
+
+70
+00:03:41.163 --> 00:03:44.523
+is that by combining the abilities of the human and machine,
+通过结合人类与机器的能力，
+
+71
+00:03:44.547 --> 00:03:49.498
+it created a partnership that had superhuman performance.
+其创造出的合作关系 会有超人般的表现。
+
+72
+00:03:50.363 --> 00:03:53.303
+And that is humanistic AI.
+而这就是人性化的人工智能 。
+
+73
+00:03:54.607 --> 00:03:56.593
+Now let's look at another example
+我们再举个例子，
+
+74
+00:03:56.617 --> 00:03:58.904
+with turbocharging performance.
+这方面的进步也是突飞猛进。
+
+75
+00:03:58.928 --> 00:04:00.331
+This is design.
+那就是“设计”。
+
+76
+00:04:00.355 --> 00:04:02.396
+Now, let's say you're an engineer.
+假设你是个工程师，
+
+77
+00:04:02.420 --> 00:04:04.537
+You want to design a new frame for a drone.
+想要设计一个新的无人机骨架。
+
+78
+00:04:04.561 --> 00:04:07.625
+You get out your favorite software tools, CAD tools,
+你打开最爱的软件， 电脑绘图辅助工具（CAD），
+
+79
+00:04:07.649 --> 00:04:11.864
+and you enter the form and the materials, and then you analyze performance.
+输入了外形和材料， 然后按下分析表现。
+
+80
+00:04:11.888 --> 00:04:13.232
+That gives you one design.
+它只会跑出一种设计方案。
+
+81
+00:04:13.982 --> 00:04:17.659
+If you give those same tools to an AI,
+如果你把这些工具拿给 AI 使用，
+
+82
+00:04:17.683 --> 00:04:20.807
+it can generate thousands of designs.
+它会帮你跑出数千种设计。
+
+83
+00:04:22.013 --> 00:04:23.947
+This video by Autodesk is amazing.
+这段Autodesk 的影片非常震撼。
+
+84
+00:04:23.971 --> 00:04:25.271
+This is real stuff.
+这是真实案例。
+
+85
+00:04:25.912 --> 00:04:28.983
+So this transforms how we do design.
+这就改变了我们设计的方式。
+
+86
+00:04:29.007 --> 00:04:30.435
+The human engineer now
+现在，人类工程师
+
+87
+00:04:30.459 --> 00:04:33.774
+says what the design should achieve,
+只要说出想要实现的设计，
+
+88
+00:04:33.798 --> 00:04:34.954
+and the machine says,
+机器就会说：
+
+89
+00:04:34.978 --> 00:04:36.348
+"Here's the possibilities."
+”有这些可能性方案。”
+
+90
+00:04:37.578 --> 00:04:40.518
+Now in her job, the engineer's job
+现在，她作为工程师的工作，
+
+91
+00:04:40.542 --> 00:04:43.642
+is to pick the one that best meets the goals of the design,
+就是选出一种最符合目标的设计，
+
+92
+00:04:43.666 --> 00:04:47.005
+which she knows as a human better than anyone else,
+这是她身为人类最擅长的，
+
+93
+00:04:47.029 --> 00:04:48.823
+using human judgment and expertise.
+用的就是人类的判断和专业知识。
+
+94
+00:04:49.234 --> 00:04:50.814
+In this case, the winning form
+在这案例中，脱颖而出的设计
+
+95
+00:04:50.838 --> 00:04:53.549
+looks kind of like something nature would have designed,
+像是自然界设计出来的，
+
+96
+00:04:53.573 --> 00:04:55.688
+minus a few million years of evolution
+但这样的设计， 不需要几百万年的演化，
+
+97
+00:04:55.712 --> 00:04:58.093
+and all that unnecessary fur.
+也不需有那些皮毛。
+
+98
+00:05:00.244 --> 00:05:04.916
+Now let's see where this idea of humanistic AI might lead us
+我们现在来想想， 如果我们跟着人性化 AI 走，
+
+99
+00:05:04.940 --> 00:05:07.333
+if we follow it into the speculative beyond.
+它会把我们带到哪些 意想不到的境界？
+
+100
+00:05:07.938 --> 00:05:10.942
+What's a kind of augmentation that we would all like to have?
+我们想要实现哪些方面的强化？
+
+101
+00:05:11.349 --> 00:05:14.255
+Well, how about cognitive enhancement?
+认知强化如何？
+
+102
+00:05:15.724 --> 00:05:17.203
+Instead of asking,
+别再问：
+
+103
+00:05:17.227 --> 00:05:19.288
+"How smart can we make our machines?"
+“我们能把机器做到多聪明？”
+
+104
+00:05:19.312 --> 00:05:20.485
+let's ask
+而是要改问：
+
+105
+00:05:20.509 --> 00:05:23.214
+"How smart can our machines make us?"
+“我们的机器能把我们变得多聪明？”
+
+106
+00:05:24.925 --> 00:05:26.705
+I mean, take memory for example.
+举个例子，记忆。
+
+107
+00:05:27.331 --> 00:05:30.277
+Memory is the foundation of human intelligence.
+记忆是人类智能的基础。
+
+108
+00:05:31.587 --> 00:05:34.558
+But human memory is famously flawed.
+但人类的记忆力是出名的差。
+
+109
+00:05:35.361 --> 00:05:37.435
+We're great at telling stories,
+我们很会说故事，
+
+110
+00:05:37.459 --> 00:05:39.410
+but not getting the details right.
+但无法保证细节都是准确的。
+
+111
+00:05:39.434 --> 00:05:42.640
+And our memories -- they decay over time.
+我们的记忆——会随时间衰退。
+
+112
+00:05:42.664 --> 00:05:45.896
+I mean, like, where did the '60s go, and can I go there, too?
+比如，六十年代去哪了？ 我也能去那儿吗？
+
+113
+00:05:45.920 --> 00:05:47.387
+(Laughter)
+（笑声）
+
+114
+00:05:48.468 --> 00:05:52.772
+But what if you could have a memory that was as good as computer memory,
+但如果你能拥有和电脑 一样好的记忆力，
+
+115
+00:05:53.978 --> 00:05:56.837
+and was about your life?
+而且这些记忆与你的人生有关， 那会如何呢？
+
+116
+00:05:57.534 --> 00:06:00.323
+What if you could remember every person you ever met,
+如果你能记得 你见过的每一个人，
+
+117
+00:06:00.347 --> 00:06:02.293
+how to pronounce their name,
+叫得出每一个人的名字，
+
+118
+00:06:02.317 --> 00:06:04.409
+their family details, their favorite sports,
+家庭状况的细节， 他们最爱的运动，
+
+119
+00:06:04.433 --> 00:06:06.396
+the last conversation you had with them?
+你和他们上次的对话，那会如何呢？
+
+120
+00:06:05.856 --> 00:06:08.909
+If you had this memory all your life,
+如果你一生都有这样的记忆，
+
+121
+00:06:08.909 --> 00:06:12.397
+you could have the AI look at all the interactions
+你就可以让人工智能 去看看你过去
+
+122
+00:06:12.421 --> 00:06:13.838
+you had with people over time
+与人们的所有互动，
+
+123
+00:06:13.862 --> 00:06:17.655
+and help you reflect on the long arc of your relationships.
+并协助你反思你的人际关系。
+
+124
+00:06:18.350 --> 00:06:23.416
+What if you could have the AI read everything you've ever read
+如果我们能让人工智能去阅读 所有你阅读过的东西，
+
+125
+00:06:23.440 --> 00:06:25.954
+and listen to every song you've ever heard?
+去听你听过的每首歌，会如何呢？
+
+126
+00:06:27.164 --> 00:06:30.903
+From the tiniest clue, it could help you retrieve
+从最微小的线索， 它就能协助你找回
+
+127
+00:06:30.927 --> 00:06:33.040
+anything you've ever seen or heard before.
+你以前看过或听过的任何东西。
+
+128
+00:06:33.751 --> 00:06:37.001
+Imagine what that would do for the ability to make new connections
+想像一下，这对于 建立新连结以及
+
+129
+00:06:36.165 --> 00:06:38.605
+and form new ideas.
+产生新点子的能力会有什么影响。
+
+130
+00:06:38.629 --> 00:06:40.617
+And what about our bodies?
+那么，我们的身体呢？
+
+131
+00:06:41.552 --> 00:06:45.830
+What if we could remember the consequences of every food we eat,
+如果我们能记得吃过的每样食物，
+
+132
+00:06:45.854 --> 00:06:47.355
+every pill we take,
+每颗药物，
+
+133
+00:06:48.305 --> 00:06:50.140
+every all-nighter we pull?
+记得每次熬夜的内容， 那会如何？
+
+134
+00:06:50.868 --> 00:06:53.578
+We could do our own science on our own data
+我们可以用自己的资料 来做自己的科学，
+
+135
+00:06:53.602 --> 00:06:57.462
+about what makes us feel good and stay healthy.
+找出什么会让我们 感觉很好并保持健康。
+
+136
+00:06:57.486 --> 00:06:59.962
+And imagine how this could revolutionize
+想像一下，这会为我们管理
+
+137
+00:06:59.986 --> 00:07:02.676
+the way we manage allergies and chronic disease.
+过敏及慢性病带来怎样的革命。
+
+138
+00:07:04.729 --> 00:07:09.703
+I believe that AI will make personal memory enhancement a reality.
+我相信，人工智能能够 实现个人记忆的强化。
+
+139
+00:07:10.942 --> 00:07:13.766
+I can't say when or what form factors are involved,
+我不知道何时或需要哪些机缘，
+
+140
+00:07:14.447 --> 00:07:16.410
+but I think it's inevitable,
+但我认为它是一定会到来的，
+
+141
+00:07:17.743 --> 00:07:22.570
+because the very things that make AI successful today --
+因为人工智能在当今 够成功的原因就是这些——
+
+142
+00:07:22.594 --> 00:07:25.087
+the availability of comprehensive data
+唾手可得的综合性数据，
+
+143
+00:07:25.111 --> 00:07:28.659
+and the ability for machines to make sense of that data --
+以及机器能从这些数据中 理解出意义的能力——
+
+144
+00:07:28.683 --> 00:07:31.742
+can be applied to the data of our lives.
+能够被应用到我们生活中的数据上。
+
+145
+00:07:32.325 --> 00:07:35.812
+And those data are here today, available for all of us,
+我们现今就已经能够 取得那些数据了，
+
+146
+00:07:35.836 --> 00:07:39.704
+because we lead digitally mediated lives,
+因为我们可以直接用手机 或上网的方式，
+
+147
+00:07:40.390 --> 00:07:42.525
+in mobile and online.
+将我们的生活与数字科技做连结。
+
+148
+00:07:43.653 --> 00:07:47.543
+In my view, a personal memory is a private memory.
+依我所见，个人的记忆 是私人的记忆。
+
+149
+00:07:47.567 --> 00:07:51.504
+We get to choose what is and is not recalled and retained.
+我们可以选择要或不要， 回忆或保留哪些记忆。
+
+150
+00:07:52.337 --> 00:07:56.001
+It's absolutely essential that this be kept very secure.
+这种安全性绝对是有必要的。
+
+151
+00:07:57.114 --> 00:07:58.576
+Now for most of us,
+对大部份人来说，
+
+152
+00:07:58.600 --> 00:08:01.493
+the impact of augmented personal memory
+增强个人记忆所产生的影响会是：
+
+153
+00:08:01.517 --> 00:08:04.252
+will be a more improved mental gain,
+可以获得心智上的成长，
+
+154
+00:08:04.276 --> 00:08:06.731
+maybe, hopefully, a bit more social grace.
+或是希望可以有更好的社交能力。
+
+155
+00:08:08.478 --> 00:08:13.125
+But for the millions who suffer from Alzheimer's and dementia,
+但对于数百万受阿兹海默症 及痴呆症折磨的人而言，
+
+156
+00:08:15.029 --> 00:08:17.232
+the difference that augmented memory could make
+增加记忆能造成的改变
+
+157
+00:08:17.256 --> 00:08:19.717
+is a difference between a life of isolation
+就是让那孤独的人生，
+
+158
+00:08:20.836 --> 00:08:22.615
+and a life of dignity and connection.
+变成有尊严， 与生活保持连接的人生。
+
+159
+00:08:23.986 --> 00:08:29.633
+We are in the middle of a renaissance in artificial intelligence right now.
+我们现在正处于人工智能 繁荣发展的时期当中，
+
+160
+00:08:30.472 --> 00:08:32.443
+I mean, in just the past few years,
+仅仅在过去几年，
+
+161
+00:08:32.467 --> 00:08:36.098
+we're beginning to see solutions to AI problems
+我们就开始看到 人工智能问题的解决方法，
+
+162
+00:08:36.122 --> 00:08:40.092
+that we have struggled with literally for decades:
+而这在过去数十年来， 一直是无法解决的问题，比如：
+
+163
+00:08:41.046 --> 00:08:43.713
+speech understanding, text understanding,
+口语理解，文字理解，
+
+164
+00:08:43.737 --> 00:08:45.057
+image understanding.
+图像理解。
+
+165
+00:08:45.997 --> 00:08:50.072
+We have a choice in how we use this powerful technology.
+我们可以选择要 如何使用这强大的技术。
+
+166
+00:08:51.088 --> 00:08:55.952
+We can choose to use AI to automate and compete with us,
+我们可以选择用人工智能 来做自动化的工作，并与我们竞争，
+
+167
+00:08:55.976 --> 00:08:59.953
+or we can use AI to augment and collaborate with us,
+或我们可以选择用人工智能 来做增强化的工作，并与我们合作，
+
+168
+00:08:59.977 --> 00:09:03.048
+to overcome our cognitive limitations
+来克服我们的认知限制，
+
+169
+00:09:03.072 --> 00:09:06.234
+and to help us do what we want to do,
+并协助我们去做我们想要做的事，
+
+170
+00:09:06.258 --> 00:09:07.549
+only better.
+而且做得更好。
+
+171
+00:09:08.159 --> 00:09:14.663
+And as we discover new ways to give machines intelligence,
+随着我们发掘出新的方式 来将智能赋予机器，
+
+172
+00:09:14.687 --> 00:09:17.756
+we can distribute that intelligence
+我们可以把那种智能移转到
+
+173
+00:09:17.780 --> 00:09:20.161
+to all of the AI assistants in the world,
+全世界所有的人工智能助理身上，
+
+174
+00:09:20.185 --> 00:09:23.719
+and therefore to every person, regardless of circumstance.
+且不论如何，都要确保 每个人都能因此受惠。
+
+175
+00:09:25.009 --> 00:09:26.538
+And that is why,
+那就是为什么
+
+176
+00:09:26.562 --> 00:09:29.723
+every time a machine gets smarter,
+每次当机器变更得聪明，
+
+177
+00:09:30.448 --> 00:09:31.852
+we get smarter.
+我们也会变得更睿智。
+
+178
+00:09:32.848 --> 00:09:36.581
+That is an AI worth spreading.
+而这就是人工智能 值得推广的原因。
+
+179
+00:09:36.605 --> 00:09:37.787
+Thank you.
+谢谢大家。
+
+180
+00:09:37.811 --> 00:09:41.784
+(Applause)
+（掌声）
