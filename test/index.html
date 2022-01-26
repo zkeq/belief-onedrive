@@ -11,10 +11,10 @@
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
 <div id='write'  class=''>
-<h2 id='测试文件'><span>测试文件</span></h2><div id="play-651"></div>
+<h2 id='测试文件'><span>无字幕文件,可正常加载</span></h2><div id="play-01"></div>
 <script>
-const p651 = new DPlayer({
-    container: document.getElementById('play-651'),
+const p01 = new DPlayer({
+    container: document.getElementById('play-01'),
     theme:'#c61e07',
     preload:'none',
     video: {
@@ -22,7 +22,29 @@ const p651 = new DPlayer({
         url: 'https://zkeq-onedrive.vercel.app/api/name/video.mp4?path=/video.mp4&raw=true'
     },
 });
-</script><p>&nbsp;
+</script>
+<h2>相关说明</h2>
+<p><img alt="1" src="https://mapp.alicdn.com/16431788910039fOfzu7sc6CG5iT.png"/></p>
+<p>&nbsp;
+    <h2 id='测试文件'><span>有字幕文件,无法正常加载</span></h2><div id="play-02"></div>
+<script>
+const p02 = new DPlayer({
+    container: document.getElementById('play-02'),
+    theme:'#c61e07',
+    preload:'none',
+    video: {
+        pic:'https://s-bj-2220-zkeq.oss.dogecdn.com/head.jpg',
+        url: 'https://zkeq-onedrive.vercel.app/api/name/video.mp4?path=/video.mp4&raw=true'
+    },
+    subtitle: {
+        url:'https://s-bj-2220-open-srt.oss.dogecdn.com/22.vtt',
+        fontSize: '25px',
+    },
+});
+</script>
+<h2>相关说明</h2>
+<p><img alt="2" src="https://p.qlogo.cn/hy_personal/3e28f14aa05168427b7949703c5fd254db6920d132a71a83983f143e0debd5ce/0.png"/></p>
+<p>&nbsp;
 </script><p>&nbsp;</p><center><a style="color: rgb(254,17,130)" href="https://icp.gov.moe/?keyword=20223985" target="_blank">萌ICP备20223985号</a></center></div></div>
 </body>
 </html>
