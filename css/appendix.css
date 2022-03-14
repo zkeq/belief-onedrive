@@ -201,7 +201,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 @font-face{
     font-family: 'HYZhengYuan';
     src: local('HYZhengYuan'),
-    url('https://unpkg.zhimg.com/zkeq-font@1.2.0/MiSans-Medium.ttf') format('truetype');
+    url('https://npm.elemecdn.com/zkeq-font@1.2.0/MiSans-Medium.ttf') format('truetype');
     font-display: swap;
     font-weight: bold;
     font-style: normal;
@@ -209,7 +209,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 @font-face{
     font-family: 'Subtitle';
     src: local('Subtitle'),
-    url('https://unpkg.zhimg.com/zkeq-font@1.3.0/Subtitle.ttf') format('truetype');
+    url('https://npm.elemecdn.com/zkeq-font@1.3.0/Subtitle.ttf') format('truetype');
     font-display: swap;
     font-weight: bold;
     font-style: normal;
@@ -217,7 +217,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 @font-face{
     font-family: 'HarmonyOS';
     src: local('HarmonyOS'),
-    url('https://unpkg.zhimg.com/zkeq-font@1.6.0/HarmonyOS_Sans_Medium.ttf') format('truetype');
+    url('https://npm.elemecdn.com/zkeq-font@1.6.0/HarmonyOS_Sans_Medium.ttf') format('truetype');
     font-display: swap;
     font-weight: bold;
     font-style: normal;
@@ -225,7 +225,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 /* @font-face{
     font-family: 'HarmonyOS_zh';
     src: local('HarmonyOS_zh'),
-    url('https://unpkg.zhimg.com/zkeq-font@1.5.0/HarmonyOS.ttf') format('truetype');
+    url('https://npm.elemecdn.com/zkeq-font@1.5.0/HarmonyOS.ttf') format('truetype');
     font-display: swap;
     font-weight: bold;
     font-style: normal;
